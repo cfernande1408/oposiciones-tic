@@ -1,0 +1,985 @@
+{
+  "meta": {
+    "id": "ayto-tm-tic-2025",
+    "titulo": "Ayto. Madrid · Técnico/a Medio TIC (turno libre) · 1er ejercicio 01/06/2025",
+    "cuestionario": "https://www.madrid.es/UnidadWeb/Contenidos/Oposiciones/2023/TecnicoMedioTICTL/Ficheros/18plCuestionario.pdf",
+    "alegaciones": "https://www.madrid.es/UnidadWeb/Contenidos/Oposiciones/2023/TecnicoMedioTICTL/Ficheros/18plAnuncioAlegaciones.pdf",
+    "formato": "100 preguntas + 7 de reserva, 3 opciones, error resta 1/3",
+    "anuladas": [15, 47, 104],
+    "nota": "confianza 'tribunal' = respuesta confirmada en la resolución de alegaciones. El resto es propuesta: cotejar con la plantilla definitiva y marcar verificada=true."
+  },
+  "preguntas": [
+    {
+      "id": "ayto25-001", "numero": 1, "tema": 1, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Según el artículo 10 de la Constitución Española, son fundamento del orden político y de la paz social:",
+      "opciones": [
+        {"texto": "La dignidad de la persona y los derechos inviolables que le son inherentes.", "correcta": true, "explicacion": "Es el inicio literal del art. 10.1 CE, que añade el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás.", "fuente": "CE art. 10.1"},
+        {"texto": "La publicidad de las normas y la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.", "correcta": false, "explicacion": "Son principios que la Constitución 'garantiza' en el art. 9.3, no fundamentos del orden político.", "fuente": "CE art. 9.3"},
+        {"texto": "El principio de legalidad y la jerarquía normativa.", "correcta": false, "explicacion": "También pertenecen al catálogo de garantías del art. 9.3, no al art. 10.", "fuente": "CE art. 9.3"}
+      ]
+    },
+    {
+      "id": "ayto25-002", "numero": 2, "tema": 2, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "El artículo 141 de la Constitución Española dispone que:",
+      "opciones": [
+        {"texto": "El municipio es una entidad local con personalidad jurídica propia, determinada por la división territorial para el cumplimiento de las actividades del Estado.", "correcta": false, "explicacion": "Trampa: esa definición es de la PROVINCIA (art. 141.1), determinada por la agrupación de municipios y la división territorial.", "fuente": "CE art. 141.1"},
+        {"texto": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales por mayoría de tres quintas partes.", "correcta": false, "explicacion": "La alteración de límites provinciales exige ley orgánica, no mayoría de tres quintos.", "fuente": "CE art. 141.1"},
+        {"texto": "Se podrán crear agrupaciones de municipios diferentes de la provincia.", "correcta": true, "explicacion": "Reproduce literalmente el art. 141.3 CE.", "fuente": "CE art. 141.3"}
+      ]
+    },
+    {
+      "id": "ayto25-003", "numero": 3, "tema": 3, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes afirmaciones, sobre la figura del Presidente del Pleno, es correcta?:",
+      "opciones": [
+        {"texto": "La Presidencia del Pleno la ostenta exclusivamente el Alcalde.", "correcta": false, "explicacion": "No es exclusiva: el Alcalde puede promover que el Pleno designe a otro Presidente.", "fuente": "Ley 22/2006, de Capitalidad y Régimen Especial de Madrid (regulación del Pleno)"},
+        {"texto": "Se elegirá de entre los Concejales del pleno.", "correcta": false, "explicacion": "No es la regla general: por defecto preside el Alcalde, y solo si él lo promueve se designa un Presidente entre los concejales.", "fuente": "Ley 22/2006 (regulación del Pleno)"},
+        {"texto": "El Alcalde preside las sesiones del Pleno. No obstante, podrá promover la designación por el Pleno de un Presidente, de entre los Concejales.", "correcta": true, "explicacion": "Recoge el régimen especial de Madrid: preside el Alcalde, con la opción de que el Pleno designe un Presidente entre los concejales (en Madrid se ha usado esta figura).", "fuente": "Ley 22/2006 (regulación del Pleno); Reglamento Orgánico del Pleno"}
+      ],
+      "nota": "Confirmar el número de artículo exacto en la Ley 22/2006 antes de verificar."
+    },
+    {
+      "id": "ayto25-004", "numero": 4, "tema": 4, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "El órgano directivo al que corresponde el control interno de la gestión económica y financiera del sector público municipal y la función contable, es:",
+      "opciones": [
+        {"texto": "El/la titular de la Tesorería.", "correcta": false, "explicacion": "La Tesorería se ocupa de la gestión de tesorería (fondos, pagos y cobros) y la recaudación, no del control interno ni la contabilidad.", "fuente": "LRBRL art. 134"},
+        {"texto": "El/la titular de la Intervención General.", "correcta": true, "explicacion": "La Intervención General tiene atribuidas la función de control interno (interventora y de control financiero) y la función de contabilidad.", "fuente": "LRBRL art. 136"},
+        {"texto": "El/la titular de la Agencia Tributaria de Madrid.", "correcta": false, "explicacion": "La Agencia Tributaria Madrid es un organismo autónomo dedicado a la gestión, inspección y recaudación tributaria.", "fuente": "Programa tema 4; LRBRL art. 135"}
+      ]
+    },
+    {
+      "id": "ayto25-005", "numero": 5, "tema": 5, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "Según establece el Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid, el número de Áreas de Gobierno no podrán exceder de:",
+      "opciones": [
+        {"texto": "11.", "correcta": false, "explicacion": "Cifra no recogida en el ROGA.", "fuente": "ROGA (31/05/2004) art. 40"},
+        {"texto": "13.", "correcta": false, "explicacion": "Cifra no recogida en el ROGA.", "fuente": "ROGA (31/05/2004) art. 40"},
+        {"texto": "15.", "correcta": true, "explicacion": "El ROGA fija en quince el máximo de Áreas de Gobierno; el número concreto y sus denominaciones los decide el Alcalde por decreto. Aparece así en otros exámenes municipales.", "fuente": "ROGA (31/05/2004) art. 40"}
+      ],
+      "nota": "Pregunta recurrente en exámenes del Ayuntamiento. Leer el art. 40 del ROGA consolidado."
+    },
+    {
+      "id": "ayto25-006", "numero": 6, "tema": 7, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "A tenor de lo establecido en el artículo 56 del TREBEP, aprobado por R.D. Legislativo 5/2015, de 30 de octubre, para poder participar en los procesos selectivos es requisito imprescindible:",
+      "opciones": [
+        {"texto": "Poseer la capacidad funcional para el desempeño de las tareas.", "correcta": true, "explicacion": "Es uno de los requisitos generales del art. 56.1 TREBEP y no tiene excepciones.", "fuente": "TREBEP art. 56.1.b"},
+        {"texto": "Tener la nacionalidad española.", "correcta": false, "explicacion": "No es imprescindible: el art. 56.1.a remite al art. 57, que permite el acceso de nacionales de la UE y otros supuestos.", "fuente": "TREBEP arts. 56.1.a y 57"},
+        {"texto": "No haber sido suspendido mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas.", "correcta": false, "explicacion": "Trampa: la ley dice 'separado', no 'suspendido'.", "fuente": "TREBEP art. 56.1.d"}
+      ]
+    },
+    {
+      "id": "ayto25-007", "numero": 7, "tema": 9, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "De acuerdo con el artículo 63 de la Ley 39/2015, los procedimientos de naturaleza sancionadora:",
+      "opciones": [
+        {"texto": "Se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.", "correcta": true, "explicacion": "Reproduce literalmente el art. 63.1.", "fuente": "Ley 39/2015 art. 63.1"},
+        {"texto": "Se iniciarán siempre de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, debiendo encomendarse a un mismo órgano la fase instructora y la sancionadora.", "correcta": false, "explicacion": "Al contrario: instrucción y resolución deben encomendarse a órganos DISTINTOS.", "fuente": "Ley 39/2015 art. 63.1"},
+        {"texto": "Podrán iniciarse en cualquier caso nuevos procedimientos de carácter sancionador por hechos o conductas tipificadas como infracciones, en cuya comisión el infractor persista de forma continuada.", "correcta": false, "explicacion": "El art. 63.3 dice que NO podrán iniciarse nuevos procedimientos por infracciones continuadas mientras no haya recaído una primera resolución sancionadora ejecutiva.", "fuente": "Ley 39/2015 art. 63.3"}
+      ]
+    },
+    {
+      "id": "ayto25-008", "numero": 8, "tema": 10, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "Según dispone el artículo 12 de la Ley 40/2015, en relación con la delegación de firma:",
+      "opciones": [
+        {"texto": "Los titulares de los órganos administrativos podrán, en materias de su competencia, delegar la firma de sus resoluciones y actos administrativos en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes.", "correcta": false, "explicacion": "La delegación de firma se hace en órganos o unidades 'que de ellos dependan'. Delegar en órganos no dependientes es propio de la delegación de competencias (art. 9).", "fuente": "Ley 40/2015 art. 12.1"},
+        {"texto": "La delegación de firma no alterará la competencia del órgano delegante y para su validez será necesaria su publicación.", "correcta": false, "explicacion": "Para su validez NO es necesaria la publicación.", "fuente": "Ley 40/2015 art. 12.2"},
+        {"texto": "En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.", "correcta": true, "explicacion": "Es el texto literal del art. 12.3. El tribunal desestimó la impugnación que pedía la b) porque confundía la delegación de firma con la de competencias.", "fuente": "Ley 40/2015 art. 12.3; resolución de alegaciones"}
+      ]
+    },
+    {
+      "id": "ayto25-009", "numero": 9, "tema": 11, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Los contratos basados en un acuerdo marco se perfeccionan con su:",
+      "opciones": [
+        {"texto": "Formalización.", "correcta": false, "explicacion": "La regla general es que los contratos se perfeccionan con la formalización (art. 36.1), pero los basados en acuerdo marco son una excepción expresa.", "fuente": "LCSP art. 36.1"},
+        {"texto": "Adjudicación.", "correcta": true, "explicacion": "Los contratos basados en un acuerdo marco y los específicos de un sistema dinámico de adquisición se perfeccionan con su adjudicación.", "fuente": "LCSP art. 36.3"},
+        {"texto": "Notificación.", "correcta": false, "explicacion": "La notificación no es el momento de perfección de ningún contrato en la LCSP.", "fuente": "LCSP art. 36"}
+      ]
+    },
+    {
+      "id": "ayto25-010", "numero": 10, "tema": 14, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "De conformidad con lo establecido en el artículo 5 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres:",
+      "opciones": [
+        {"texto": "El principio de igualdad de trato y de oportunidades se garantizará en el acceso al empleo tanto en el ámbito público como en el privado, no resultando de aplicación en el ámbito del trabajo por cuenta propia.", "correcta": false, "explicacion": "El art. 5 incluye expresamente el trabajo por cuenta propia.", "fuente": "LO 3/2007 art. 5"},
+        {"texto": "No constituirá discriminación en el acceso al empleo, incluida la formación necesaria, una diferencia de trato basada en una característica relacionada con el sexo cuando dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado.", "correcta": true, "explicacion": "Es el segundo párrafo del art. 5, casi literal.", "fuente": "LO 3/2007 art. 5"},
+        {"texto": "Constituirá en todo caso discriminación en el acceso al empleo una diferencia de trato basada en una característica relacionada con el sexo aun cuando constituya un requisito profesional esencial y determinante.", "correcta": false, "explicacion": "Invierte la regla: la ley admite esa excepción cuando el objetivo es legítimo y el requisito proporcionado.", "fuente": "LO 3/2007 art. 5"}
+      ]
+    },
+    {
+      "id": "ayto25-011", "numero": 11, "tema": 16, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué norma establece los principios y requisitos mínimos para la protección de la información en las AAPP?",
+      "opciones": [
+        {"texto": "Ley 39/2015.", "correcta": false, "explicacion": "Regula el procedimiento administrativo común.", "fuente": "Ley 39/2015 art. 1"},
+        {"texto": "Real Decreto 311/2022.", "correcta": true, "explicacion": "Es el Esquema Nacional de Seguridad: fija los principios básicos y requisitos mínimos para proteger la información y los servicios.", "fuente": "RD 311/2022 art. 1"},
+        {"texto": "Ley Orgánica 3/2018.", "correcta": false, "explicacion": "Es la LOPDGDD: protege datos personales, no la información en general.", "fuente": "LO 3/2018 art. 1"}
+      ]
+    },
+    {
+      "id": "ayto25-012", "numero": 12, "tema": 17, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Según el artículo 38.3 de la Ley 40/2015, cada Administración determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de:",
+      "opciones": [
+        {"texto": "Transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad.", "correcta": true, "explicacion": "Lista literal del art. 38.3.", "fuente": "Ley 40/2015 art. 38.3"},
+        {"texto": "Transparencia, confidencialidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad.", "correcta": false, "explicacion": "Cambia 'publicidad' por 'confidencialidad'.", "fuente": "Ley 40/2015 art. 38.3"},
+        {"texto": "Transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, compatibilidad e interoperabilidad.", "correcta": false, "explicacion": "Cambia 'neutralidad' por 'compatibilidad'.", "fuente": "Ley 40/2015 art. 38.3"}
+      ]
+    },
+    {
+      "id": "ayto25-013", "numero": 13, "tema": 18, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En arquitecturas paralelas, ¿cuál es la principal diferencia entre SMP y MPP en cuanto al acceso y gestión de la memoria principal?",
+      "opciones": [
+        {"texto": "Ambos sistemas utilizan memoria distribuida, pero SMP la gestiona con un único sistema operativo.", "correcta": false, "explicacion": "SMP usa memoria compartida, no distribuida.", "fuente": "Hennessy & Patterson, Computer Architecture, cap. multiprocesadores"},
+        {"texto": "SMP permite a todos los procesadores acceder de forma uniforme a una memoria compartida centralizada, mientras que en MPP cada nodo gestiona su propia memoria privada.", "correcta": true, "explicacion": "SMP es memoria compartida de acceso uniforme (UMA). MPP es 'shared-nothing': cada nodo tiene su memoria y se comunica por paso de mensajes.", "fuente": "Hennessy & Patterson, Computer Architecture"},
+        {"texto": "MPP utiliza memoria compartida para mejorar la comunicación entre nodos, mientras que SMP usa memoria distribuida para mayor escalabilidad.", "correcta": false, "explicacion": "Es exactamente al revés.", "fuente": "Hennessy & Patterson, Computer Architecture"}
+      ]
+    },
+    {
+      "id": "ayto25-014", "numero": 14, "tema": 19, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cómo se denomina el formato de archivo ejecutable utilizado por Windows y que está basado en COFF?:",
+      "opciones": [
+        {"texto": "PE (Portable Executable).", "correcta": true, "explicacion": "PE/COFF es el formato de .exe, .dll y .sys en Windows, derivado de COFF.", "fuente": "Microsoft Learn: PE Format"},
+        {"texto": "ELF (Executable Linkable Format).", "correcta": false, "explicacion": "ELF es el formato de Linux y otros Unix (System V ABI).", "fuente": "System V ABI / man 5 elf"},
+        {"texto": "EXE-FT (Microsoft EXEcutable Format).", "correcta": false, "explicacion": "No existe ese formato; es un distractor inventado.", "fuente": "Microsoft Learn: PE Format"}
+      ]
+    },
+    {
+      "id": "ayto25-015", "numero": 15, "tema": 20, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": true,
+      "enunciado": "¿Cuál de los siguientes lenguajes de programación sería el más adecuado si queremos implantar un sistema de captura de eventos en tiempo real?",
+      "opciones": [
+        {"texto": "RxPY.", "correcta": false, "explicacion": "Es una librería de programación reactiva (ReactiveX) para Python, no un lenguaje.", "fuente": "ReactiveX/RxPY"},
+        {"texto": "ReactSQL.", "correcta": false, "explicacion": "No es un lenguaje reconocido.", "fuente": "—"},
+        {"texto": "Kafka.", "correcta": false, "explicacion": "Apache Kafka es una plataforma de streaming de eventos, no un lenguaje de programación.", "fuente": "kafka.apache.org"}
+      ],
+      "nota": "ANULADA por el tribunal: ninguna opción es claramente un lenguaje."
+    },
+    {
+      "id": "ayto25-016", "numero": 16, "tema": 21, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una plataforma de Business Intelligence que puede servir a las organizaciones para ayudar en la toma de decisiones?:",
+      "opciones": [
+        {"texto": "Qlik Sense.", "correcta": true, "explicacion": "Plataforma de BI y analítica de datos de Qlik.", "fuente": "qlik.com"},
+        {"texto": "Ghidra.", "correcta": false, "explicacion": "Herramienta de ingeniería inversa de software publicada por la NSA.", "fuente": "ghidra-sre.org"},
+        {"texto": "Pentaco.", "correcta": false, "explicacion": "Trampa ortográfica: la plataforma BI se llama Pentaho; 'Pentaco' no existe.", "fuente": "Pentaho (Hitachi Vantara)"}
+      ]
+    },
+    {
+      "id": "ayto25-017", "numero": 17, "tema": 22, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Quién introdujo el modelo relacional de bases de datos?:",
+      "opciones": [
+        {"texto": "Larry Ellison.", "correcta": false, "explicacion": "Cofundador de Oracle, que comercializó uno de los primeros SGBD relacionales, pero no creó el modelo.", "fuente": "Historia de Oracle Corporation"},
+        {"texto": "Edgar F. Codd.", "correcta": true, "explicacion": "Lo propuso en IBM en 1970 con 'A Relational Model of Data for Large Shared Data Banks'.", "fuente": "Codd, CACM 13(6), 1970"},
+        {"texto": "Tim Berners-Lee.", "correcta": false, "explicacion": "Inventor de la World Wide Web (1989-1991).", "fuente": "w3.org/People/Berners-Lee"}
+      ]
+    },
+    {
+      "id": "ayto25-018", "numero": 18, "tema": 23, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es una característica propia de la introspección en GraphQL?",
+      "opciones": [
+        {"texto": "Permite a un cliente ejecutar mutaciones de forma automática basándose en los cambios detectados en el servidor.", "correcta": false, "explicacion": "La introspección es de solo lectura sobre el esquema; los avisos de cambios son cosa de las subscriptions.", "fuente": "GraphQL Spec, Introspection"},
+        {"texto": "Permite a un cliente consultar el esquema del servidor, incluyendo los tipos disponibles y sus campos, mediante consultas especiales.", "correcta": true, "explicacion": "Se hace con los campos meta __schema y __type; así funcionan GraphiQL y los generadores de código.", "fuente": "GraphQL Spec, Introspection"},
+        {"texto": "Permite al servidor optimizar resoluciones de campos agrupando múltiples consultas en una sola operación a bajo nivel.", "correcta": false, "explicacion": "Eso es batching (p. ej. DataLoader), una técnica de implementación ajena a la introspección.", "fuente": "graphql/dataloader"}
+      ]
+    },
+    {
+      "id": "ayto25-019", "numero": 19, "tema": 24, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En el modelo TCP/IP, ¿cuál es la principal diferencia entre TCP y UDP en la capa de transporte?:",
+      "opciones": [
+        {"texto": "UDP establece una conexión previa y garantiza la entrega de datos, mientras TCP no.", "correcta": false, "explicacion": "Es al revés.", "fuente": "RFC 768; RFC 9293"},
+        {"texto": "TCP garantiza la entrega y el orden de los paquetes, mientras UDP es no orientado a conexión y no asegura entrega.", "correcta": true, "explicacion": "TCP es orientado a conexión, fiable y ordenado. UDP es datagrama sin conexión ni garantías.", "fuente": "RFC 9293 (TCP); RFC 768 (UDP)"},
+        {"texto": "Ambos protocolos garantizan entrega y control de flujo, pero TCP añade cifrado por defecto.", "correcta": false, "explicacion": "UDP no garantiza nada y TCP no cifra; el cifrado lo pone TLS por encima.", "fuente": "RFC 9293; RFC 8446"}
+      ]
+    },
+    {
+      "id": "ayto25-020", "numero": 20, "tema": 25, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el beneficio arquitectónico fundamental de la separación estricta entre HTML (estructura), CSS (presentación) y JavaScript (comportamiento)?",
+      "opciones": [
+        {"texto": "Reducir directamente la complejidad algorítmica del código JavaScript necesario para la interactividad.", "correcta": false, "explicacion": "Separar capas no cambia la complejidad algorítmica del código.", "fuente": "Principio de separación de responsabilidades (W3C)"},
+        {"texto": "Facilitar el mantenimiento, la reutilización, la adaptabilidad (responsive) y la accesibilidad, al permitir que la estructura semántica sea independiente de su estilo y comportamiento.", "correcta": true, "explicacion": "Es la justificación clásica del 'progressive enhancement' y de la separación de capas.", "fuente": "W3C: Separation of content and presentation"},
+        {"texto": "Permitir que el código HTML sea precompilado en el servidor para una ejecución más rápida en el cliente.", "correcta": false, "explicacion": "HTML es un lenguaje de marcado: el navegador lo interpreta, no se compila como Java o C++.", "fuente": "WHATWG HTML Living Standard"}
+      ]
+    },
+    {
+      "id": "ayto25-021", "numero": 21, "tema": 26, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Respecto a ISO 20000 e ITIL, ¿cuál es correcta en cuanto a su capacidad para certificar organizaciones en gestión de servicios TI?:",
+      "opciones": [
+        {"texto": "La ISO 20000 permite certificar a las organizaciones.", "correcta": true, "explicacion": "ISO/IEC 20000-1 es una norma de requisitos certificable por entidades acreditadas.", "fuente": "ISO/IEC 20000-1"},
+        {"texto": "Tanto la ISO 20000 como ITIL v3 permiten certificar a las organizaciones.", "correcta": false, "explicacion": "ITIL es un marco de buenas prácticas: certifica a personas, no a organizaciones.", "fuente": "AXELOS/PeopleCert, esquema de certificación ITIL"},
+        {"texto": "La ISO 20000 permite certificar a personas, e ITIL v3 permite certificar a las organizaciones.", "correcta": false, "explicacion": "Está invertido.", "fuente": "ISO/IEC 20000-1; AXELOS"}
+      ]
+    },
+    {
+      "id": "ayto25-022", "numero": 22, "tema": 27, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Para la gestión de la continuidad de un sistema de información, ¿cuáles de los siguientes grupos de normas serían de aplicación?",
+      "opciones": [
+        {"texto": "ISO 20000, ENI e ISO 27001.", "correcta": false, "explicacion": "El ENI trata de interoperabilidad, no de continuidad.", "fuente": "RD 4/2010 (ENI)"},
+        {"texto": "ISO 22301, ENS e ISO 27001.", "correcta": true, "explicacion": "ISO 22301 es la norma de continuidad de negocio, el ENS incluye la medida op.cont y la ISO 27001 incluye controles de continuidad.", "fuente": "ISO 22301; RD 311/2022 anexo II (op.cont); ISO/IEC 27001"},
+        {"texto": "ISO 20000, ENS e ISO 45001.", "correcta": false, "explicacion": "ISO 45001 es seguridad y salud en el trabajo.", "fuente": "ISO 45001"}
+      ]
+    },
+    {
+      "id": "ayto25-023", "numero": 23, "tema": 28, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué es una vulnerabilidad?",
+      "opciones": [
+        {"texto": "Un mecanismo de defensa del sistema.", "correcta": false, "explicacion": "Eso es una salvaguarda o control.", "fuente": "MAGERIT v3, Libro I"},
+        {"texto": "Una debilidad que puede ser explotada por una amenaza.", "correcta": true, "explicacion": "Es la definición estándar de vulnerabilidad.", "fuente": "ISO/IEC 27000; MAGERIT v3"},
+        {"texto": "Un ataque malicioso ya detectado.", "correcta": false, "explicacion": "Eso es un incidente de seguridad.", "fuente": "ISO/IEC 27000"}
+      ]
+    },
+    {
+      "id": "ayto25-024", "numero": 24, "tema": 29, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En la auditoría de sistemas en la nube (IaaS/PaaS), ¿cuál es el principal desafío al definir el alcance?",
+      "opciones": [
+        {"texto": "La imposibilidad técnica de aplicar CAATs/TAACs sobre la infraestructura del proveedor cloud.", "correcta": false, "explicacion": "Las CAATs se pueden aplicar sobre lo que controla el cliente y mediante APIs o logs; no hay imposibilidad técnica.", "fuente": "ISACA, auditoría cloud"},
+        {"texto": "Determinar y verificar la delimitación de responsabilidades sobre los controles entre el proveedor y el cliente (modelo de responsabilidad compartida).", "correcta": true, "explicacion": "El modelo de responsabilidad compartida es el eje del alcance en la nube.", "fuente": "CSA Cloud Controls Matrix; CCN-STIC 823"},
+        {"texto": "La falta de estándares internacionales de seguridad aplicables a la nube.", "correcta": false, "explicacion": "Sí existen: ISO/IEC 27017 y 27018, CSA CCM, ENS para la nube.", "fuente": "ISO/IEC 27017"}
+      ]
+    },
+    {
+      "id": "ayto25-025", "numero": 25, "tema": 30, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué es un sistema de gestión de relaciones con clientes (CRM) y cómo beneficia a las empresas?",
+      "opciones": [
+        {"texto": "Un sistema que centraliza la información de los clientes y permite personalizar la interacción para aumentar la satisfacción.", "correcta": true, "explicacion": "Es la definición de CRM: visión única del cliente y personalización multicanal.", "fuente": "Programa tema 30 (CRM, multicanal)"},
+        {"texto": "Un sistema utilizado solo para realizar ventas a través de canales físicos.", "correcta": false, "explicacion": "Un CRM es multicanal y no se limita a ventas.", "fuente": "Programa tema 30"},
+        {"texto": "Un software utilizado exclusivamente para la gestión de inventarios en línea.", "correcta": false, "explicacion": "Eso es gestión de inventario (ERP/SCM), no CRM.", "fuente": "Programa tema 30"}
+      ]
+    },
+    {
+      "id": "ayto25-026", "numero": 26, "tema": 31, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué instrumento jurídico protege los programas de ordenador según la legislación española?:",
+      "opciones": [
+        {"texto": "Patente tecnológica.", "correcta": false, "explicacion": "La Ley de Patentes excluye los programas de ordenador 'en cuanto tales' de la patentabilidad.", "fuente": "Ley 24/2015 de Patentes art. 4.4"},
+        {"texto": "Certificación digital.", "correcta": false, "explicacion": "Un certificado digital acredita identidad; no es un instrumento de protección de obras.", "fuente": "Reglamento eIDAS"},
+        {"texto": "Propiedad intelectual.", "correcta": true, "explicacion": "Los programas se protegen como obras: el art. 10.1.i los incluye y el Título VII del Libro I los regula.", "fuente": "RDL 1/1996 (LPI) art. 10.1.i y arts. 95-104"}
+      ]
+    },
+    {
+      "id": "ayto25-027", "numero": 27, "tema": 32, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Si fuera necesario lanzar un contrato para adquirir o desarrollar una nueva aplicación, ¿cuál sería el primer paso?",
+      "opciones": [
+        {"texto": "Consultar el directorio del Centro de Transferencia de Tecnología de la AGE y otros similares para confirmar si ya existe una aplicación reutilizable.", "correcta": true, "explicacion": "La ley obliga a consultar el directorio general de aplicaciones antes de adquirir o desarrollar; ese directorio es el CTT.", "fuente": "Ley 40/2015 art. 157.3"},
+        {"texto": "Revisar si existe algún producto con licencia en el SDA 25/2022 que se adapte.", "correcta": false, "explicacion": "Los instrumentos de contratación centralizada pueden usarse después, pero la ley impone primero la consulta de reutilización.", "fuente": "Ley 40/2015 art. 157.3"},
+        {"texto": "Revisar si existen servicios en la nube que se puedan contratar mediante SaaS.", "correcta": false, "explicacion": "Es una alternativa posterior, no el primer paso legal.", "fuente": "Ley 40/2015 art. 157.3"}
+      ]
+    },
+    {
+      "id": "ayto25-028", "numero": 28, "tema": 33, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una aplicación de gestión documental?",
+      "opciones": [
+        {"texto": "DocuFlex.", "correcta": false, "explicacion": "No es un producto de gestión documental reconocido en el mercado; nombre distractor.", "fuente": "—"},
+        {"texto": "DocuWare.", "correcta": true, "explicacion": "Sistema comercial de gestión documental y flujos de trabajo (ECM/DMS).", "fuente": "docuware.com"},
+        {"texto": "DocuGes.", "correcta": false, "explicacion": "No es un producto de gestión documental reconocido; nombre distractor.", "fuente": "—"}
+      ]
+    },
+    {
+      "id": "ayto25-029", "numero": 29, "tema": 35, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Según Scrum, ¿cuáles son las actividades básicas a realizar en cada Sprint?",
+      "opciones": [
+        {"texto": "Revisión del Sprint, Scrum Diario, Pruebas del Sprint, Retrospectiva del Sprint.", "correcta": false, "explicacion": "Las 'Pruebas del Sprint' no son un evento Scrum, y falta la Planificación.", "fuente": "Scrum Guide 2020, Scrum Events"},
+        {"texto": "Planificación del Sprint, Scrum Diario, Revisión del Sprint, Retrospectiva del Sprint.", "correcta": true, "explicacion": "Son los cuatro eventos que contiene el Sprint según la Guía Scrum.", "fuente": "Scrum Guide 2020, Scrum Events"},
+        {"texto": "Scrum Diario, Desarrollo del Sprint, Pruebas del Sprint, Retrospectiva del Sprint.", "correcta": false, "explicacion": "'Desarrollo' y 'Pruebas' no son eventos Scrum.", "fuente": "Scrum Guide 2020"}
+      ]
+    },
+    {
+      "id": "ayto25-030", "numero": 30, "tema": 35, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "¿Qué característica define a la metodología Métrica v3 frente a otras metodologías estructuradas?:",
+      "opciones": [
+        {"texto": "Su orientación exclusiva a aplicaciones web.", "correcta": false, "explicacion": "Métrica v3 es genérica para sistemas de información, no solo web.", "fuente": "Métrica v3, Introducción (PAe)"},
+        {"texto": "La separación clara entre fases y procesos, con entregables definidos en cada uno.", "correcta": true, "explicacion": "Se estructura en procesos (PSI, EVS, ASI, DSI, CSI, IAS, MSI) con actividades, tareas y productos definidos.", "fuente": "Métrica v3, Introducción"},
+        {"texto": "Cobertura única para desarrollo estructurado.", "correcta": false, "explicacion": "Cubre tanto el desarrollo estructurado como el orientado a objetos.", "fuente": "Métrica v3, Introducción"}
+      ]
+    },
+    {
+      "id": "ayto25-031", "numero": 31, "tema": 36, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Sobre las historias de usuario, ¿cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        {"texto": "Una historia de usuario siempre debería completarse dentro de un sprint.", "correcta": false, "explicacion": "Es verdadera como pauta: debe ser lo bastante pequeña para caber en un sprint (la 'S' de INVEST).", "fuente": "Bill Wake, INVEST (2003)"},
+        {"texto": "Una historia de usuario es la unidad de trabajo más pequeña en un marco ágil.", "correcta": false, "explicacion": "Es verdadera según la definición habitual (p. ej. Atlassian).", "fuente": "Atlassian Agile Coach: User stories"},
+        {"texto": "Cuando se crea una historia de usuario, se incluyen todos los detalles de los requisitos que forman parte de ella.", "correcta": true, "explicacion": "Es la FALSA: la historia es un recordatorio para conversar (Card, Conversation, Confirmation) y los detalles surgen después.", "fuente": "Ron Jeffries, las 3C (2001)"}
+      ]
+    },
+    {
+      "id": "ayto25-032", "numero": 32, "tema": 37, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es la diferencia fundamental entre un DFD y un Flujograma (de sistema o de programa)?",
+      "opciones": [
+        {"texto": "Los DFD utilizan exclusivamente símbolos estandarizados por ISO, mientras que los flujogramas permiten símbolos definidos por el usuario.", "correcta": false, "explicacion": "Es al revés: los flujogramas tienen símbolos normalizados (ISO 5807) y los DFD tienen varias notaciones (Yourdon, Gane-Sarson).", "fuente": "ISO 5807:1985"},
+        {"texto": "Los DFD modelan el flujo y transformación de datos sin indicar orden secuencial ni decisiones de control, mientras que los flujogramas representan la secuencia de operaciones y el flujo de control.", "correcta": true, "explicacion": "Los DFD no tienen control ni secuencia; los flujogramas sí.", "fuente": "Métrica v3, Técnicas: Diagrama de Flujo de Datos"},
+        {"texto": "Los flujogramas son obligatorios para documentar cualquier sistema según el ENS, mientras que los DFD son solo una recomendación.", "correcta": false, "explicacion": "El ENS no exige ninguna técnica de modelado concreta.", "fuente": "RD 311/2022"}
+      ]
+    },
+    {
+      "id": "ayto25-033", "numero": 33, "tema": 38, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En el modelo entidad-relación, ¿cuál es el propósito principal de una entidad fuerte frente a una entidad débil?:",
+      "opciones": [
+        {"texto": "La entidad fuerte se usa para relaciones ternarias, mientras que la débil solo en relaciones binarias.", "correcta": false, "explicacion": "El grado de la relación no tiene que ver con que una entidad sea fuerte o débil.", "fuente": "Elmasri & Navathe, Fundamentos de Sistemas de BD"},
+        {"texto": "La entidad fuerte posee un identificador propio, la débil depende de una entidad fuerte para identificarse.", "correcta": true, "explicacion": "La entidad débil tiene dependencia de identificación (clave parcial más la clave de la propietaria).", "fuente": "Elmasri & Navathe; Chen (1976)"},
+        {"texto": "La entidad débil representa subconjuntos opcionales de la entidad fuerte.", "correcta": false, "explicacion": "Eso describe la especialización o subtipos, no las entidades débiles.", "fuente": "Elmasri & Navathe, modelo EER"}
+      ]
+    },
+    {
+      "id": "ayto25-034", "numero": 34, "tema": 22, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Dentro del lenguaje SQL, ¿cuál de los siguientes es un operador de los denominados de conjuntos?",
+      "opciones": [
+        {"texto": "MERGE.", "correcta": false, "explicacion": "Sentencia DML de 'upsert' (insertar o actualizar).", "fuente": "ISO/IEC 9075 (SQL:2003, MERGE)"},
+        {"texto": "INTERSECT.", "correcta": true, "explicacion": "Operadores de conjuntos: UNION, INTERSECT y EXCEPT.", "fuente": "ISO/IEC 9075"},
+        {"texto": "AND.", "correcta": false, "explicacion": "Operador lógico para condiciones.", "fuente": "ISO/IEC 9075"}
+      ]
+    },
+    {
+      "id": "ayto25-035", "numero": 35, "tema": 40, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Si dos operaciones frecuentes sobre una lista son recorrerla hacia adelante y hacia atrás, ¿qué tipo de dato es más adecuado?",
+      "opciones": [
+        {"texto": "Lista simplemente enlazada.", "correcta": false, "explicacion": "Solo tiene puntero al siguiente: recorrer hacia atrás es O(n²) o exige estructuras auxiliares.", "fuente": "Cormen et al., Introduction to Algorithms, 10.2"},
+        {"texto": "Tabla Hash (mapa hash).", "correcta": false, "explicacion": "No mantiene orden secuencial.", "fuente": "Cormen et al., cap. 11"},
+        {"texto": "Lista doblemente enlazada.", "correcta": true, "explicacion": "Los punteros 'next' y 'prev' permiten recorrerla en ambos sentidos en O(n).", "fuente": "Cormen et al., 10.2"}
+      ]
+    },
+    {
+      "id": "ayto25-036", "numero": 36, "tema": 42, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "En un Diagrama de Estructura, ¿cómo se denomina la estructura cuando el módulo superior, en función de una decisión, llama a un módulo u otro de los de nivel inferior?",
+      "opciones": [
+        {"texto": "Estructura Condicional.", "correcta": false, "explicacion": "No es la denominación de Métrica v3 para esta estructura.", "fuente": "Métrica v3, Técnicas: Diagrama de Estructura"},
+        {"texto": "Estructura Secuencial.", "correcta": false, "explicacion": "En la secuencial el módulo superior llama a los inferiores en orden, sin decisión.", "fuente": "Métrica v3, Técnicas: Diagrama de Estructura"},
+        {"texto": "Estructura Alternativa.", "correcta": true, "explicacion": "Métrica distingue estructuras secuencial, repetitiva y alternativa; esta última se representa con un rombo.", "fuente": "Métrica v3, Técnicas: Diagrama de Estructura"}
+      ]
+    },
+    {
+      "id": "ayto25-037", "numero": 37, "tema": 44, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En Métrica v3, dentro del proceso CSI, ¿qué tipo de pruebas se llevan a cabo?",
+      "opciones": [
+        {"texto": "Unitarias, de integración, de sistema y de implantación.", "correcta": false, "explicacion": "Las de implantación pertenecen al proceso IAS.", "fuente": "Métrica v3, proceso IAS"},
+        {"texto": "Unitarias, de integración, de sistemas.", "correcta": true, "explicacion": "CSI ejecuta las pruebas unitarias, de integración y de sistema.", "fuente": "Métrica v3, proceso CSI"},
+        {"texto": "Unitarias, de integración, de sistemas y de aceptación.", "correcta": false, "explicacion": "Las de aceptación también pertenecen a IAS.", "fuente": "Métrica v3, proceso IAS"}
+      ]
+    },
+    {
+      "id": "ayto25-038", "numero": 38, "tema": 44, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En las pruebas de caja negra, ¿cuál es el fundamento principal sobre el que se diseñan los casos de prueba?",
+      "opciones": [
+        {"texto": "Las especificaciones funcionales y no funcionales (requisitos), sin conocer la implementación interna.", "correcta": true, "explicacion": "Caja negra significa probar contra la especificación (particiones de equivalencia, valores límite...).", "fuente": "ISO/IEC/IEEE 29119-4"},
+        {"texto": "El análisis de la estructura interna del código, buscando cubrir todas las sentencias y ramas.", "correcta": false, "explicacion": "Eso es caja blanca (cobertura de sentencias y decisiones).", "fuente": "ISO/IEC/IEEE 29119-4"},
+        {"texto": "La monitorización del consumo de CPU y memoria durante pruebas de rendimiento bajo carga.", "correcta": false, "explicacion": "Eso son pruebas de rendimiento, no el fundamento de la caja negra.", "fuente": "ISO/IEC/IEEE 29119"}
+      ]
+    },
+    {
+      "id": "ayto25-039", "numero": 39, "tema": 45, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En Métrica v3, dentro del proceso IAS, ¿cuál de las siguientes actividades corresponde al mismo?",
+      "opciones": [
+        {"texto": "Actividad IAS 1: Establecimiento de Requisitos de Implantación.", "correcta": false, "explicacion": "IAS 1 es 'Establecimiento del plan de implantación'. Los requisitos de implantación se especifican en ASI.", "fuente": "Métrica v3, proceso IAS"},
+        {"texto": "Actividad IAS 3: Preparación de la formación necesaria para usuarios.", "correcta": false, "explicacion": "La formación para la implantación es IAS 2; IAS 3 es la incorporación del sistema al entorno de operación.", "fuente": "Métrica v3, proceso IAS"},
+        {"texto": "Actividad IAS 7: Preparación del Mantenimiento del Sistema.", "correcta": true, "explicacion": "Coincide nombre y número de la actividad.", "fuente": "Métrica v3, proceso IAS"}
+      ]
+    },
+    {
+      "id": "ayto25-040", "numero": 40, "tema": 46, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Señale la respuesta INCORRECTA en relación con el Proceso Unificado de Desarrollo Software (PUDS):",
+      "opciones": [
+        {"texto": "Las fases que contempla son: Iniciación, Elaboración, Construcción y Pruebas.", "correcta": true, "explicacion": "Es la INCORRECTA: la cuarta fase es Transición, no Pruebas.", "fuente": "Jacobson, Booch, Rumbaugh, The Unified Software Development Process (1999)"},
+        {"texto": "Plantea un ciclo de vida iterativo e incremental, centrado en la arquitectura y dirigido por casos de uso.", "correcta": false, "explicacion": "Es correcta: son las tres señas de identidad del PUDS.", "fuente": "Jacobson et al. (1999)"},
+        {"texto": "En cada fase del PUDS se producen iteraciones que representan un ciclo de desarrollo completo.", "correcta": false, "explicacion": "Es correcta: cada iteración es un mini-ciclo de requisitos, análisis, diseño, implementación y prueba.", "fuente": "Jacobson et al. (1999)"}
+      ]
+    },
+    {
+      "id": "ayto25-041", "numero": 41, "tema": 47, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes NO es una característica del lenguaje Java?",
+      "opciones": [
+        {"texto": "Es compilado a bytecode.", "correcta": false, "explicacion": "Sí lo es: javac genera bytecode que ejecuta la JVM.", "fuente": "JVM Specification"},
+        {"texto": "Permite la herencia múltiple.", "correcta": true, "explicacion": "Una clase solo puede extender una superclase. La herencia múltiple solo es posible de interfaces (de tipo).", "fuente": "JLS §8.1.4"},
+        {"texto": "Fuertemente tipado.", "correcta": false, "explicacion": "Sí lo es: tipado estático y fuerte.", "fuente": "JLS cap. 4"}
+      ]
+    },
+    {
+      "id": "ayto25-042", "numero": 42, "tema": 48, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es la técnica principal utilizada por el Responsive Web Design (RWD) para adaptar la visualización a diferentes pantallas?",
+      "opciones": [
+        {"texto": "Desarrollar aplicaciones nativas separadas para cada sistema operativo móvil.", "correcta": false, "explicacion": "Eso es desarrollo nativo, lo opuesto a una única web adaptable.", "fuente": "Ethan Marcotte, Responsive Web Design (2010)"},
+        {"texto": "Detectar el User-Agent en el servidor y enviar una versión HTML diferente.", "correcta": false, "explicacion": "Eso es 'dynamic serving' o 'adaptive', no RWD.", "fuente": "Google Search Central: mobile sites"},
+        {"texto": "El uso combinado de rejillas fluidas, imágenes flexibles y CSS Media Queries.", "correcta": true, "explicacion": "Son los tres pilares de RWD definidos por Marcotte.", "fuente": "Marcotte (2010), A List Apart"}
+      ]
+    },
+    {
+      "id": "ayto25-043", "numero": 43, "tema": 49, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una característica del lenguaje JavaScript?",
+      "opciones": [
+        {"texto": "Es fuertemente tipado.", "correcta": false, "explicacion": "Es débilmente tipado, con coerción implícita (p. ej. '1' + 1 da '11').", "fuente": "ECMA-262, Type Conversion"},
+        {"texto": "Es orientado a aspectos.", "correcta": false, "explicacion": "Es multiparadigma (imperativo, funcional, orientado a objetos con prototipos), pero no orientado a aspectos.", "fuente": "ECMA-262"},
+        {"texto": "Permite el tipado dinámico.", "correcta": true, "explicacion": "Las variables no tienen tipo fijo; el tipo va con el valor en tiempo de ejecución.", "fuente": "ECMA-262"}
+      ]
+    },
+    {
+      "id": "ayto25-044", "numero": 44, "tema": 50, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el lenguaje oficial de desarrollo para aplicaciones iOS introducido por Apple en 2014?",
+      "opciones": [
+        {"texto": "Objective-C.", "correcta": false, "explicacion": "Es de los años 80 y fue el lenguaje histórico de NeXT y Apple antes de Swift.", "fuente": "Apple Developer"},
+        {"texto": "Swift.", "correcta": true, "explicacion": "Presentado en la WWDC de 2014.", "fuente": "swift.org; Apple WWDC 2014"},
+        {"texto": "Kotlin.", "correcta": false, "explicacion": "Es de JetBrains y el lenguaje preferente en Android (Google).", "fuente": "developer.android.com/kotlin"}
+      ]
+    },
+    {
+      "id": "ayto25-045", "numero": 45, "tema": 51, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de los siguientes visores GIS NO se puede ejecutar desde un navegador web?",
+      "opciones": [
+        {"texto": "OSM Viewer.", "correcta": false, "explicacion": "Los visores de OpenStreetMap son web.", "fuente": "openstreetmap.org"},
+        {"texto": "CARTO.", "correcta": false, "explicacion": "Es una plataforma de análisis y visualización geoespacial en la nube.", "fuente": "carto.com"},
+        {"texto": "ArcGIS Pro.", "correcta": true, "explicacion": "Es la aplicación de escritorio de Esri para Windows. La versión web es ArcGIS Online.", "fuente": "Esri: ArcGIS Pro system requirements"}
+      ]
+    },
+    {
+      "id": "ayto25-046", "numero": 46, "tema": 52, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "Según ISO/IEC 25010, ¿qué característica representa el grado en que un producto protege la información para que no autorizados no puedan leerla o modificarla, y que no se deniegue el acceso a los autorizados?",
+      "opciones": [
+        {"texto": "Fiabilidad (Reliability).", "correcta": false, "explicacion": "La fiabilidad es el desempeño de funciones en condiciones y tiempo especificados (madurez, disponibilidad, tolerancia a fallos, recuperabilidad).", "fuente": "ISO/IEC 25010:2011"},
+        {"texto": "Usabilidad (Usability).", "correcta": false, "explicacion": "La usabilidad es la facilidad de uso eficaz, eficiente y satisfactoria.", "fuente": "ISO/IEC 25010:2011"},
+        {"texto": "Seguridad (Security).", "correcta": true, "explicacion": "Es la definición literal de Security en ISO/IEC 25010. El tribunal la confirmó como única respuesta correcta.", "fuente": "ISO/IEC 25010:2011; resolución de alegaciones"}
+      ]
+    },
+    {
+      "id": "ayto25-047", "numero": 47, "tema": 53, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": true,
+      "enunciado": "En relación con las comunicaciones, quejas y reclamaciones del capítulo II del RD 1112/2018, indique la opción correcta:",
+      "opciones": [
+        {"texto": "Se presentan y registran conforme a la Ley 39/2015 y se habilita al menos uno de estos canales complementarios: un teléfono o una oficina física.", "correcta": false, "explicacion": "Según el tribunal no es la correcta.", "fuente": "RD 1112/2018 cap. II"},
+        {"texto": "Pueden presentarse por correo electrónico o formulario y se habilitan obligatoriamente un teléfono o una oficina física.", "correcta": false, "explicacion": "El tribunal reconoció que debería haber dicho 'un teléfono Y una oficina física'.", "fuente": "Resolución de alegaciones"},
+        {"texto": "Las solicitudes de información accesible se presentan conforme a la Ley 39/2015 y se responden en veinte días hábiles.", "correcta": true, "explicacion": "Era la respuesta prevista por el tribunal.", "fuente": "RD 1112/2018 cap. II; resolución de alegaciones"}
+      ],
+      "nota": "ANULADA por la redacción defectuosa de la opción b). Útil para repasar los plazos del RD 1112/2018."
+    },
+    {
+      "id": "ayto25-048", "numero": 48, "tema": 54, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué técnica de aprendizaje automático es más adecuada para descubrir grupos ocultos en un conjunto de datos?",
+      "opciones": [
+        {"texto": "Regresión lineal.", "correcta": false, "explicacion": "Es supervisada: predice un valor continuo.", "fuente": "Hastie et al., The Elements of Statistical Learning"},
+        {"texto": "Árboles de decisión.", "correcta": false, "explicacion": "Son supervisados: clasificación o regresión con datos etiquetados.", "fuente": "Hastie et al."},
+        {"texto": "K-Means clustering.", "correcta": true, "explicacion": "Agrupamiento no supervisado: particiona los datos en k clústeres.", "fuente": "scikit-learn docs: Clustering"}
+      ]
+    },
+    {
+      "id": "ayto25-049", "numero": 49, "tema": 55, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué herramienta, en sistemas Unix, permite ver procesos en ejecución?",
+      "opciones": [
+        {"texto": "Top.", "correcta": true, "explicacion": "Muestra en tiempo real los procesos y el uso de CPU y memoria.", "fuente": "man 1 top"},
+        {"texto": "Chmod.", "correcta": false, "explicacion": "Cambia permisos de ficheros.", "fuente": "man 1 chmod"},
+        {"texto": "Grep.", "correcta": false, "explicacion": "Busca patrones en texto.", "fuente": "man 1 grep"}
+      ]
+    },
+    {
+      "id": "ayto25-050", "numero": 50, "tema": 56, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué es la administración de datos dentro de un SGBD?",
+      "opciones": [
+        {"texto": "El desarrollo de aplicaciones externas.", "correcta": false, "explicacion": "Es tarea de desarrollo, no de administración de datos.", "fuente": "Programa tema 56"},
+        {"texto": "La gestión lógica y física de la información almacenada.", "correcta": true, "explicacion": "Abarca definición, organización, integridad y almacenamiento de los datos.", "fuente": "Programa tema 56; Date, An Introduction to Database Systems"},
+        {"texto": "El mantenimiento de redes.", "correcta": false, "explicacion": "Pertenece a la administración de comunicaciones.", "fuente": "Programa tema 63"}
+      ]
+    },
+    {
+      "id": "ayto25-051", "numero": 51, "tema": 57, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "De acuerdo con la definición de activo en la norma ISO 55000, indique cuál es la respuesta correcta:",
+      "opciones": [
+        {"texto": "Un activo siempre debe ser un bien tangible y financiero para que tenga valor.", "correcta": false, "explicacion": "La norma admite activos intangibles y valor no financiero.", "fuente": "ISO 55000:2014, 3.2.1"},
+        {"texto": "El valor de un activo puede ser tangible o intangible, y puede variar según la organización y sus partes interesadas.", "correcta": true, "explicacion": "Activo es un elemento o entidad con valor potencial o real, y ese valor depende de la organización y sus partes interesadas.", "fuente": "ISO 55000:2014, 3.2.1 y notas"},
+        {"texto": "Un activo solo tiene valor si se puede monetizar de manera inmediata.", "correcta": false, "explicacion": "El valor puede ser potencial y no financiero.", "fuente": "ISO 55000:2014"}
+      ]
+    },
+    {
+      "id": "ayto25-052", "numero": 52, "tema": 58, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En Ansible, ¿en qué formato se escriben los playbooks?",
+      "opciones": [
+        {"texto": "YAML.", "correcta": true, "explicacion": "Los playbooks se expresan en YAML.", "fuente": "docs.ansible.com: Intro to playbooks"},
+        {"texto": "JSON.", "correcta": false, "explicacion": "JSON se usa en salidas o inventarios dinámicos, no es el formato de los playbooks.", "fuente": "docs.ansible.com"},
+        {"texto": "XML.", "correcta": false, "explicacion": "Ansible no usa XML.", "fuente": "docs.ansible.com"}
+      ]
+    },
+    {
+      "id": "ayto25-053", "numero": 53, "tema": 59, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué significa rendimiento en el contexto de sistemas de información?",
+      "opciones": [
+        {"texto": "La velocidad de descarga de una aplicación móvil.", "correcta": false, "explicacion": "Es un caso particular de red, no la definición de rendimiento.", "fuente": "Programa tema 59"},
+        {"texto": "La eficacia con la que un sistema responde a las cargas de trabajo.", "correcta": true, "explicacion": "Rendimiento es la capacidad de atender la carga (tiempo de respuesta, throughput, uso de recursos).", "fuente": "Programa tema 59; ISO/IEC 25010 (eficiencia de desempeño)"},
+        {"texto": "El número de usuarios registrados.", "correcta": false, "explicacion": "Es un dato de negocio, no una medida de rendimiento.", "fuente": "Programa tema 59"}
+      ]
+    },
+    {
+      "id": "ayto25-054", "numero": 54, "tema": 60, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En una SAN Fibre Channel, ¿qué protocolo lleva los comandos SCSI dentro de las tramas FC?",
+      "opciones": [
+        {"texto": "NFS.", "correcta": false, "explicacion": "Protocolo de ficheros en red (NAS), sobre IP.", "fuente": "RFC 7530 (NFSv4)"},
+        {"texto": "SMB.", "correcta": false, "explicacion": "Protocolo de ficheros de Windows (NAS).", "fuente": "Microsoft [MS-SMB2]"},
+        {"texto": "FCP.", "correcta": true, "explicacion": "Fibre Channel Protocol: mapeo de SCSI sobre FC en la capa FC-4.", "fuente": "INCITS T10, FCP"}
+      ]
+    },
+    {
+      "id": "ayto25-055", "numero": 55, "tema": 61, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes NO es una medida de seguridad física habitual en los centros de tratamiento de información?",
+      "opciones": [
+        {"texto": "Control de accesos de tipo biométrico.", "correcta": false, "explicacion": "Sí es seguridad física: controla la entrada de personas al CPD.", "fuente": "RD 311/2022 anexo II, mp.if"},
+        {"texto": "Instalación de equipos Firewall.", "correcta": true, "explicacion": "Un firewall es seguridad lógica o de red, no física.", "fuente": "RD 311/2022 anexo II, mp.com"},
+        {"texto": "Instalación de detectores de humedad.", "correcta": false, "explicacion": "Sí es seguridad física (protección frente a inundaciones).", "fuente": "RD 311/2022 anexo II, mp.if"}
+      ]
+    },
+    {
+      "id": "ayto25-056", "numero": 56, "tema": 62, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué es una máquina virtual?",
+      "opciones": [
+        {"texto": "Un servidor físico exclusivo.", "correcta": false, "explicacion": "Es lo contrario de virtualizar.", "fuente": "Popek & Goldberg (1974)"},
+        {"texto": "Un entorno aislado que simula un ordenador completo.", "correcta": true, "explicacion": "Un hipervisor emula hardware completo para un sistema operativo invitado.", "fuente": "Popek & Goldberg (1974)"},
+        {"texto": "Un archivo de imagen de sistema.", "correcta": false, "explicacion": "La imagen o disco virtual es un componente de la VM, no la VM.", "fuente": "—"}
+      ]
+    },
+    {
+      "id": "ayto25-057", "numero": 57, "tema": 63, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el rol principal del gestor en la arquitectura SNMP descrita en la RFC 1157?",
+      "opciones": [
+        {"texto": "Recopilar, procesar y presentar información de red obtenida de los agentes SNMP.", "correcta": true, "explicacion": "Las estaciones de gestión consultan a los agentes y monitorizan los elementos de red.", "fuente": "RFC 1157"},
+        {"texto": "Generar traps para notificar errores de red a los agentes.", "correcta": false, "explicacion": "Al revés: los traps los envían los agentes al gestor.", "fuente": "RFC 1157, Trap-PDU"},
+        {"texto": "Actuar como intermediario entre el hardware de red y el protocolo TCP/IP.", "correcta": false, "explicacion": "Eso describe un driver o la pila de red, no SNMP.", "fuente": "RFC 1157"}
+      ]
+    },
+    {
+      "id": "ayto25-058", "numero": 58, "tema": 64, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué protocolo reemplaza a ARP en IPv6 para la resolución de direcciones?",
+      "opciones": [
+        {"texto": "SLAAC (Stateless Address Autoconfiguration).", "correcta": false, "explicacion": "Sirve para autoconfigurar direcciones (y se apoya en NDP), no para resolverlas.", "fuente": "RFC 4862"},
+        {"texto": "NDP (Neighbor Discovery Protocol).", "correcta": true, "explicacion": "Resuelve direcciones con Neighbor Solicitation y Neighbor Advertisement (ICMPv6).", "fuente": "RFC 4861"},
+        {"texto": "DHCPv6.", "correcta": false, "explicacion": "Configuración con estado, no resolución de direcciones.", "fuente": "RFC 8415"}
+      ]
+    },
+    {
+      "id": "ayto25-059", "numero": 59, "tema": 65, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué caracteriza a la conmutación de circuitos en comparación con la conmutación de paquetes?",
+      "opciones": [
+        {"texto": "La conmutación de circuitos establece una ruta fija para toda la duración de la comunicación.", "correcta": true, "explicacion": "Se reserva un circuito dedicado (como en la telefonía clásica) mientras dura la comunicación.", "fuente": "Tanenbaum, Redes de computadoras, 2.6"},
+        {"texto": "La conmutación de paquetes se basa en un camino predefinido.", "correcta": false, "explicacion": "En datagramas, cada paquete puede seguir rutas distintas.", "fuente": "Tanenbaum, 2.6"},
+        {"texto": "La conmutación de circuitos transmite datos en pequeños paquetes en lugar de un flujo continuo.", "correcta": false, "explicacion": "Eso describe la conmutación de paquetes.", "fuente": "Tanenbaum, 2.6"}
+      ]
+    },
+    {
+      "id": "ayto25-060", "numero": 60, "tema": 66, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de los siguientes es un conocido protocolo AAA (Authentication, Authorization, Accounting)?",
+      "opciones": [
+        {"texto": "LDAP.", "correcta": false, "explicacion": "Protocolo de acceso a directorio: se usa como repositorio de identidades, pero no es AAA (no hace accounting).", "fuente": "RFC 4511"},
+        {"texto": "TACACS+.", "correcta": true, "explicacion": "Protocolo AAA que separa autenticación, autorización y contabilidad. El otro clásico es RADIUS.", "fuente": "RFC 8907"},
+        {"texto": "SSL.", "correcta": false, "explicacion": "Protocolo de cifrado de canal, sustituido por TLS.", "fuente": "RFC 8446"}
+      ]
+    },
+    {
+      "id": "ayto25-061", "numero": 61, "tema": 67, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué componente es imprescindible para poder implementar la plataforma FIWARE?",
+      "opciones": [
+        {"texto": "Context Broker.", "correcta": true, "explicacion": "El Context Broker (Orion, API NGSI) es el único componente obligatorio de una solución 'Powered by FIWARE'.", "fuente": "fiware.org: Context Broker"},
+        {"texto": "IOT Platform.", "correcta": false, "explicacion": "No es un componente obligatorio de FIWARE.", "fuente": "fiware.org"},
+        {"texto": "IOT Agent.", "correcta": false, "explicacion": "Es opcional: traduce protocolos IoT a NGSI cuando hay dispositivos.", "fuente": "fiware.org: IoT Agents"}
+      ]
+    },
+    {
+      "id": "ayto25-062", "numero": 62, "tema": 68, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "¿Cuál es la principal ventaja de la convergencia fijo-móvil en redes de telecomunicaciones?",
+      "opciones": [
+        {"texto": "Reducción de costes operativos.", "correcta": true, "explicacion": "Unificar núcleo de red, servicios y gestión de fijo y móvil abarata la operación y permite ofertas integradas.", "fuente": "Programa tema 68 (convergencia fijo-móvil)"},
+        {"texto": "Mejora en la calidad de la señal.", "correcta": false, "explicacion": "La convergencia es de servicios y red, no mejora la señal radio.", "fuente": "Programa tema 68"},
+        {"texto": "Aumento en la velocidad de transmisión de datos.", "correcta": false, "explicacion": "La velocidad depende de la tecnología de acceso, no de la convergencia.", "fuente": "Programa tema 68"}
+      ],
+      "nota": "Pregunta de redacción abierta: confirmar con la plantilla oficial."
+    },
+    {
+      "id": "ayto25-063", "numero": 63, "tema": 69, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "TETRA es un estándar sobre comunicaciones digitales móviles, publicado por:",
+      "opciones": [
+        {"texto": "ETSI (European Telecommunications Standards Institute).", "correcta": true, "explicacion": "TETRA está normalizado por ETSI (serie EN 300 392).", "fuente": "ETSI EN 300 392"},
+        {"texto": "OSI (Open Systems Interconnection).", "correcta": false, "explicacion": "OSI es un modelo de referencia de ISO, no un organismo emisor.", "fuente": "ISO/IEC 7498-1"},
+        {"texto": "ITU (International Telecommunication Union).", "correcta": false, "explicacion": "Es organismo de normalización, pero TETRA no es una norma de la ITU.", "fuente": "ETSI"}
+      ]
+    },
+    {
+      "id": "ayto25-064", "numero": 64, "tema": 67, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué significa PLC en el contexto de las telecomunicaciones?",
+      "opciones": [
+        {"texto": "Power Line Communications.", "correcta": true, "explicacion": "Transmisión de datos por la red eléctrica.", "fuente": "IEEE 1901"},
+        {"texto": "Protocol Layer Communication.", "correcta": false, "explicacion": "Expansión inventada.", "fuente": "—"},
+        {"texto": "Private Link Channel.", "correcta": false, "explicacion": "Expansión inventada.", "fuente": "—"}
+      ]
+    },
+    {
+      "id": "ayto25-065", "numero": 65, "tema": 17, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el plazo de validez de los certificados electrónicos contenidos en el DNI electrónico?",
+      "opciones": [
+        {"texto": "Dos años.", "correcta": false, "explicacion": "Originalmente eran 30 meses (dos años y medio), no dos años.", "fuente": "RD 1553/2005 (redacción original)"},
+        {"texto": "Cuatro años.", "correcta": false, "explicacion": "El preámbulo del RD 414/2015 habla de pasar de cuatro a cinco años, pero la vigencia actual es cinco.", "fuente": "RD 414/2015, preámbulo"},
+        {"texto": "Cinco años.", "correcta": true, "explicacion": "Con independencia de la validez del DNI, la vigencia de los certificados no puede superar cinco años.", "fuente": "RD 1553/2005 art. 12.1, redacción del RD 414/2015"}
+      ],
+      "nota": "Impugnada por estar fuera de temario; el tribunal la mantuvo (tema 17, DNIe)."
+    },
+    {
+      "id": "ayto25-066", "numero": 66, "tema": 18, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Además de renderizar gráficos, ¿cuál es el uso principal de las GPU en superordenadores y sistemas de IA (GPGPU)?",
+      "opciones": [
+        {"texto": "Gestionar las operaciones de E/S de alta velocidad del sistema.", "correcta": false, "explicacion": "La E/S la gestionan controladores, DMA y la CPU.", "fuente": "NVIDIA CUDA Programming Guide"},
+        {"texto": "Ejecutar eficientemente tareas con alto paralelismo de datos, como operaciones matemáticas masivas sobre grandes conjuntos de datos.", "correcta": true, "explicacion": "Arquitectura SIMT con miles de núcleos, ideal para álgebra lineal (deep learning, simulación).", "fuente": "NVIDIA CUDA Programming Guide"},
+        {"texto": "Servir como memoria caché ultrarrápida para los núcleos de la CPU.", "correcta": false, "explicacion": "La GPU no hace de caché de la CPU.", "fuente": "Hennessy & Patterson"}
+      ]
+    },
+    {
+      "id": "ayto25-067", "numero": 67, "tema": 19, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En GNU/Linux he ejecutado «ln archivo.txt mi_archivo.txt». ¿Qué sucede si borro «archivo.txt»?",
+      "opciones": [
+        {"texto": "mi_archivo.txt es un enlace a archivo.txt, así que el contenido quedará inaccesible (enlace roto).", "correcta": false, "explicacion": "Eso pasaría con un enlace simbólico (ln -s); sin -s se crea un enlace duro.", "fuente": "man 1 ln"},
+        {"texto": "Obtendremos un error indicando que no es posible borrar el archivo porque hay enlaces apuntando a él.", "correcta": false, "explicacion": "unlink nunca falla por eso: solo decrementa el contador de enlaces.", "fuente": "man 2 unlink"},
+        {"texto": "Se borrará archivo.txt, pero el contenido seguirá siendo accesible desde mi_archivo.txt.", "correcta": true, "explicacion": "Ambos nombres apuntan al mismo inodo; los datos se liberan solo cuando el contador de enlaces llega a 0.", "fuente": "man 1 ln; man 2 unlink"}
+      ]
+    },
+    {
+      "id": "ayto25-068", "numero": 68, "tema": 25, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de los siguientes es un lenguaje de programación utilizado en el framework Angular?",
+      "opciones": [
+        {"texto": "Java.", "correcta": false, "explicacion": "No tiene relación con Angular.", "fuente": "angular.dev"},
+        {"texto": "Javascript.", "correcta": true, "explicacion": "Angular se escribe en TypeScript, un superconjunto de JavaScript que compila a JavaScript. De las tres opciones, es la única válida.", "fuente": "angular.dev; typescriptlang.org"},
+        {"texto": "C#.", "correcta": false, "explicacion": "Es de .NET (Blazor sería su equivalente).", "fuente": "learn.microsoft.com/dotnet"}
+      ]
+    },
+    {
+      "id": "ayto25-069", "numero": 69, "tema": 22, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué función tiene ODBC (Open Database Connectivity)?",
+      "opciones": [
+        {"texto": "Servir de estándar para el almacenamiento físico de datos.", "correcta": false, "explicacion": "ODBC no define el almacenamiento.", "fuente": "Microsoft Learn: ODBC Overview"},
+        {"texto": "Proporcionar una API estandarizada que permite a las aplicaciones acceder a diversos SGBD.", "correcta": true, "explicacion": "API de acceso independiente del SGBD mediante drivers (basada en SQL/CLI).", "fuente": "Microsoft Learn: ODBC; ISO/IEC 9075-3"},
+        {"texto": "Generar informes automáticos de bases de datos.", "correcta": false, "explicacion": "Eso lo hacen herramientas de reporting.", "fuente": "Microsoft Learn: ODBC"}
+      ]
+    },
+    {
+      "id": "ayto25-070", "numero": 70, "tema": 23, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué sucede si una consulta GraphQL solicita un campo que no está definido en el tipo correspondiente del esquema?",
+      "opciones": [
+        {"texto": "El servidor devuelve un error de validación y no ejecuta la consulta.", "correcta": true, "explicacion": "La validación exige que los campos existan en el tipo, y un documento inválido no se ejecuta.", "fuente": "GraphQL Spec, Validation: Field Selections"},
+        {"texto": "El servidor ignora el campo solicitado y responde con el resto de datos.", "correcta": false, "explicacion": "GraphQL no ignora campos: valida antes de ejecutar.", "fuente": "GraphQL Spec, Validation"},
+        {"texto": "El servidor intenta resolver el campo dinámicamente si encuentra un resolver genérico.", "correcta": false, "explicacion": "La validación contra el esquema ocurre antes de cualquier resolver.", "fuente": "GraphQL Spec, Execution"}
+      ]
+    },
+    {
+      "id": "ayto25-071", "numero": 71, "tema": 64, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes funciones es exclusiva de ICMPv6 y no tiene equivalente directo en ICMPv4?",
+      "opciones": [
+        {"texto": "Envío de mensajes de error como «Destination Unreachable».", "correcta": false, "explicacion": "Existe en ICMPv4 (tipo 3).", "fuente": "RFC 792"},
+        {"texto": "Detección de MTU de ruta mediante mensajes «Packet Too Big».", "correcta": false, "explicacion": "En IPv4 el PMTUD usa Destination Unreachable código 4 ('Fragmentation needed').", "fuente": "RFC 1191"},
+        {"texto": "Descubrimiento de vecinos y routers para autoconfiguración y resolución de direcciones.", "correcta": true, "explicacion": "Neighbor Discovery integra en ICMPv6 lo que en IPv4 hacía un protocolo aparte (ARP).", "fuente": "RFC 4861"}
+      ]
+    },
+    {
+      "id": "ayto25-072", "numero": 72, "tema": 25, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En el procesamiento de documentos XML, ¿cuál es la función específica de los espacios de nombres (XML Namespaces)?",
+      "opciones": [
+        {"texto": "Establecer la codificación de caracteres (p. ej. UTF-8) que debe utilizar el procesador XML.", "correcta": false, "explicacion": "La codificación se declara en la declaración XML (encoding=...).", "fuente": "W3C XML 1.0, 4.3.3"},
+        {"texto": "Evitar colisiones de nombres entre elementos y atributos de distintos vocabularios en un mismo documento, asociando prefijos a URIs únicas.", "correcta": true, "explicacion": "Es exactamente el propósito de los namespaces.", "fuente": "W3C Namespaces in XML 1.0"},
+        {"texto": "Definir las reglas estructurales y de contenido para que un documento sea válido según una gramática.", "correcta": false, "explicacion": "Eso lo hacen DTD o XML Schema.", "fuente": "W3C XML Schema"}
+      ]
+    },
+    {
+      "id": "ayto25-073", "numero": 73, "tema": 26, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En ITIL v3, ¿cuál de las siguientes NO se corresponde con una fase del ciclo de vida del servicio?",
+      "opciones": [
+        {"texto": "Mejora continua del servicio.", "correcta": false, "explicacion": "Sí es fase (Continual Service Improvement).", "fuente": "ITIL v3 (2007/2011)"},
+        {"texto": "Estrategia del servicio.", "correcta": false, "explicacion": "Sí es fase (Service Strategy).", "fuente": "ITIL v3"},
+        {"texto": "Despliegue del servicio.", "correcta": true, "explicacion": "Las cinco fases son Estrategia, Diseño, Transición, Operación y Mejora continua. El despliegue es un proceso dentro de Transición.", "fuente": "ITIL v3"}
+      ]
+    },
+    {
+      "id": "ayto25-074", "numero": 74, "tema": 28, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "En lo referente al ámbito de aplicación del RD 43/2021, que desarrolla el RD-ley 12/2018 de seguridad de las redes y sistemas de información:",
+      "opciones": [
+        {"texto": "Se aplica tanto a los operadores de comunicaciones electrónicas y prestadores de servicios de confianza críticos como a los no críticos establecidos en España...", "correcta": false, "explicacion": "Los operadores de comunicaciones electrónicas y de servicios de confianza quedan excluidos, salvo que estén designados como críticos.", "fuente": "RD-ley 12/2018 art. 2"},
+        {"texto": "Únicamente aplica a proveedores de servicios digitales cuando se trate de microempresas o pequeñas empresas.", "correcta": false, "explicacion": "Es al revés: las micro y pequeñas empresas quedan fuera de las obligaciones de los proveedores de servicios digitales.", "fuente": "RD-ley 12/2018 art. 2; Recomendación 2003/361/CE"},
+        {"texto": "Aplica a los operadores de servicios esenciales establecidos en España, entendiendo como tales aquellos cuya residencia o domicilio social esté en España y coincida con el lugar de gestión administrativa y dirección.", "correcta": true, "explicacion": "Recoge el criterio de establecimiento en España de la norma.", "fuente": "RD-ley 12/2018 arts. 2-3; RD 43/2021"}
+      ],
+      "nota": "Repasar el ámbito exacto en el BOE consolidado (incluye también proveedores de servicios digitales)."
+    },
+    {
+      "id": "ayto25-075", "numero": 75, "tema": 31, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "media", "anulada": false,
+      "enunciado": "¿En qué difiere el software libre y el software de código abierto (open source)?",
+      "opciones": [
+        {"texto": "El software libre no permite modificar el código y el software de código abierto sí.", "correcta": false, "explicacion": "Modificar es una de las cuatro libertades del software libre.", "fuente": "FSF: ¿Qué es el software libre?"},
+        {"texto": "Las licencias de software libre pueden ser más estrictas que las de código abierto en cuanto a los derechos de modificación y distribución.", "correcta": true, "explicacion": "El movimiento del software libre defiende el copyleft (GPL), que obliga a mantener las libertades en obras derivadas; la OSI acepta también licencias permisivas.", "fuente": "FSF; Open Source Definition (OSI)"},
+        {"texto": "No hay ninguna diferencia entre ambos conceptos.", "correcta": false, "explicacion": "Hay diferencia filosófica (ética frente a pragmática) aunque en la práctica casi todas las licencias se solapan.", "fuente": "Stallman, Por qué el código abierto pierde el punto de vista del software libre"}
+      ]
+    },
+    {
+      "id": "ayto25-076", "numero": 76, "tema": 32, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "En un análisis coste/beneficio, ¿qué representa el concepto Payback?",
+      "opciones": [
+        {"texto": "Es el momento en el tiempo en que el conjunto de beneficios obtenidos por la explotación del nuevo sistema iguala al conjunto de costes que ha ocasionado.", "correcta": false, "explicacion": "El tribunal la rechazó. Ojo: se parece mucho a la definición clásica del punto de equilibrio o amortización.", "fuente": "Resolución de alegaciones"},
+        {"texto": "Es el periodo de tiempo que transcurre desde que los costes son máximos hasta que el sistema empieza a aportar beneficios.", "correcta": true, "explicacion": "El tribunal la confirmó por figurar en la documentación oficial de Métrica v3 (Técnicas y Prácticas, análisis coste/beneficio).", "fuente": "Métrica v3, Técnicas y Prácticas; resolución de alegaciones"},
+        {"texto": "Es el rendimiento de la inversión expresada en términos de porcentaje.", "correcta": false, "explicacion": "Eso es el ROI (retorno de la inversión).", "fuente": "Métrica v3, Técnicas: análisis coste/beneficio"}
+      ],
+      "nota": "Polémica: memoriza la definición de Métrica v3 tal cual, porque es la que aplica este tribunal."
+    },
+    {
+      "id": "ayto25-077", "numero": 77, "tema": 35, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de los siguientes NO es un artefacto de Scrum?",
+      "opciones": [
+        {"texto": "Pila del Sprint (Sprint Backlog).", "correcta": false, "explicacion": "Sí es artefacto.", "fuente": "Scrum Guide 2020, Scrum Artifacts"},
+        {"texto": "Incremento (Increment).", "correcta": false, "explicacion": "Sí es artefacto.", "fuente": "Scrum Guide 2020"},
+        {"texto": "Scrum Diario (Daily Scrum).", "correcta": true, "explicacion": "Es un EVENTO. Los artefactos son Product Backlog, Sprint Backlog e Increment.", "fuente": "Scrum Guide 2020"}
+      ]
+    },
+    {
+      "id": "ayto25-078", "numero": 78, "tema": 35, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes NO es una actividad propia de la gestión del desarrollo de software?",
+      "opciones": [
+        {"texto": "Control de riesgos del proyecto.", "correcta": false, "explicacion": "Es actividad de gestión.", "fuente": "SWEBOK v3, Software Engineering Management"},
+        {"texto": "Estimación de costes y recursos.", "correcta": false, "explicacion": "Es actividad de gestión (planificación).", "fuente": "SWEBOK v3, Software Engineering Management"},
+        {"texto": "Refactorización del código.", "correcta": true, "explicacion": "Es una actividad técnica de construcción, no de gestión.", "fuente": "SWEBOK v3, Software Construction"}
+      ]
+    },
+    {
+      "id": "ayto25-079", "numero": 79, "tema": 37, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "¿Qué nivel de un DFD proporciona la visión más abstracta del sistema, mostrándolo como un único proceso y sus interacciones con entidades externas?",
+      "opciones": [
+        {"texto": "El Diagrama de Contexto (Nivel 0 o -1, según convención).", "correcta": true, "explicacion": "Representa el sistema como un único proceso. Según el tribunal, algunas convenciones lo sitúan en -1 para distinguirlo del nivel 0 descompuesto.", "fuente": "Métrica v3, Técnicas: DFD; resolución de alegaciones"},
+        {"texto": "El Diagrama de Nivel 1, que descompone el proceso único del contexto en los principales subsistemas.", "correcta": false, "explicacion": "Es una descomposición, por tanto menos abstracta que el contexto.", "fuente": "Métrica v3, Técnicas: DFD"},
+        {"texto": "Un Flujograma de Programa detallado de la función principal.", "correcta": false, "explicacion": "No es un DFD y es el máximo nivel de detalle, no de abstracción.", "fuente": "ISO 5807"}
+      ]
+    },
+    {
+      "id": "ayto25-080", "numero": 80, "tema": 38, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué condición debe cumplirse para validar correctamente una relación ternaria en un modelo entidad-relación?",
+      "opciones": [
+        {"texto": "Que ninguna entidad participante sea débil.", "correcta": false, "explicacion": "Las entidades débiles pueden participar en relaciones de cualquier grado.", "fuente": "Elmasri & Navathe"},
+        {"texto": "Que tenga al menos un atributo clave.", "correcta": false, "explicacion": "Las relaciones no necesitan atributo clave propio.", "fuente": "Elmasri & Navathe"},
+        {"texto": "Que no pueda descomponerse sin pérdida de información en relaciones binarias.", "correcta": true, "explicacion": "Una ternaria solo está justificada si su semántica no se reproduce con binarias.", "fuente": "Elmasri & Navathe, relaciones de grado superior"}
+      ]
+    },
+    {
+      "id": "ayto25-081", "numero": 81, "tema": 57, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué tipo de mantenimiento se aplica cuando se instala una actualización para mejorar el rendimiento sin que haya fallos previos?",
+      "opciones": [
+        {"texto": "Mantenimiento preventivo.", "correcta": false, "explicacion": "El preventivo corrige fallos latentes antes de que se manifiesten.", "fuente": "ISO/IEC/IEEE 14764"},
+        {"texto": "Mantenimiento correctivo.", "correcta": false, "explicacion": "El correctivo exige un fallo previo.", "fuente": "ISO/IEC/IEEE 14764"},
+        {"texto": "Mantenimiento perfectivo.", "correcta": true, "explicacion": "El perfectivo mejora rendimiento, mantenibilidad u otros atributos sin que haya fallo.", "fuente": "ISO/IEC/IEEE 14764; Métrica v3, proceso MSI"}
+      ]
+    },
+    {
+      "id": "ayto25-082", "numero": 82, "tema": 40, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Un DAG (grafo acíclico dirigido):",
+      "opciones": [
+        {"texto": "Siempre tiene un número igual de nodos y aristas.", "correcta": false, "explicacion": "No existe tal relación (un árbol tiene n-1 aristas, por ejemplo).", "fuente": "Cormen et al., 22.4"},
+        {"texto": "Siempre tiene al menos un nodo con grado de entrada cero (indegree 0).", "correcta": true, "explicacion": "Todo DAG finito no vacío tiene al menos una fuente; por eso existe la ordenación topológica.", "fuente": "Cormen et al., 22.4"},
+        {"texto": "Siempre se puede recorrer mediante DFS sin marcar nodos visitados para no recorrer varias veces el mismo nodo.", "correcta": false, "explicacion": "Sin marcar, un nodo con varios predecesores (grafo en diamante) se visita repetidas veces.", "fuente": "Cormen et al., 22.3"}
+      ]
+    },
+    {
+      "id": "ayto25-083", "numero": 83, "tema": 42, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de los siguientes módulos tendría más cohesión?",
+      "opciones": [
+        {"texto": "Un módulo en el que todos los elementos de procesamiento utilizan los mismos datos de entrada y salida.", "correcta": true, "explicacion": "Es cohesión comunicacional, la más alta de las tres.", "fuente": "Yourdon & Constantine, Structured Design (1979)"},
+        {"texto": "Un módulo con tareas relacionadas por realizarse en el mismo intervalo de tiempo.", "correcta": false, "explicacion": "Es cohesión temporal, inferior a la comunicacional.", "fuente": "Yourdon & Constantine"},
+        {"texto": "Un módulo cuyos elementos pertenecen a una misma categoría general, seleccionados fuera del módulo mediante una señal de control.", "correcta": false, "explicacion": "Es cohesión lógica, de las más bajas. Orden: funcional > secuencial > comunicacional > procedimental > temporal > lógica > casual.", "fuente": "Yourdon & Constantine"}
+      ]
+    },
+    {
+      "id": "ayto25-084", "numero": 84, "tema": 46, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué patrón GoF reduce la redundancia cuando gran cantidad de objetos poseen idéntica información?",
+      "opciones": [
+        {"texto": "Mediator.", "correcta": false, "explicacion": "Encapsula la interacción entre objetos para reducir el acoplamiento.", "fuente": "Gamma et al., Design Patterns (1994)"},
+        {"texto": "Flyweight.", "correcta": true, "explicacion": "Comparte el estado intrínseco entre muchos objetos de grano fino.", "fuente": "Gamma et al. (1994)"},
+        {"texto": "Visitor.", "correcta": false, "explicacion": "Define nuevas operaciones sobre una estructura sin modificar sus clases.", "fuente": "Gamma et al. (1994)"}
+      ]
+    },
+    {
+      "id": "ayto25-085", "numero": 85, "tema": 50, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes arquitecturas es recomendada por Google para separar responsabilidades en aplicaciones Android?",
+      "opciones": [
+        {"texto": "MVC.", "correcta": false, "explicacion": "No es la arquitectura recomendada por Google.", "fuente": "developer.android.com: Guide to app architecture"},
+        {"texto": "MVVM.", "correcta": true, "explicacion": "Según el tribunal, es la única recomendada expresamente, materializada con ViewModel y Jetpack.", "fuente": "developer.android.com: Guide to app architecture; resolución de alegaciones"},
+        {"texto": "MVP.", "correcta": false, "explicacion": "Muy usada antes de Jetpack, pero no es la recomendación oficial.", "fuente": "developer.android.com"}
+      ]
+    },
+    {
+      "id": "ayto25-086", "numero": 86, "tema": 51, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué norma UNE regula los requisitos para la especificación de servicios de información geográfica de manera neutral y específica para diferentes plataformas?",
+      "opciones": [
+        {"texto": "UNE-EN ISO 19119:2016.", "correcta": true, "explicacion": "ISO 19119 trata los servicios de información geográfica.", "fuente": "ISO 19119:2016"},
+        {"texto": "UNE-EN ISO 19115-1:2014.", "correcta": false, "explicacion": "Trata los metadatos.", "fuente": "ISO 19115-1:2014"},
+        {"texto": "UNE-EN ISO 19112:2005.", "correcta": false, "explicacion": "Trata la referenciación espacial por identificadores geográficos.", "fuente": "ISO 19112"}
+      ]
+    },
+    {
+      "id": "ayto25-087", "numero": 87, "tema": 52, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "La métrica «Densidad de Defectos» se calcula como defectos confirmados dividido por el tamaño del software. ¿Qué información proporciona?",
+      "opciones": [
+        {"texto": "El tiempo medio exacto que tardará el equipo en corregir cada defecto.", "correcta": false, "explicacion": "Eso sería una métrica tipo MTTR o tiempo de resolución.", "fuente": "IEEE 1061"},
+        {"texto": "Una indicación del nivel de calidad en defectos por unidad de tamaño (KLOC o Punto Función), permitiendo comparaciones relativas.", "correcta": true, "explicacion": "Normalizar por tamaño permite comparar productos o versiones.", "fuente": "IEEE 1061; Kan, Metrics and Models in Software Quality Engineering"},
+        {"texto": "El número total de casos de prueba necesarios para una cobertura del 100 %.", "correcta": false, "explicacion": "No guarda relación con la densidad de defectos.", "fuente": "ISO/IEC/IEEE 29119"}
+      ]
+    },
+    {
+      "id": "ayto25-088", "numero": 88, "tema": 53, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En las WCAG 2.2, ¿bajo qué principio se incluye la pauta «Tiempo suficiente»?",
+      "opciones": [
+        {"texto": "Operable.", "correcta": true, "explicacion": "Es la pauta 2.2, dentro del principio 2 (Operable).", "fuente": "W3C WCAG 2.2, pauta 2.2"},
+        {"texto": "Perceptible.", "correcta": false, "explicacion": "El principio 1 incluye alternativas textuales, medios temporales, adaptable y distinguible.", "fuente": "W3C WCAG 2.2"},
+        {"texto": "Comprensible.", "correcta": false, "explicacion": "El principio 3 incluye legible, predecible y ayuda a la entrada de datos.", "fuente": "W3C WCAG 2.2"}
+      ]
+    },
+    {
+      "id": "ayto25-089", "numero": 89, "tema": 54, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "En aprendizaje automático, ¿qué tipo de aprendizaje ocurre cuando el modelo se entrena usando datos etiquetados?",
+      "opciones": [
+        {"texto": "Aprendizaje no supervisado.", "correcta": false, "explicacion": "Trabaja sin etiquetas (clustering, reducción de dimensionalidad).", "fuente": "Bishop, Pattern Recognition and ML"},
+        {"texto": "Aprendizaje supervisado.", "correcta": true, "explicacion": "Aprende la función de entrada a salida a partir de pares etiquetados.", "fuente": "Bishop"},
+        {"texto": "Aprendizaje neuronal etiquetado.", "correcta": false, "explicacion": "No es una categoría de aprendizaje; distractor inventado.", "fuente": "—"}
+      ]
+    },
+    {
+      "id": "ayto25-090", "numero": 90, "tema": 56, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué herramienta permite realizar copias de seguridad en un SGBD como PostgreSQL?",
+      "opciones": [
+        {"texto": "pg_dump.", "correcta": true, "explicacion": "Utilidad oficial de copia lógica de una base de datos (pg_dumpall para el clúster completo).", "fuente": "postgresql.org/docs: pg_dump"},
+        {"texto": "pq_map.", "correcta": false, "explicacion": "No existe; distractor ('pq' se parece a libpq).", "fuente": "—"},
+        {"texto": "pq_carg.", "correcta": false, "explicacion": "No existe; distractor.", "fuente": "—"}
+      ]
+    },
+    {
+      "id": "ayto25-091", "numero": 91, "tema": 57, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es una limitación importante del MTBF como único indicador en mantenimiento correctivo?",
+      "opciones": [
+        {"texto": "No tiene en cuenta los tiempos de inactividad.", "correcta": true, "explicacion": "El MTBF ignora el tiempo de reparación (MTTR). La disponibilidad se calcula como MTBF / (MTBF + MTTR).", "fuente": "IEC 60050-192"},
+        {"texto": "Depende exclusivamente del tipo de software utilizado.", "correcta": false, "explicacion": "Es una métrica general de fiabilidad.", "fuente": "IEC 60050-192"},
+        {"texto": "Solo se puede aplicar a dispositivos mecánicos.", "correcta": false, "explicacion": "Se aplica a cualquier sistema reparable.", "fuente": "IEC 60050-192"}
+      ]
+    },
+    {
+      "id": "ayto25-092", "numero": 92, "tema": 58, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Por qué es necesario utilizar JCL en un entorno mainframe como z/OS?",
+      "opciones": [
+        {"texto": "Porque los sistemas mainframe necesitan instrucciones explícitas para gestionar la ejecución de programas y la asignación de recursos.", "correcta": true, "explicacion": "JCL indica al sistema qué programa ejecutar (EXEC) y qué datasets o recursos asignar (DD) en los trabajos batch.", "fuente": "IBM z/OS MVS JCL Reference"},
+        {"texto": "Porque JCL acelera automáticamente la ejecución de programas.", "correcta": false, "explicacion": "JCL no optimiza la ejecución.", "fuente": "IBM z/OS JCL"},
+        {"texto": "Porque JCL se utiliza para diseñar redes TCP/IP.", "correcta": false, "explicacion": "No tiene relación con redes.", "fuente": "IBM z/OS JCL"}
+      ]
+    },
+    {
+      "id": "ayto25-093", "numero": 93, "tema": 60, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el objetivo principal de la deduplicación de datos en sistemas de almacenamiento?",
+      "opciones": [
+        {"texto": "Aumentar el número de copias redundantes para mayor seguridad.", "correcta": false, "explicacion": "Es lo contrario de deduplicar.", "fuente": "SNIA Dictionary: deduplication"},
+        {"texto": "Eliminar copias duplicadas de datos para optimizar el uso del espacio de almacenamiento.", "correcta": true, "explicacion": "Almacena una sola instancia de cada bloque o fichero y sustituye las copias por referencias.", "fuente": "SNIA Dictionary"},
+        {"texto": "Fragmentar archivos grandes en partes pequeñas para facilitar la ordenación en bloques.", "correcta": false, "explicacion": "Eso describe el chunking o la fragmentación, no su objetivo.", "fuente": "SNIA Dictionary"}
+      ]
+    },
+    {
+      "id": "ayto25-094", "numero": 94, "tema": 61, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes NO es una medida de seguridad física habitual en los centros de tratamiento de información?",
+      "opciones": [
+        {"texto": "Doble acometida eléctrica.", "correcta": false, "explicacion": "Es buena práctica habitual de disponibilidad eléctrica.", "fuente": "ANSI/TIA-942; resolución de alegaciones"},
+        {"texto": "Doble grupo electrógeno.", "correcta": false, "explicacion": "Es buena práctica habitual (redundancia N+1).", "fuente": "ANSI/TIA-942; resolución de alegaciones"},
+        {"texto": "Doble SAI (Sistema de Alerta Ininterrumpida).", "correcta": true, "explicacion": "El tribunal la confirmó como la no habitual. Fíjate además en la trampa del nombre: SAI es Sistema de Alimentación Ininterrumpida.", "fuente": "Resolución de alegaciones"}
+      ]
+    },
+    {
+      "id": "ayto25-095", "numero": 95, "tema": 62, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué ventaja proporciona el uso de contenedores respecto a las máquinas virtuales?",
+      "opciones": [
+        {"texto": "Mayor aislamiento de hardware.", "correcta": false, "explicacion": "Las VM aíslan más: los contenedores comparten el kernel del anfitrión.", "fuente": "docs.docker.com: Containers vs VMs"},
+        {"texto": "Menor sobrecarga y mayor eficiencia.", "correcta": true, "explicacion": "Sin sistema operativo invitado: arranque en segundos y más densidad por host.", "fuente": "docs.docker.com"},
+        {"texto": "Mayor consumo de recursos.", "correcta": false, "explicacion": "Consumen menos, y además eso no sería una ventaja.", "fuente": "docs.docker.com"}
+      ]
+    },
+    {
+      "id": "ayto25-096", "numero": 96, "tema": 63, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué función tiene el protocolo IEEE 802.1Q en una red de área local?",
+      "opciones": [
+        {"texto": "Controlar acceso físico al medio.", "correcta": false, "explicacion": "Eso lo hace la subcapa MAC (p. ej. CSMA/CD en 802.3).", "fuente": "IEEE 802.3"},
+        {"texto": "Encapsular tramas para soporte de VLAN.", "correcta": true, "explicacion": "Inserta una etiqueta de 4 bytes con VLAN ID (12 bits) y prioridad (PCP).", "fuente": "IEEE 802.1Q"},
+        {"texto": "Gestionar autenticación de usuarios.", "correcta": false, "explicacion": "Eso es IEEE 802.1X.", "fuente": "IEEE 802.1X"}
+      ]
+    },
+    {
+      "id": "ayto25-097", "numero": 97, "tema": 65, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es el objetivo principal de la técnica de traffic shaping en las redes IP?",
+      "opciones": [
+        {"texto": "Almacenar los paquetes excedentes en una cola y retransmitirlos conforme a la capacidad permitida para evitar la congestión.", "correcta": true, "explicacion": "El shaping retiene en buffer y suaviza la tasa (token bucket).", "fuente": "RFC 2475 (traffic conditioning)"},
+        {"texto": "Descartar inmediatamente los paquetes que exceden el límite de tasa, priorizando solo el tráfico urgente.", "correcta": false, "explicacion": "Eso es traffic policing, no shaping.", "fuente": "RFC 2475; RFC 2697"},
+        {"texto": "Ajustar dinámicamente la capacidad de la red para aumentar la velocidad sin modificar la configuración.", "correcta": false, "explicacion": "El shaping no aumenta la capacidad: la limita y regula.", "fuente": "RFC 2475"}
+      ]
+    },
+    {
+      "id": "ayto25-098", "numero": 98, "tema": 63, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "¿Cuál es la principal ventaja de utilizar DWDM frente a otras tecnologías de multiplexación óptica?",
+      "opciones": [
+        {"texto": "Permite transmitir señales a mayor distancia sin necesidad de amplificación.", "correcta": false, "explicacion": "Sin amplificación, DWDM y CWDM alcanzan distancias similares; DWDM llega más lejos solo con amplificadores.", "fuente": "ITU-T G.698.1; resolución de alegaciones"},
+        {"texto": "Incrementa la capacidad de transmisión al permitir que múltiples longitudes de onda se transmitan simultáneamente por una sola fibra.", "correcta": true, "explicacion": "Mayor densidad de canales, más próximos entre sí, que en CWDM.", "fuente": "ITU-T G.694.1; resolución de alegaciones"},
+        {"texto": "Utiliza frecuencias más altas que otras tecnologías, lo que permite más tipos de datos.", "correcta": false, "explicacion": "La ventaja es el espaciado denso, no frecuencias más altas.", "fuente": "ITU-T G.694.1"}
+      ]
+    },
+    {
+      "id": "ayto25-099", "numero": 99, "tema": 16, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "De acuerdo con el anexo II del RD 311/2022 (ENS), ¿cuál se corresponde con un grupo de medidas relacionadas con el control de acceso?",
+      "opciones": [
+        {"texto": "mp.acc.", "correcta": false, "explicacion": "No existe: las medidas de protección (mp) son mp.if, mp.per, mp.eq, mp.com, mp.si, mp.sw, mp.info y mp.s.", "fuente": "RD 311/2022 anexo II"},
+        {"texto": "op.acc.", "correcta": true, "explicacion": "Control de acceso dentro del marco operacional. El tribunal corrigió la plantilla de a) a b).", "fuente": "RD 311/2022 anexo II; resolución de alegaciones"},
+        {"texto": "org.acc.", "correcta": false, "explicacion": "No existe: el marco organizativo tiene org.1 a org.4.", "fuente": "RD 311/2022 anexo II"}
+      ]
+    },
+    {
+      "id": "ayto25-100", "numero": 100, "tema": 67, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera sobre HTTP/3 respecto a su predecesor?",
+      "opciones": [
+        {"texto": "Por su diseño, HTTP/3 es más sencillo de implementar que HTTP/2.", "correcta": false, "explicacion": "Es más complejo: QUIC lleva transporte, cifrado y control de congestión en espacio de usuario.", "fuente": "RFC 9114; RFC 9000"},
+        {"texto": "HTTP/3 adopta el protocolo QUIC, que se basa en TCP en lugar de UDP.", "correcta": false, "explicacion": "QUIC funciona sobre UDP.", "fuente": "RFC 9000"},
+        {"texto": "HTTP/3 es más eficiente y rápido, especialmente en redes con alta latencia.", "correcta": true, "explicacion": "Elimina el bloqueo de cabeza de línea en transporte y reduce el handshake (1-RTT/0-RTT).", "fuente": "RFC 9114; RFC 9000"}
+      ]
+    },
+    {
+      "id": "ayto25-101", "numero": 101, "tema": 3, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "El número de miembros de la Junta de Gobierno no podrá exceder:",
+      "opciones": [
+        {"texto": "De un quinto del número legal de miembros del Pleno, además del Alcalde.", "correcta": false, "explicacion": "La fracción es un tercio.", "fuente": "Ley 22/2006 (LCREM)"},
+        {"texto": "De un tercio del número legal de miembros del Pleno, además del Alcalde.", "correcta": true, "explicacion": "Es la regla de la Ley de Capitalidad, que coincide con la LRBRL para municipios de gran población.", "fuente": "Ley 22/2006; LRBRL art. 126.1"},
+        {"texto": "De un cuarto del número legal de miembros del Pleno, además del Alcalde.", "correcta": false, "explicacion": "La fracción es un tercio.", "fuente": "Ley 22/2006; LRBRL art. 126.1"}
+      ]
+    },
+    {
+      "id": "ayto25-102", "numero": 102, "tema": 21, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": false,
+      "enunciado": "¿Cuál de las siguientes se corresponde con una de las características de los datawarehouse?",
+      "opciones": [
+        {"texto": "No distingue datos actuales de los datos históricos.", "correcta": false, "explicacion": "Sí los distingue: es variante en el tiempo, precisamente para analizar la evolución.", "fuente": "Inmon, Building the Data Warehouse; resolución de alegaciones"},
+        {"texto": "Volátil.", "correcta": false, "explicacion": "Es NO volátil: los datos se cargan y consultan, no se modifican.", "fuente": "Inmon"},
+        {"texto": "La información se organiza por temas o áreas de negocio.", "correcta": true, "explicacion": "Orientado a temas, una de las cuatro características de Inmon (temático, integrado, variante en el tiempo, no volátil).", "fuente": "Inmon; resolución de alegaciones"}
+      ]
+    },
+    {
+      "id": "ayto25-103", "numero": 103, "tema": 68, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Qué códec de vídeo ofrece mayor eficiencia en la compresión y calidad en redes IP?",
+      "opciones": [
+        {"texto": "H.264 / H.265 (HEVC).", "correcta": true, "explicacion": "Son los más modernos de la lista: H.265 reduce la tasa de bits aproximadamente a la mitad respecto a H.264 con igual calidad.", "fuente": "ITU-T H.264; ITU-T H.265"},
+        {"texto": "H.261.", "correcta": false, "explicacion": "Es de 1988, pensado para videoconferencia RDSI.", "fuente": "ITU-T H.261"},
+        {"texto": "H.263.", "correcta": false, "explicacion": "Es de 1996, superado por H.264.", "fuente": "ITU-T H.263"}
+      ]
+    },
+    {
+      "id": "ayto25-104", "numero": 104, "tema": 69, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "tribunal", "anulada": true,
+      "enunciado": "TETRA utiliza diferentes mecanismos de cifrado. Entre ellos NO se encuentra:",
+      "opciones": [
+        {"texto": "TEA3.", "correcta": false, "explicacion": "Sí existe: es uno de los algoritmos de cifrado de interfaz aire (TEA1-TEA4).", "fuente": "ETSI EN 300 392-7"},
+        {"texto": "AIE.", "correcta": false, "explicacion": "Sí existe: Air Interface Encryption es el mecanismo de cifrado radio.", "fuente": "ETSI EN 300 392-7"},
+        {"texto": "E2EE.", "correcta": false, "explicacion": "Sí existe: TETRA admite cifrado extremo a extremo.", "fuente": "ETSI EN 300 392-7"}
+      ],
+      "nota": "ANULADA: el enunciado no permitía una respuesta unívoca. Útil para repasar el cifrado en TETRA."
+    },
+    {
+      "id": "ayto25-105", "numero": 105, "tema": 67, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cuál es una desventaja técnica del PLC?",
+      "opciones": [
+        {"texto": "Solo transmite audio.", "correcta": false, "explicacion": "Transmite datos de cualquier tipo.", "fuente": "IEEE 1901"},
+        {"texto": "Sensibilidad a interferencias eléctricas.", "correcta": true, "explicacion": "La red eléctrica no está pensada para datos: ruido de cargas, atenuación y emisiones.", "fuente": "IEEE 1901"},
+        {"texto": "Requiere cableado de fibra óptica adicional.", "correcta": false, "explicacion": "Su ventaja es justo reutilizar el cableado eléctrico existente.", "fuente": "IEEE 1901"}
+      ]
+    },
+    {
+      "id": "ayto25-106", "numero": 106, "tema": 58, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "¿Cómo gestiona Apache Airflow la orquestación de los flujos de trabajo?",
+      "opciones": [
+        {"texto": "Mediante DAGs (Directed Acyclic Graphs).", "correcta": true, "explicacion": "Los flujos se definen en Python como DAGs de tareas con dependencias.", "fuente": "airflow.apache.org: Core Concepts, DAGs"},
+        {"texto": "Mediante DTL (Detailed Task List).", "correcta": false, "explicacion": "No existe en Airflow; distractor.", "fuente": "airflow.apache.org"},
+        {"texto": "Mediante JCL (Job Control Language).", "correcta": false, "explicacion": "JCL es de mainframe z/OS (ver pregunta 92).", "fuente": "IBM z/OS JCL"}
+      ]
+    },
+    {
+      "id": "ayto25-107", "numero": 107, "tema": 53, "origen": "ayto-tm-tic-2025", "verificada": false, "confianza": "alta", "anulada": false,
+      "enunciado": "Según el art. 3.4 del RD 1112/2018, quedan excluidos del ámbito de aplicación algunos contenidos. ¿Cuál de los siguientes NO aplica (no es una exclusión)?",
+      "opciones": [
+        {"texto": "Formatos de archivo de ofimática publicados antes de la entrada en vigor del RD, siempre que sean necesarios para tareas administrativas activas.", "correcta": true, "explicacion": "Invierte la norma: la exclusión es 'SALVO QUE' sean necesarios para procesos administrativos activos.", "fuente": "RD 1112/2018 art. 3.4.a"},
+        {"texto": "Contenido multimedia en directo de base temporal salvo lo dispuesto en otra legislación específica.", "correcta": false, "explicacion": "Sí es una exclusión del art. 3.4.", "fuente": "RD 1112/2018 art. 3.4"},
+        {"texto": "Contenidos de extranet e intranet publicados antes del 23 de septiembre de 2019, hasta que sean objeto de una revisión sustancial.", "correcta": false, "explicacion": "Sí es una exclusión del art. 3.4.", "fuente": "RD 1112/2018 art. 3.4"}
+      ]
+    }
+  ]
+}
