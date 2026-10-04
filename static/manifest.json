@@ -1,7 +1,7 @@
 {
-  "name": "Oposiciones TIC",
+  "name": "Oposiciones TIC Madrid y GSI",
   "short_name": "Opos TIC",
-  "description": "Tests de oposiciones TIC con explicación de cada opción y su fuente",
+  "description": "Tests de Técnico Medio TIC (Ayto. de Madrid) y GSI (AGE) con explicación de cada opción",
   "lang": "es",
   "start_url": "/oposiciones-tic/",
   "scope": "/oposiciones-tic/",

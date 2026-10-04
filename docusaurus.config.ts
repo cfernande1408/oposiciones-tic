@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Oposiciones TIC',
-  tagline: 'Tests con explicación de cada opción y su fuente',
+  title: 'Oposiciones TIC Madrid y GSI',
+  tagline: 'Tests de Técnico Medio TIC (Ayto. de Madrid) y GSI (AGE) con explicación de cada opción',
   favicon: 'img/logo.svg',
 
   future: {
@@ -65,7 +65,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Oposiciones TIC',
+      title: 'TIC Madrid y GSI',
       logo: {
         alt: '',
         src: 'img/logo.svg',

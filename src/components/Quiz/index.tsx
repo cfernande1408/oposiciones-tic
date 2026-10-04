@@ -5,7 +5,7 @@ import {nombreTema} from '../../data/temas';
 import {
   LETRAS,
   anotar,
-  SIMULACRO,
+  SIMULACROS,
   barajar,
   cargarStats,
   corregir,
@@ -125,22 +125,28 @@ function Configuracion({
         )}
       </p>
 
-      <div className={styles.simulacro}>
-        <div>
-          <h2 className={styles.simulacroTitulo}>Simulacro de examen</h2>
-          <p className={styles.simulacroTexto}>
-            {SIMULACRO.total} preguntas de todos los bancos con el reparto del examen real: {SIMULACRO.grupoI} del
-            Grupo I y {SIMULACRO.total - SIMULACRO.grupoI} del Grupo II. {SIMULACRO.minutos} minutos, sin anuladas.
-          </p>
-        </div>
-        <button
-          className={styles.primario}
-          onClick={() => {
-            const lista = crearSimulacro(TODAS, barajar);
-            onEmpezar({...nuevaSesion('examen', lista), limiteMs: SIMULACRO.minutos * 60_000, simulacro: true});
-          }}>
-          Hacer simulacro
-        </button>
+      <div className={styles.simulacros}>
+        {SIMULACROS.map((t) => {
+          const disponibles = TODAS.filter((p) => !p.anulada && p.opciones.length === t.opciones).length;
+          return (
+            <div key={t.id} className={styles.simulacro}>
+              <div>
+                <h2 className={styles.simulacroTitulo}>{t.titulo}</h2>
+                <p className={styles.simulacroTexto}>{t.descripcion}</p>
+                <p className={styles.simulacroTexto}>{disponibles} preguntas disponibles, sin anuladas.</p>
+              </div>
+              <button
+                className={styles.primario}
+                disabled={disponibles === 0}
+                onClick={() => {
+                  const lista = crearSimulacro(t, TODAS, barajar);
+                  onEmpezar({...nuevaSesion('examen', lista), limiteMs: t.minutos * 60_000, simulacro: t.id});
+                }}>
+                Empezar
+              </button>
+            </div>
+          );
+        })}
       </div>
 
       <h2 className={styles.subtituloForm}>O prepara un test a tu medida</h2>
@@ -375,7 +381,15 @@ function EnCurso({
   return (
     <section className={styles.panel} aria-label={estudio ? 'Test en modo estudio' : 'Examen'}>
       <div className={styles.cabecera}>
-        <span className={styles.modo}>{sesion.simulacro ? 'Simulacro' : estudio ? 'Estudio' : 'Examen'}</span>
+        <span className={styles.modo}>
+          {sesion.simulacro === 'gsi'
+            ? 'Simulacro GSI'
+            : sesion.simulacro
+              ? 'Simulacro Madrid'
+              : estudio
+                ? 'Estudio'
+                : 'Examen'}
+        </span>
         <span className={styles.progreso}>
           Pregunta {actual + 1} de {total}
         </span>
@@ -417,7 +431,7 @@ function EnCurso({
           </button>
         )}
       </div>
-      <p className={clsx(styles.tenue, styles.atajos)}>Teclado: a, b, c para responder y flechas para moverte.</p>
+      <p className={clsx(styles.tenue, styles.atajos)}>Teclado: a, b, c, d para responder y flechas para moverte.</p>
     </section>
   );
 }
@@ -597,7 +611,8 @@ function Resultados({
 }) {
   const res = corregir(sesion);
   const desglose = corregirPorGrupo(sesion);
-  const porGrupo = desglose.I.puntuables > 0 && desglose.II.puntuables > 0 ? desglose : null;
+  const porGrupo =
+    sesion.simulacro !== 'gsi' && desglose.I.puntuables > 0 && desglose.II.puntuables > 0 ? desglose : null;
   const [filtro, setFiltro] = useState<'todas' | 'mal'>('mal');
   const duracion = (sesion.fin ?? Date.now()) - sesion.inicio;
 
@@ -619,7 +634,11 @@ function Resultados({
   return (
     <section className={styles.panel} aria-labelledby="res-titulo">
       <h1 id="res-titulo" className={styles.titulo}>
-        {sesion.simulacro ? 'Simulacro corregido' : sesion.modo === 'examen' ? 'Examen corregido' : 'Resumen del test'}
+        {sesion.simulacro
+          ? `${SIMULACROS.find((t) => t.id === sesion.simulacro)?.titulo} corregido`
+          : sesion.modo === 'examen'
+            ? 'Examen corregido'
+            : 'Resumen del test'}
       </h1>
 
       <div className={styles.marcador}>
