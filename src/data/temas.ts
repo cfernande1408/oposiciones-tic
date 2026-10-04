@@ -76,3 +76,15 @@ export function nombreTema(n?: number): string {
   if (n == null) return 'Sin tema';
   return TEMAS[n] ? `Tema ${n}: ${TEMAS[n]}` : `Tema ${n}`;
 }
+
+// Bloques para agrupar los temas en el selector (mismos que el plan de estudio).
+export const BLOQUES: {nombre: string; temas: number[]}[] = [
+  {nombre: 'Grupo I: legislación general y Madrid', temas: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+  {nombre: 'Normativa TIC y seguridad', temas: [15, 16, 17, 27, 28, 29, 31, 53]},
+  {nombre: 'Gestión, metodologías y calidad', temas: [26, 30, 32, 33, 34, 35, 36, 37, 44, 45, 52]},
+  {nombre: 'Sistemas e infraestructura', temas: [18, 19, 55, 56, 57, 58, 59, 60, 61, 62]},
+  {nombre: 'Redes y comunicaciones', temas: [24, 63, 64, 65, 66, 67, 68, 69]},
+  {nombre: 'Desarrollo, datos e IA', temas: [20, 21, 22, 23, 25, 38, 39, 40, 41, 42, 43, 46, 47, 48, 49, 50, 51, 54]},
+];
+
+export const TODOS_TEMAS = Object.keys(TEMAS).map(Number);

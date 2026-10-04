@@ -1,7 +1,7 @@
 import React, {useCallback, useEffect, useMemo, useRef, useState} from 'react';
 import clsx from 'clsx';
 import {BANCOS} from '../../data/bancos';
-import {nombreTema} from '../../data/temas';
+import {BLOQUES, TEMAS, TODOS_TEMAS, nombreTema} from '../../data/temas';
 import {
   LETRAS,
   anotar,
@@ -66,29 +66,61 @@ function Configuracion({
   onBorrar: () => void;
 }) {
   const [bancos, setBancos] = useState<string[]>(BANCOS.map((b) => b.id));
-  const [tema, setTema] = useState<string>('todos');
+  // Temas marcados en el selector. Por defecto, todos; un enlace del plan puede traer otros.
+  const [temas, setTemas] = useState<number[]>(TODOS_TEMAS);
+  const [desdeEnlace, setDesdeEnlace] = useState(false);
+
+  // Enlaces con el test ya configurado, p. ej. ?temas=9,10&modo=estudio&n=30
+  // Parámetros: temas, bancos, n, modo (estudio|examen), aleatorio (0|1), falladas (1), anuladas (1).
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search);
+    if ([...q.keys()].length === 0) return;
+    const lista = (k: string) => (q.get(k) ?? '').split(',').map((x) => x.trim()).filter(Boolean);
+    if (q.has('temas')) setTemas(lista('temas').map(Number).filter((n) => !Number.isNaN(n)));
+    if (q.has('bancos')) {
+      const pedidos = lista('bancos').filter((b) => BANCOS.some((x) => x.id === b));
+      if (pedidos.length) setBancos(pedidos);
+    }
+    if (q.has('n')) setLimite(q.get('n') ?? '');
+    if (q.get('modo') === 'examen' || q.get('modo') === 'estudio') setModo(q.get('modo') as Modo);
+    if (q.has('aleatorio')) setAleatorio(q.get('aleatorio') !== '0');
+    if (q.has('falladas')) setSoloFalladas(q.get('falladas') === '1');
+    if (q.has('anuladas')) setAnuladas(q.get('anuladas') === '1');
+    setDesdeEnlace(true);
+  }, []);
+
+  useEffect(() => {
+    if (desdeEnlace) document.getElementById('test-desde-enlace')?.scrollIntoView({block: 'center'});
+  }, [desdeEnlace]);
   const [modo, setModo] = useState<Modo>('estudio');
   const [aleatorio, setAleatorio] = useState(true);
   const [soloFalladas, setSoloFalladas] = useState(false);
   const [anuladas, setAnuladas] = useState(false);
   const [limite, setLimite] = useState<string>('');
 
-  const temasDisponibles = useMemo(() => {
-    const set = new Set<number>();
-    TODAS.forEach((p) => bancos.includes(p.banco) && p.tema != null && set.add(p.tema));
-    return [...set].sort((a, b) => a - b);
-  }, [bancos]);
+  // Preguntas por tema con los demás filtros aplicados (bancos, anuladas, falladas).
+  const conteo = useMemo(() => {
+    const m = new Map<number, number>();
+    TODAS.forEach((p) => {
+      if (p.tema == null || !bancos.includes(p.banco)) return;
+      if (!anuladas && p.anulada) return;
+      if (soloFalladas && stats[p.id]?.last !== 'ko') return;
+      m.set(p.tema, (m.get(p.tema) ?? 0) + 1);
+    });
+    return m;
+  }, [bancos, anuladas, soloFalladas, stats]);
 
   const pool = useMemo(
     () =>
       TODAS.filter(
         (p) =>
           bancos.includes(p.banco) &&
-          (tema === 'todos' || String(p.tema) === tema) &&
+          p.tema != null &&
+          temas.includes(p.tema) &&
           (anuladas || !p.anulada) &&
           (!soloFalladas || stats[p.id]?.last === 'ko'),
       ),
-    [bancos, tema, anuladas, soloFalladas, stats],
+    [bancos, temas, anuladas, soloFalladas, stats],
   );
 
   const falladas = useMemo(() => Object.values(stats).filter((s) => s.last === 'ko').length, [stats]);
@@ -135,15 +167,30 @@ function Configuracion({
                 <p className={styles.simulacroTexto}>{t.descripcion}</p>
                 <p className={styles.simulacroTexto}>{disponibles} preguntas disponibles, sin anuladas.</p>
               </div>
-              <button
-                className={styles.primario}
-                disabled={disponibles === 0}
-                onClick={() => {
-                  const lista = crearSimulacro(t, TODAS, barajar);
-                  onEmpezar({...nuevaSesion('examen', lista), limiteMs: t.minutos * 60_000, simulacro: t.id});
-                }}>
-                Empezar
-              </button>
+              <div className={styles.simulacroBotones}>
+                <button
+                  className={styles.primario}
+                  disabled={disponibles === 0}
+                  onClick={() => {
+                    const lista = crearSimulacro(t, TODAS, barajar);
+                    onEmpezar({...nuevaSesion('examen', lista), limiteMs: t.minutos * 60_000, simulacro: t.id});
+                  }}>
+                  Empezar
+                </button>
+                <button
+                  className={styles.secundario}
+                  disabled={disponibles === 0}
+                  onClick={() => {
+                    const lista = crearSimulacro(t, TODAS, barajar);
+                    onEmpezar({...nuevaSesion('estudio', lista), simulacro: t.id});
+                  }}>
+                  Con corrección al momento
+                </button>
+              </div>
+              <p className={styles.simulacroNota}>
+                «Empezar»: cronometrado y sin ver respuestas hasta entregar. «Con corrección»: explicación y fuente al
+                responder cada pregunta, sin reloj.
+              </p>
             </div>
           );
         })}
@@ -186,18 +233,9 @@ function Configuracion({
         ))}
       </fieldset>
 
+      <SelectorTemas temas={temas} setTemas={setTemas} conteo={conteo} />
+
       <div className={styles.fila}>
-        <label className={styles.campo}>
-          <span>Tema</span>
-          <select value={tema} onChange={(e) => setTema(e.target.value)}>
-            <option value="todos">Todos los temas</option>
-            {temasDisponibles.map((t) => (
-              <option key={t} value={String(t)}>
-                {nombreTema(t)}
-              </option>
-            ))}
-          </select>
-        </label>
         <label className={clsx(styles.campo, styles.campoCorto)}>
           <span>Nº de preguntas</span>
           <input
@@ -232,6 +270,11 @@ function Configuracion({
         </label>
       </fieldset>
 
+      {desdeEnlace && (
+        <p id="test-desde-enlace" className={styles.desdeEnlace} role="status">
+          Test configurado desde el plan de estudio. Revisa y pulsa Empezar.
+        </p>
+      )}
       <div className={styles.acciones}>
         <button className={styles.primario} disabled={n === 0} onClick={empezar}>
           {n === 0 ? 'No hay preguntas con estos filtros' : `Empezar con ${n} ${n === 1 ? 'pregunta' : 'preguntas'}`}
@@ -249,6 +292,94 @@ function Configuracion({
         </button>
       )}
     </section>
+  );
+}
+
+function SelectorTemas({
+  temas,
+  setTemas,
+  conteo,
+}: {
+  temas: number[];
+  setTemas: (t: number[]) => void;
+  conteo: Map<number, number>;
+}) {
+  const sel = new Set(temas);
+  const ordenados = [...temas].sort((a, b) => a - b);
+  const resumen =
+    temas.length === TODOS_TEMAS.length
+      ? 'Todos los temas'
+      : temas.length === 0
+        ? 'Ningún tema'
+        : temas.length <= 8
+          ? `${temas.length === 1 ? '1 tema' : `${temas.length} temas`}: ${ordenados.join(', ')}`
+          : `${temas.length} temas`;
+  const total = temas.reduce((a, t) => a + (conteo.get(t) ?? 0), 0);
+  const alternar = (ts: number[], on: boolean) =>
+    setTemas(on ? [...new Set([...temas, ...ts])] : temas.filter((t) => !ts.includes(t)));
+  const grupoI = BLOQUES[0].temas;
+  const grupoII = TODOS_TEMAS.filter((t) => !grupoI.includes(t));
+  const atajos: [string, number[]][] = [
+    ['Todos', TODOS_TEMAS],
+    ['Grupo I', grupoI],
+    ['Grupo II', grupoII],
+    ['Ninguno', []],
+  ];
+
+  return (
+    <fieldset className={styles.grupo}>
+      <legend>Temas</legend>
+      <details className={styles.selector}>
+        <summary>
+          <span className={styles.selectorResumen}>{resumen}</span>
+          <span className={styles.tenue}>{total} preguntas</span>
+        </summary>
+        <div className={styles.selectorCuerpo}>
+          <div className={styles.atajosTemas}>
+            {atajos.map(([nombre, ts]) => (
+              <button key={nombre} type="button" className={styles.chipBoton} onClick={() => setTemas(ts)}>
+                {nombre}
+              </button>
+            ))}
+          </div>
+          {BLOQUES.map((b) => {
+            const marcados = b.temas.filter((t) => sel.has(t)).length;
+            const todos = marcados === b.temas.length;
+            return (
+              <div key={b.nombre} className={styles.bloque}>
+                <label className={styles.bloqueCab}>
+                  <input
+                    type="checkbox"
+                    checked={todos}
+                    ref={(el) => {
+                      if (el) el.indeterminate = marcados > 0 && !todos;
+                    }}
+                    onChange={(e) => alternar(b.temas, e.target.checked)}
+                  />
+                  <span>{b.nombre}</span>
+                  <span className={styles.cuenta}>
+                    {marcados}/{b.temas.length}
+                  </span>
+                </label>
+                <ul className={styles.listaTemas}>
+                  {b.temas.map((t) => (
+                    <li key={t}>
+                      <label className={clsx(styles.check, !(conteo.get(t) ?? 0) && styles.sinPreguntas)}>
+                        <input type="checkbox" checked={sel.has(t)} onChange={(e) => alternar([t], e.target.checked)} />
+                        <span className={styles.temaNombre}>
+                          {t}. {TEMAS[t]}
+                        </span>
+                        <span className={styles.cuenta}>{conteo.get(t) ?? 0}</span>
+                      </label>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            );
+          })}
+        </div>
+      </details>
+    </fieldset>
   );
 }
 
@@ -382,13 +513,11 @@ function EnCurso({
     <section className={styles.panel} aria-label={estudio ? 'Test en modo estudio' : 'Examen'}>
       <div className={styles.cabecera}>
         <span className={styles.modo}>
-          {sesion.simulacro === 'gsi'
-            ? 'Simulacro GSI'
-            : sesion.simulacro
-              ? 'Simulacro Madrid'
-              : estudio
-                ? 'Estudio'
-                : 'Examen'}
+          {sesion.simulacro
+            ? `Simulacro ${sesion.simulacro === 'gsi' ? 'GSI' : 'Madrid'}${estudio ? ' con corrección' : ''}`
+            : estudio
+              ? 'Estudio'
+              : 'Examen'}
         </span>
         <span className={styles.progreso}>
           Pregunta {actual + 1} de {total}

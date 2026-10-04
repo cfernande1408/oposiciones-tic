@@ -1,0 +1,283 @@
+.panel {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+.titulo {
+  font-size: clamp(1.6rem, 4vw, 2.1rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+
+.intro,
+.ayuda {
+  color: var(--grafito-suave);
+}
+
+.ayuda {
+  font-size: 0.88rem;
+}
+
+.config {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  min-width: 0;
+}
+
+.campo > span,
+.campo legend {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+  padding: 0;
+}
+
+.campo input {
+  font: inherit;
+  color: var(--grafito);
+  background: var(--papel);
+  border: 1.5px solid var(--linea);
+  border-radius: 8px;
+  padding: 0.5rem 0.65rem;
+  min-height: 2.75rem;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.segmentado {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.segmento {
+  position: relative;
+  flex: 1;
+  text-align: center;
+  padding: 0.55rem 0.4rem;
+  border: 1.5px solid var(--linea);
+  border-radius: 8px;
+  font-size: 0.88rem;
+  cursor: pointer;
+}
+
+.segmento input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.segmento:has(input:focus-visible) {
+  outline: 2px solid var(--tinta);
+  outline-offset: 2px;
+}
+
+.segmentoActivo {
+  border-color: var(--tinta);
+  background: var(--tinta-fondo);
+  font-weight: 700;
+}
+
+.resumen {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
+  margin: 1.75rem 0 0.75rem;
+}
+
+.cifra {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--tinta);
+  line-height: 1.1;
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.cifra span {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--grafito-suave);
+}
+
+.fases {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.92rem;
+}
+
+.fases li {
+  padding-left: 0.75rem;
+  border-left: 4px solid var(--linea);
+}
+
+.fase_primera {
+  border-left-color: var(--tinta) !important;
+}
+
+.fase_segunda {
+  border-left-color: var(--tinta-tenue) !important;
+}
+
+.fase_final {
+  border-left-color: var(--acierto) !important;
+}
+
+.aviso {
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--error);
+  background: var(--error-fondo);
+  font-size: 0.92rem;
+}
+
+.meses {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.mes {
+  border: 1.5px solid var(--linea);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+}
+
+.mesCabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.mesCabecera h2 {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.ajuste {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--grafito-suave);
+  white-space: nowrap;
+}
+
+.ajuste input {
+  font: inherit;
+  width: 4.2rem;
+  min-height: 2.4rem;
+  padding: 0.3rem 0.5rem;
+  border: 1.5px solid var(--linea);
+  border-radius: 8px;
+  background: var(--papel);
+  color: var(--grafito);
+  text-align: right;
+}
+
+.mesMeta {
+  font-size: 0.88rem;
+  color: var(--grafito-suave);
+  margin: 0.25rem 0 0.75rem;
+}
+
+.mes h3 {
+  font-size: 0.92rem;
+  margin: 0.9rem 0 0.4rem;
+}
+
+.temas {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.temas li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--linea);
+  font-size: 0.92rem;
+}
+
+.h {
+  flex: none;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.final {
+  font-size: 0.92rem;
+}
+
+.prioridad {
+  margin-top: 2rem;
+}
+
+.prioridad summary {
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+.tablaScroll {
+  overflow-x: auto;
+}
+
+.tabla {
+  display: table;
+  width: 100%;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabla th,
+.tabla td {
+  border: 0;
+  border-bottom: 1px solid var(--linea);
+  padding: 0.4rem 0.5rem;
+  text-align: right;
+}
+
+.tabla th[scope='row'],
+.tabla thead th:first-child {
+  text-align: left;
+  font-weight: 500;
+}
+
+.tabla tr {
+  background: transparent !important;
+}
+
+.tabla input {
+  accent-color: var(--tinta);
+  width: 1.1rem;
+  height: 1.1rem;
+}

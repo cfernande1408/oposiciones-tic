@@ -72,6 +72,7 @@ const config: Config = {
       },
       items: [
         {to: '/', label: 'Test', position: 'left', activeBaseRegex: '^/oposiciones-tic/?$'},
+        {to: '/estudiar', label: 'Plan', position: 'left'},
         {type: 'docSidebar', sidebarId: 'apuntes', position: 'left', label: 'Apuntes'},
         {
           href: 'https://github.com/cfernande1408/oposiciones-tic',
