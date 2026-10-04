@@ -1,0 +1,3803 @@
+{
+  "meta": {
+    "id": "examen-gsi-2024",
+    "titulo": "Examen GSI (AGE), diciembre de 2024",
+    "cuestionario": "https://sede.inap.gob.es/documents/59312/2364375/Cuestionario_GSI-L_vimprenta_NDPDSFW8UX_154AB89SD658.pdf",
+    "formato": "100 preguntas + 5 de reserva (101-105), 4 opciones, error resta 1/3",
+    "nota": "Respuestas de la plantilla definitiva del INAP. Temas mapeados al programa del Ayto. de Madrid para mezclarse en el simulacro."
+  },
+  "preguntas": [
+    {
+      "id": "examen-gsi-2024-001",
+      "numero": 1,
+      "tema": 1,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En virtud del artículo 63.3 de la Constitución Española de 1978, ¿a quién corresponde declarar la guerra y hacer la paz?",
+      "opciones": [
+        {
+          "texto": "A las Cortes Generales, previa autorización del Rey.",
+          "correcta": false,
+          "explicacion": "Lo hace el Rey y lo autorizan las Cortes, no al revés.",
+          "fuente": "CE art. 63.3"
+        },
+        {
+          "texto": "Al Rey, previa autorización del Congreso.",
+          "correcta": false,
+          "explicacion": "Autorizan las Cortes Generales, no solo el Congreso.",
+          "fuente": "CE art. 63.3"
+        },
+        {
+          "texto": "Al Congreso de los Diputados, previa autorización del Rey.",
+          "correcta": false,
+          "explicacion": "Es competencia del Rey.",
+          "fuente": "CE art. 63.3"
+        },
+        {
+          "texto": "Al Rey, previa autorización de las Cortes Generales.",
+          "correcta": true,
+          "explicacion": "Literal del art. 63.3.",
+          "fuente": "CE art. 63.3"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-002",
+      "numero": 2,
+      "tema": 1,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el apartado 2 del artículo 59 de la Constitución Española de 1978, ¿qué sucede si el Rey se inhabilitare para el ejercicio de su autoridad, y la imposibilidad fuere reconocida por las Cortes Generales?",
+      "opciones": [
+        {
+          "texto": "El Rey siguiere en su puesto, pero delegando sus funciones a la figura del Presidente del Gobierno.",
+          "correcta": false,
+          "explicacion": "No es lo previsto.",
+          "fuente": "CE art. 59.2"
+        },
+        {
+          "texto": "Entrará a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad.",
+          "correcta": true,
+          "explicacion": "Literal del art. 59.2: regencia del Príncipe heredero si es mayor de edad.",
+          "fuente": "CE art. 59.2"
+        },
+        {
+          "texto": "Se sometiere a referéndum distintas propuestas de candidatos para la delegación de funciones.",
+          "correcta": false,
+          "explicacion": "No hay referéndum.",
+          "fuente": "CE art. 59.2"
+        },
+        {
+          "texto": "Las funciones del Rey son ejercidas por un Responsable provisional del Gobierno designado a tales efectos por el Congreso de los Diputados por mayoría absoluta de la Cámara Alta.",
+          "correcta": false,
+          "explicacion": "Figura inexistente.",
+          "fuente": "CE art. 59.2"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-003",
+      "numero": 3,
+      "tema": 1,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Conforme al artículo 99 de la Constitución Española de 1978, ¿cómo se elige al Presidente del Gobierno en España?",
+      "opciones": [
+        {
+          "texto": "Es elegido directamente por los ciudadanos.",
+          "correcta": false,
+          "explicacion": "No hay elección directa.",
+          "fuente": "CE art. 99"
+        },
+        {
+          "texto": "Es nombrado por el Rey a propuesta del Congreso de los Diputados.",
+          "correcta": false,
+          "explicacion": "El Rey propone y el Congreso otorga la confianza.",
+          "fuente": "CE art. 99"
+        },
+        {
+          "texto": "Es elegido por el Senado.",
+          "correcta": false,
+          "explicacion": "El Senado no interviene.",
+          "fuente": "CE art. 99"
+        },
+        {
+          "texto": "Es elegido por el Congreso de los Diputados tras ser propuesto por el Rey.",
+          "correcta": true,
+          "explicacion": "El Rey propone candidato y el Congreso lo elige con su confianza.",
+          "fuente": "CE art. 99"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-004",
+      "numero": 4,
+      "tema": 1,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué sucede si el Congreso de los Diputados no aprueba los Presupuestos Generales del Estado?",
+      "opciones": [
+        {
+          "texto": "El Gobierno debe dimitir.",
+          "correcta": false,
+          "explicacion": "No es obligatorio dimitir.",
+          "fuente": "CE art. 134.4"
+        },
+        {
+          "texto": "Se prorrogan automáticamente los Presupuestos del año anterior.",
+          "correcta": true,
+          "explicacion": "Prórroga automática de los del ejercicio anterior.",
+          "fuente": "CE art. 134.4"
+        },
+        {
+          "texto": "Se disuelven las Cortes Generales.",
+          "correcta": false,
+          "explicacion": "No hay disolución automática.",
+          "fuente": "CE art. 134.4"
+        },
+        {
+          "texto": "El Senado toma el control del proceso presupuestario.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "CE art. 134.4"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-005",
+      "numero": 5,
+      "tema": 1,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes funciones NO es encomendada al Gobierno según el artículo 97 de la Constitución Española de 1978?",
+      "opciones": [
+        {
+          "texto": "Acreditar a los embajadores y otros representantes diplomáticos.",
+          "correcta": true,
+          "explicacion": "Es la que NO: acreditar embajadores corresponde al Rey (art. 63.1).",
+          "fuente": "CE arts. 63.1 y 97"
+        },
+        {
+          "texto": "Dirigir la política interior y exterior.",
+          "correcta": false,
+          "explicacion": "Sí es función del Gobierno.",
+          "fuente": "CE arts. 63.1 y 97"
+        },
+        {
+          "texto": "Ejercer la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+          "correcta": false,
+          "explicacion": "Sí es función del Gobierno.",
+          "fuente": "CE arts. 63.1 y 97"
+        },
+        {
+          "texto": "Dirigir la Administración civil y militar.",
+          "correcta": false,
+          "explicacion": "Sí es función del Gobierno.",
+          "fuente": "CE arts. 63.1 y 97"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-006",
+      "numero": 6,
+      "tema": 8,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes funciones NO es del Consejo de Transparencia y Buen Gobierno según el artículo 38 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "opciones": [
+        {
+          "texto": "Evaluar el grado de aplicación de esta Ley.",
+          "correcta": false,
+          "explicacion": "Sí es función (38.1.e).",
+          "fuente": "Ley 19/2013 art. 38"
+        },
+        {
+          "texto": "Imponer sanciones cuando el responsable de la infracción sea un alto cargo de la Administración General del Estado.",
+          "correcta": true,
+          "explicacion": "Es la que NO: el CTBG no impone esas sanciones.",
+          "fuente": "Ley 19/2013 art. 38"
+        },
+        {
+          "texto": "Promover actividades de formación y sensibilización para un mejor conocimiento de las materias reguladas por esta Ley.",
+          "correcta": false,
+          "explicacion": "Sí es función.",
+          "fuente": "Ley 19/2013 art. 38"
+        },
+        {
+          "texto": "Informar preceptivamente los proyectos normativos de carácter estatal que desarrollen esta Ley o que estén relacionados con su objeto.",
+          "correcta": false,
+          "explicacion": "Sí es función.",
+          "fuente": "Ley 19/2013 art. 38"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-007",
+      "numero": 7,
+      "tema": 14,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes opciones NO es uno de los Ejes de Actuación recogidos en el Pacto de Estado contra la Violencia de Género?",
+      "opciones": [
+        {
+          "texto": "El impulso de la formación de los distintos agentes para garantizar la mejor respuesta asistencial.",
+          "correcta": false,
+          "explicacion": "Sí es eje.",
+          "fuente": "Pacto de Estado contra la Violencia de Género (2017)"
+        },
+        {
+          "texto": "La mejora de las oportunidades de empleo en las zonas rurales, disminuyendo la exclusión social, incrementando la igualdad entre mujeres y hombres y las oportunidades para jóvenes, consolidando la resiliencia comunitaria.",
+          "correcta": true,
+          "explicacion": "Es la que NO: no figura entre los ejes.",
+          "fuente": "Pacto de Estado contra la Violencia de Género (2017)"
+        },
+        {
+          "texto": "La mejora de la respuesta institucional a través de la coordinación y el trabajo en red.",
+          "correcta": false,
+          "explicacion": "Sí es eje.",
+          "fuente": "Pacto de Estado contra la Violencia de Género (2017)"
+        },
+        {
+          "texto": "La visualización y atención de otras formas de violencia contra las mujeres, prestando especial atención a la violencia sexual, a la trata de mujeres y niñas con fines de explotación sexual, a la mutilación genital femenina y a los matrimonios forzados.",
+          "correcta": false,
+          "explicacion": "Sí es eje.",
+          "fuente": "Pacto de Estado contra la Violencia de Género (2017)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-008",
+      "numero": 8,
+      "tema": 14,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, ¿quién tiene derecho a las prestaciones de dependencia?",
+      "opciones": [
+        {
+          "texto": "Cualquier persona mayor de edad.",
+          "correcta": false,
+          "explicacion": "No basta con la edad.",
+          "fuente": "Ley 39/2006 art. 5"
+        },
+        {
+          "texto": "Sólo personas en edad laboral.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Ley 39/2006 art. 5"
+        },
+        {
+          "texto": "Personas en situación de dependencia reconocida en los términos establecidos por la ley.",
+          "correcta": true,
+          "explicacion": "Situación de dependencia reconocida conforme a la ley.",
+          "fuente": "Ley 39/2006 art. 5"
+        },
+        {
+          "texto": "Exclusivamente personas con enfermedades crónicas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Ley 39/2006 art. 5"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-009",
+      "numero": 9,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿A qué se refiere el término STORK?",
+      "opciones": [
+        {
+          "texto": "A un proyecto para conseguir el reconocimiento paneuropeo de las identidades electrónicas, y en concreto la aceptación del DNI electrónico e identificadores similares en Servicios de Administración Electrónica de otras administraciones europeas.",
+          "correcta": true,
+          "explicacion": "Reconocimiento paneuropeo de identidades electrónicas.",
+          "fuente": "Proyecto CIP STORK"
+        },
+        {
+          "texto": "A un sistema de verificación de edad para proteger a los menores de edad ante el acceso a contenidos de adultos en Internet.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Proyecto CIP STORK"
+        },
+        {
+          "texto": "Al plan de medidas lanzado por el Ministerio para la Transformación Digital y de la Función Pública para combatir las estafas telefónicas y por SMS.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Proyecto CIP STORK"
+        },
+        {
+          "texto": "Al proyecto de interoperabilidad semántica en los sistemas de información del Sistema Nacional de Salud y en el intercambio de documentación clínica en proyectos nacionales e internacionales.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Proyecto CIP STORK"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-010",
+      "numero": 10,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En virtud del artículo 9.3 del Reglamento de Ejecución (UE) 2015/1501 de la Comisión, de 8 de septiembre de 2015, sobre el marco de interoperabilidad de conformidad con el artículo 12, apartado 8, del Reglamento (UE) nº 910/2014 del Parlamento Europeo y del Consejo, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior, los operadores de los nodos eIDAS para el reconocimiento mutuo de identidades electrónicas en Europa deberán almacenar los datos que, en caso de accidente, permitan la reconstrucción de la secuencia del intercambio de mensajes para establecer el lugar y la naturaleza del incidente. Estos datos constarán como mínimo de los siguientes elementos:",
+      "opciones": [
+        {
+          "texto": "Identificación del nodo; identificación de los mensajes; fecha y hora de los mensajes.",
+          "correcta": true,
+          "explicacion": "Nodo, mensajes y fecha y hora: el mínimo exigido.",
+          "fuente": "Reglamento de Ejecución (UE) 2015/1501 art. 9.3"
+        },
+        {
+          "texto": "Identificación del nodo; identificación de los interlocutores; fecha y hora de los mensajes.",
+          "correcta": false,
+          "explicacion": "No es la lista.",
+          "fuente": "Reglamento de Ejecución (UE) 2015/1501 art. 9.3"
+        },
+        {
+          "texto": "Identificación del nodo; identificación de los mensajes; identificación de los interlocutores; fecha y hora de los mensajes.",
+          "correcta": false,
+          "explicacion": "Añade interlocutores, que no se exigen.",
+          "fuente": "Reglamento de Ejecución (UE) 2015/1501 art. 9.3"
+        },
+        {
+          "texto": "Identificación del nodo; identificación de los mensajes; identificación de los interlocutores.",
+          "correcta": false,
+          "explicacion": "Falta la fecha y hora.",
+          "fuente": "Reglamento de Ejecución (UE) 2015/1501 art. 9.3"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-011",
+      "numero": 11,
+      "tema": 15,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la respuesta correcta. Según el artículo 7 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales:",
+      "opciones": [
+        {
+          "texto": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de doce años.",
+          "correcta": false,
+          "explicacion": "No es la edad.",
+          "fuente": "LO 3/2018 art. 7.1"
+        },
+        {
+          "texto": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
+          "correcta": true,
+          "explicacion": "Mayores de catorce años.",
+          "fuente": "LO 3/2018 art. 7.1"
+        },
+        {
+          "texto": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de quince años.",
+          "correcta": false,
+          "explicacion": "No es la edad.",
+          "fuente": "LO 3/2018 art. 7.1"
+        },
+        {
+          "texto": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años.",
+          "correcta": false,
+          "explicacion": "16 años es el criterio general del RGPD, rebajado en España.",
+          "fuente": "LO 3/2018 art. 7.1"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-012",
+      "numero": 12,
+      "tema": 15,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la opción correcta de acuerdo al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos):",
+      "opciones": [
+        {
+          "texto": "Para realizar un tratamiento de datos personales, no es necesario contar con una base que lo legitime.",
+          "correcta": false,
+          "explicacion": "Falso.",
+          "fuente": "RGPD art. 6.1"
+        },
+        {
+          "texto": "Para realizar un tratamiento de datos personales, hay que contar con una base que lo legitime. Algunas de las posibles opciones que harían el tratamiento lícito pueden ser, al menos, la información acerca del tratamiento al interesado, el cumplimiento de una obligación legal del responsable, o el cumplimiento de una misión en interés público o en ejercicio de poderes públicos.",
+          "correcta": false,
+          "explicacion": "«Información» no es base legitimadora.",
+          "fuente": "RGPD art. 6.1"
+        },
+        {
+          "texto": "Para realizar un tratamiento de datos personales, hay que contar con una base que lo legitime. Algunas de las posibles opciones que harían el tratamiento lícito pueden ser, al menos, la información acerca del tratamiento al interesado, el cumplimiento de una obligación legal del responsable, o el cumplimiento de una misión en interés público o en ejercicio de poderes particulares.",
+          "correcta": false,
+          "explicacion": "«Poderes particulares» no existe.",
+          "fuente": "RGPD art. 6.1"
+        },
+        {
+          "texto": "Para realizar un tratamiento de datos personales, hay que contar con una base que lo legitime. Algunas de las posibles opciones que harían el tratamiento lícito pueden ser, al menos, el consentimiento del interesado, el cumplimiento de una obligación legal del responsable, o el cumplimiento de una misión en interés público o en ejercicio de poderes públicos.",
+          "correcta": true,
+          "explicacion": "Consentimiento, obligación legal o misión de interés público.",
+          "fuente": "RGPD art. 6.1"
+        }
+      ],
+      "nota": "La plantilla provisional se modificó a la d)."
+    },
+    {
+      "id": "examen-gsi-2024-013",
+      "numero": 13,
+      "tema": 9,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Complete la siguiente frase según el artículo 43 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: “Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido (…) desde la puesta a disposición de la notificación sin que se acceda a su contenido.”",
+      "opciones": [
+        {
+          "texto": "Diez días hábiles.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Ley 39/2015 art. 43.2"
+        },
+        {
+          "texto": "Cinco días naturales.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Ley 39/2015 art. 43.2"
+        },
+        {
+          "texto": "Cinco días hábiles.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Ley 39/2015 art. 43.2"
+        },
+        {
+          "texto": "Diez días naturales.",
+          "correcta": true,
+          "explicacion": "Diez días naturales.",
+          "fuente": "Ley 39/2015 art. 43.2"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-014",
+      "numero": 14,
+      "tema": 10,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes NO es un motivo de abstención según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público?",
+      "opciones": [
+        {
+          "texto": "Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél; ser administrador de sociedad o entidad interesada, o tener cuestión litigiosa pendiente con algún interesado.",
+          "correcta": false,
+          "explicacion": "Sí es motivo.",
+          "fuente": "Ley 40/2015 art. 23.2"
+        },
+        {
+          "texto": "Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del quinto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento, así como compartir despacho profesional o estar asociado con éstos para el asesoramiento, la representación o el mandato.",
+          "correcta": true,
+          "explicacion": "Es la que NO: la ley dice cuarto grado de consanguinidad, no quinto.",
+          "fuente": "Ley 40/2015 art. 23.2"
+        },
+        {
+          "texto": "Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.",
+          "correcta": false,
+          "explicacion": "Sí es motivo.",
+          "fuente": "Ley 40/2015 art. 23.2"
+        },
+        {
+          "texto": "Haber intervenido como perito o como testigo en el procedimiento de que se trate.",
+          "correcta": false,
+          "explicacion": "Sí es motivo.",
+          "fuente": "Ley 40/2015 art. 23.2"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-015",
+      "numero": 15,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la respuesta correcta en relación con la Carpeta Ciudadana del sector público estatal:",
+      "opciones": [
+        {
+          "texto": "El interesado accederá a la Carpeta Ciudadana mediante los sistemas de identificación a los que se refiere el artículo 9.2 de la Ley 39/2015, de 1 de octubre.",
+          "correcta": true,
+          "explicacion": "Acceso con los sistemas de identificación del art. 9.2 de la Ley 39/2015.",
+          "fuente": "RD 203/2021 art. 8"
+        },
+        {
+          "texto": "Pueden acceder a la misma el interesado y sus herederos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 203/2021 art. 8"
+        },
+        {
+          "texto": "Es el área personalizada de las personas interesadas de la sede electrónica del Portal de Transparencia.",
+          "correcta": false,
+          "explicacion": "Es del Punto de Acceso General.",
+          "fuente": "RD 203/2021 art. 8"
+        },
+        {
+          "texto": "Ofrece funcionalidades como el acceso a las tarjetas de crédito del interesado.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 203/2021 art. 8"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-016",
+      "numero": 16,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué deben cumplir los conjuntos de datos de alto valor según la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público?",
+      "opciones": [
+        {
+          "texto": "Estarán disponibles previo pago de la tasa correspondiente.",
+          "correcta": false,
+          "explicacion": "Son gratuitos.",
+          "fuente": "Ley 37/2007 art. 3 ter; Reglamento de Ejecución (UE) 2023/138"
+        },
+        {
+          "texto": "Se suministrarán en fichero .pfx por enlace de descarga.",
+          "correcta": false,
+          "explicacion": "Formato inventado.",
+          "fuente": "Ley 37/2007 art. 3 ter; Reglamento de Ejecución (UE) 2023/138"
+        },
+        {
+          "texto": "Se suministrarán a través de interfaz de programación de aplicaciones (API).",
+          "correcta": true,
+          "explicacion": "Disponibles mediante API (y descarga masiva).",
+          "fuente": "Ley 37/2007 art. 3 ter; Reglamento de Ejecución (UE) 2023/138"
+        },
+        {
+          "texto": "En ningún caso se proporcionarán en forma de descarga masiva.",
+          "correcta": false,
+          "explicacion": "También se ofrecen en descarga masiva.",
+          "fuente": "Ley 37/2007 art. 3 ter; Reglamento de Ejecución (UE) 2023/138"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-017",
+      "numero": 17,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": true,
+      "enunciado": "¿Cuáles de los siguientes corresponden a utilidades para portales y servicios públicos ofrecidos en el Catálogo de Servicios de Administración Digital de la Secretaría General de Administración Digital (SGAD)?",
+      "opciones": [
+        {
+          "texto": "PLATA, EGEO, OAG.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "PLATA, EGEO, OAW.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "FORMA, EGEO, OAW.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "PLATA, FORMA, OAW.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "ANULADA por el tribunal."
+    },
+    {
+      "id": "examen-gsi-2024-018",
+      "numero": 18,
+      "tema": 17,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes servicios comunes es un sistema para la gestión de documentos y expedientes electrónicos que cumple los requisitos para que ambos puedan almacenarse y/o obtenerse según el Esquema Nacional de Interoperabilidad (ENI)?",
+      "opciones": [
+        {
+          "texto": "CISE.",
+          "correcta": false,
+          "explicacion": "Intercambio de información del sector público.",
+          "fuente": "PAe: InSiDe"
+        },
+        {
+          "texto": "RUN.",
+          "correcta": false,
+          "explicacion": "Red de unidades.",
+          "fuente": "PAe: InSiDe"
+        },
+        {
+          "texto": "InSiDe.",
+          "correcta": true,
+          "explicacion": "Infraestructura y Sistemas de Documentación Electrónica.",
+          "fuente": "PAe: InSiDe"
+        },
+        {
+          "texto": "CIRCABC.",
+          "correcta": false,
+          "explicacion": "Repositorio de la Comisión Europea.",
+          "fuente": "PAe: InSiDe"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-019",
+      "numero": 19,
+      "tema": 18,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué clase de escalabilidad aplicamos cuando ampliamos memoria en el disco duro de un ordenador sobremesa?",
+      "opciones": [
+        {
+          "texto": "Escalabilidad horizontal.",
+          "correcta": false,
+          "explicacion": "Horizontal es añadir nodos.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Escalabilidad en carga.",
+          "correcta": false,
+          "explicacion": "No es un tipo de escalabilidad.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Escalabilidad vertical.",
+          "correcta": true,
+          "explicacion": "Añadir recursos a una misma máquina es escalar en vertical.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Escalabilidad de redundancia.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-020",
+      "numero": 20,
+      "tema": 18,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En relación con los multiprocesadores, según la taxonomía de Flynn, los sistemas vectoriales y matriciales se encuadran dentro de la clasificación:",
+      "opciones": [
+        {
+          "texto": "SSID (Single instruction, single data).",
+          "correcta": false,
+          "explicacion": "Sería SISD y está mal escrita.",
+          "fuente": "Taxonomía de Flynn"
+        },
+        {
+          "texto": "SIMD (Single instruction, multiple data).",
+          "correcta": true,
+          "explicacion": "Vectoriales y matriciales: SIMD.",
+          "fuente": "Taxonomía de Flynn"
+        },
+        {
+          "texto": "MISD (Multiple instruction, single data).",
+          "correcta": false,
+          "explicacion": "Poco común.",
+          "fuente": "Taxonomía de Flynn"
+        },
+        {
+          "texto": "MIMD (Multiple instruction, multiple data).",
+          "correcta": false,
+          "explicacion": "Multiprocesadores.",
+          "fuente": "Taxonomía de Flynn"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-021",
+      "numero": 21,
+      "tema": 55,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En la administración de servidores Windows, ¿qué son las directivas de seguridad?",
+      "opciones": [
+        {
+          "texto": "Herramientas de gestión de los privilegios de seguridad a nivel de dominio, de controlador de dominio y local.",
+          "correcta": true,
+          "explicacion": "Privilegios a nivel de dominio, controlador de dominio y local.",
+          "fuente": "Microsoft Learn: Security policy settings"
+        },
+        {
+          "texto": "Herramientas de resolución de nombres Windows, también llamadas DNS.",
+          "correcta": false,
+          "explicacion": "DNS es otra cosa.",
+          "fuente": "Microsoft Learn: Security policy settings"
+        },
+        {
+          "texto": "Herramientas que sirven para configurar el acceso a los recursos compartidos, también llamadas DFS (sistemas distribuidos de seguridad).",
+          "correcta": false,
+          "explicacion": "DFS es otra cosa.",
+          "fuente": "Microsoft Learn: Security policy settings"
+        },
+        {
+          "texto": "Herramientas de administración de seguridad de Internet, también llamadas IIS.",
+          "correcta": false,
+          "explicacion": "IIS es servidor web.",
+          "fuente": "Microsoft Learn: Security policy settings"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-022",
+      "numero": 22,
+      "tema": 19,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Linux es un sistema operativo de código libre basado en Unix. Sus diferentes versiones se denominan:",
+      "opciones": [
+        {
+          "texto": "Instalaciones.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Distribuciones.",
+          "correcta": true,
+          "explicacion": "Distribuciones.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Licencias adaptadas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Variaciones permitidas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-023",
+      "numero": 23,
+      "tema": 20,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Hay lenguajes de programación que soportan únicamente un paradigma. Lo normal es que los lenguajes soporten dos o más paradigmas de programación. Si nos referimos a PHP, podemos afirmar que soporta los siguientes paradigmas:",
+      "opciones": [
+        {
+          "texto": "Lógico y declarativo.",
+          "correcta": false,
+          "explicacion": "Eso es Prolog.",
+          "fuente": "php.net"
+        },
+        {
+          "texto": "Lógico, declarativo y genérico.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "php.net"
+        },
+        {
+          "texto": "Imperativo, orientado a objetos (prototipos) y concurrente.",
+          "correcta": false,
+          "explicacion": "Eso describe JavaScript.",
+          "fuente": "php.net"
+        },
+        {
+          "texto": "Imperativo, orientado a objetos, funcional y reflexivo.",
+          "correcta": true,
+          "explicacion": "Imperativo, orientado a objetos, funcional y reflexivo.",
+          "fuente": "php.net"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-024",
+      "numero": 24,
+      "tema": 20,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Refiriéndonos a una constante en un programa en lenguaje C, podemos afirmar que:",
+      "opciones": [
+        {
+          "texto": "También es conocida como conversión o casting.",
+          "correcta": false,
+          "explicacion": "Casting es conversión.",
+          "fuente": "ISO/IEC 9899 (C)"
+        },
+        {
+          "texto": "Es una entidad cuyo valor no puede ser modificado por el programa.",
+          "correcta": true,
+          "explicacion": "Valor no modificable.",
+          "fuente": "ISO/IEC 9899 (C)"
+        },
+        {
+          "texto": "Puede ser local, global, estática y externa.",
+          "correcta": false,
+          "explicacion": "Eso describe variables.",
+          "fuente": "ISO/IEC 9899 (C)"
+        },
+        {
+          "texto": "Se divide en conversiones y ámbitos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ISO/IEC 9899 (C)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-025",
+      "numero": 25,
+      "tema": 21,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes NO es un tipo de OLAP (On-Line Analytical Processing)?",
+      "opciones": [
+        {
+          "texto": "ROLAP (Relational On Line Analytic Processing).",
+          "correcta": false,
+          "explicacion": "Sí es tipo.",
+          "fuente": "Tipos de OLAP"
+        },
+        {
+          "texto": "SOLAP (Spiral On Line Analytic Processing).",
+          "correcta": true,
+          "explicacion": "Es la que NO: no existe «Spiral OLAP» (existe Spatial OLAP).",
+          "fuente": "Tipos de OLAP"
+        },
+        {
+          "texto": "MOLAP (Multidimentional On Line Analytic Processing).",
+          "correcta": false,
+          "explicacion": "Sí es tipo.",
+          "fuente": "Tipos de OLAP"
+        },
+        {
+          "texto": "HOLAP (Hybrid On Line Analytic Processing).",
+          "correcta": false,
+          "explicacion": "Sí es tipo.",
+          "fuente": "Tipos de OLAP"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-026",
+      "numero": 26,
+      "tema": 21,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un KPI (Key Performance Indicator) es un indicador vinculado a un objetivo. De las siguientes afirmaciones, señale la INCORRECTA:",
+      "opciones": [
+        {
+          "texto": "Los objetivos pueden ser borrosos y no estar delimitados.",
+          "correcta": true,
+          "explicacion": "Es la INCORRECTA: los objetivos deben estar delimitados.",
+          "fuente": "Criterios SMART"
+        },
+        {
+          "texto": "Los objetivos deben ser exactos.",
+          "correcta": false,
+          "explicacion": "Correcta.",
+          "fuente": "Criterios SMART"
+        },
+        {
+          "texto": "Los indicadores deben ser analizables periódicamente.",
+          "correcta": false,
+          "explicacion": "Correcta.",
+          "fuente": "Criterios SMART"
+        },
+        {
+          "texto": "Los objetivos deben ser medibles.",
+          "correcta": false,
+          "explicacion": "Correcta.",
+          "fuente": "Criterios SMART"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-027",
+      "numero": 27,
+      "tema": 39,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": true,
+      "enunciado": "La relación entre dos tablas que permite que un registro de una se relacione con ninguno, uno o varios registros en la otra tabla, se denomina:",
+      "opciones": [
+        {
+          "texto": "Relaciones persistentes.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Relación unívoca.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Relación uno a varios.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Relaciones varios a varios.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "ANULADA por el tribunal."
+    },
+    {
+      "id": "examen-gsi-2024-028",
+      "numero": 28,
+      "tema": 22,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En una base de datos relacional, al conjunto de atributos que identifican unívoca y mínimamente cada tupla, en una relación, se le denomina:",
+      "opciones": [
+        {
+          "texto": "Clave inherente.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "Codd (1970)"
+        },
+        {
+          "texto": "Clave candidata.",
+          "correcta": true,
+          "explicacion": "Clave candidata: identifica de forma unívoca y mínima.",
+          "fuente": "Codd (1970)"
+        },
+        {
+          "texto": "Clave semántica.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "Codd (1970)"
+        },
+        {
+          "texto": "Clave obligatoria.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "Codd (1970)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-029",
+      "numero": 29,
+      "tema": 19,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es una característica de los sistemas operativos distribuidos?",
+      "opciones": [
+        {
+          "texto": "Reloj común.",
+          "correcta": false,
+          "explicacion": "No hay reloj común.",
+          "fuente": "Coulouris, Sistemas distribuidos"
+        },
+        {
+          "texto": "Concurrencia global.",
+          "correcta": true,
+          "explicacion": "Concurrencia global entre nodos.",
+          "fuente": "Coulouris, Sistemas distribuidos"
+        },
+        {
+          "texto": "Homogeneidad.",
+          "correcta": false,
+          "explicacion": "Suelen ser heterogéneos.",
+          "fuente": "Coulouris, Sistemas distribuidos"
+        },
+        {
+          "texto": "Dependencia de fallos de los nodos del sistema.",
+          "correcta": false,
+          "explicacion": "Los fallos son independientes.",
+          "fuente": "Coulouris, Sistemas distribuidos"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-030",
+      "numero": 30,
+      "tema": 23,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es uno de los elementos de una arquitectura de servicios web?",
+      "opciones": [
+        {
+          "texto": "SOAP.",
+          "correcta": true,
+          "explicacion": "SOAP es elemento de la arquitectura de servicios web.",
+          "fuente": "W3C Web Services Architecture"
+        },
+        {
+          "texto": "VSDL.",
+          "correcta": false,
+          "explicacion": "Es WSDL, mal escrito.",
+          "fuente": "W3C Web Services Architecture"
+        },
+        {
+          "texto": "UDI.",
+          "correcta": false,
+          "explicacion": "Es UDDI, mal escrito.",
+          "fuente": "W3C Web Services Architecture"
+        },
+        {
+          "texto": "SOA.",
+          "correcta": false,
+          "explicacion": "SOA es la arquitectura en sí.",
+          "fuente": "W3C Web Services Architecture"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-031",
+      "numero": 31,
+      "tema": 63,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué protocolo se usa en las herramientas de monitorización para hacer consultas del estado de los activos?",
+      "opciones": [
+        {
+          "texto": "NDMP (Network Data Management Protocol).",
+          "correcta": false,
+          "explicacion": "Backup.",
+          "fuente": "RFC 1157"
+        },
+        {
+          "texto": "SNMP (Simple Network Management Protocol).",
+          "correcta": true,
+          "explicacion": "SNMP para consultar el estado.",
+          "fuente": "RFC 1157"
+        },
+        {
+          "texto": "NMS (Network Management System).",
+          "correcta": false,
+          "explicacion": "NMS es el sistema, no el protocolo.",
+          "fuente": "RFC 1157"
+        },
+        {
+          "texto": "ONTP (Open Network Transaction Protocol).",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "RFC 1157"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-032",
+      "numero": 32,
+      "tema": 64,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Dentro del modelo TCP/IP ¿cuál es una dirección de clase B?",
+      "opciones": [
+        {
+          "texto": "128.0.0.0",
+          "correcta": true,
+          "explicacion": "Clase B: 128-191.",
+          "fuente": "RFC 791 (clases)"
+        },
+        {
+          "texto": "127.0.0.1",
+          "correcta": false,
+          "explicacion": "Loopback (clase A).",
+          "fuente": "RFC 791 (clases)"
+        },
+        {
+          "texto": "10.0.0.0",
+          "correcta": false,
+          "explicacion": "Privada clase A.",
+          "fuente": "RFC 791 (clases)"
+        },
+        {
+          "texto": "126.255.255.255",
+          "correcta": false,
+          "explicacion": "Clase A.",
+          "fuente": "RFC 791 (clases)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-033",
+      "numero": 33,
+      "tema": 65,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál NO es un modelo de calidad de servicio (QoS) en una arquitectura de redes?",
+      "opciones": [
+        {
+          "texto": "Best-effort.",
+          "correcta": false,
+          "explicacion": "Sí es modelo.",
+          "fuente": "RFC 2475; RFC 1633"
+        },
+        {
+          "texto": "DiffServ (Differentiated Services).",
+          "correcta": false,
+          "explicacion": "Sí es modelo.",
+          "fuente": "RFC 2475; RFC 1633"
+        },
+        {
+          "texto": "IntServ (Integrated Services).",
+          "correcta": false,
+          "explicacion": "Sí es modelo.",
+          "fuente": "RFC 2475; RFC 1633"
+        },
+        {
+          "texto": "PriServ (Priority Services).",
+          "correcta": true,
+          "explicacion": "No existe.",
+          "fuente": "RFC 2475; RFC 1633"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-034",
+      "numero": 34,
+      "tema": 25,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En relación a los DTD y XML Schemas, ¿cuál es la respuesta correcta?",
+      "opciones": [
+        {
+          "texto": "XML Schema tiene sintaxis propia.",
+          "correcta": false,
+          "explicacion": "XSD usa sintaxis XML.",
+          "fuente": "W3C XML Schema"
+        },
+        {
+          "texto": "DTD permite definir nuevos tipos de datos.",
+          "correcta": false,
+          "explicacion": "DTD no define tipos de datos.",
+          "fuente": "W3C XML Schema"
+        },
+        {
+          "texto": "DTD es extensible.",
+          "correcta": false,
+          "explicacion": "DTD no es extensible.",
+          "fuente": "W3C XML Schema"
+        },
+        {
+          "texto": "XML Schema es fuertemente tipado.",
+          "correcta": true,
+          "explicacion": "XML Schema es fuertemente tipado.",
+          "fuente": "W3C XML Schema"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-035",
+      "numero": 35,
+      "tema": 16,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es una de las dimensiones de seguridad de la información?",
+      "opciones": [
+        {
+          "texto": "Aislamiento.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 311/2022 anexo I"
+        },
+        {
+          "texto": "Consistencia.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 311/2022 anexo I"
+        },
+        {
+          "texto": "Disponibilidad.",
+          "correcta": true,
+          "explicacion": "Las dimensiones son disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad.",
+          "fuente": "RD 311/2022 anexo I"
+        },
+        {
+          "texto": "Autenticación.",
+          "correcta": false,
+          "explicacion": "La dimensión se llama autenticidad, no autenticación.",
+          "fuente": "RD 311/2022 anexo I"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-036",
+      "numero": 36,
+      "tema": 28,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una amenaza que afecta a la integridad de la información?",
+      "opciones": [
+        {
+          "texto": "Fugas de información: de forma no intencionada, la información acaba en manos de quién no debe poseerla.",
+          "correcta": false,
+          "explicacion": "Confidencialidad.",
+          "fuente": "MAGERIT"
+        },
+        {
+          "texto": "Revelación intencionada de información: un usuario interno de la organización por diversas motivaciones (venganza, convicciones morales, políticas, etc.) decide revelar información de la que tiene acceso.",
+          "correcta": false,
+          "explicacion": "Confidencialidad.",
+          "fuente": "MAGERIT"
+        },
+        {
+          "texto": "Ransomware o criptoataque: un malware ataca nuestro sistema cifrando los archivos de modo que están irrecuperables salvo que se halle la clave para su descifrado.",
+          "correcta": true,
+          "explicacion": "El ransomware altera (cifra) los datos: integridad.",
+          "fuente": "MAGERIT"
+        },
+        {
+          "texto": "Ingeniería social: un atacante utiliza tretas para sonsacar información de los usuarios que tienen acceso a la misma.",
+          "correcta": false,
+          "explicacion": "Confidencialidad.",
+          "fuente": "MAGERIT"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-037",
+      "numero": 37,
+      "tema": 16,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es la herramienta del CCN para la gobernanza de la ciberseguridad, que permite evaluar regularmente el estado de la seguridad de los sistemas TIC de las entidades, organismos y organizaciones?",
+      "opciones": [
+        {
+          "texto": "ATENEA.",
+          "correcta": false,
+          "explicacion": "Plataforma de retos.",
+          "fuente": "ccn-cert.cni.es"
+        },
+        {
+          "texto": "CLARA.",
+          "correcta": false,
+          "explicacion": "Auditoría de cumplimiento.",
+          "fuente": "ccn-cert.cni.es"
+        },
+        {
+          "texto": "INES.",
+          "correcta": true,
+          "explicacion": "Informe Nacional del Estado de Seguridad.",
+          "fuente": "ccn-cert.cni.es"
+        },
+        {
+          "texto": "CARLA.",
+          "correcta": false,
+          "explicacion": "Herramienta de protección de información.",
+          "fuente": "ccn-cert.cni.es"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-038",
+      "numero": 38,
+      "tema": 16,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 31.1 del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS), indique la afirmación correcta en relación al tiempo en el que un sistema de información debe ser objeto de una auditoría regular ordinaria que verifique el cumplimiento de los requerimientos del ENS:",
+      "opciones": [
+        {
+          "texto": "Al menos cada año si el sistema es considerado de categoría Alta y cada 2 años si el sistema es considerado de categoría Media o Baja.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 311/2022 art. 31.1"
+        },
+        {
+          "texto": "Al menos cada 3 años, siempre que no se produzcan modificaciones sustanciales en los sistemas de información.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 311/2022 art. 31.1"
+        },
+        {
+          "texto": "Al menos cada 2 años.",
+          "correcta": true,
+          "explicacion": "Al menos cada dos años.",
+          "fuente": "RD 311/2022 art. 31.1"
+        },
+        {
+          "texto": "Al menos cada 2 años si el sistema es considerado de categoría Baja, cada año si el sistema es considerado de categoría Media, y cada 6 meses si el sistema es considerado de categoría Alta, siempre que no se produzcan modificaciones sustanciales en los sistemas de información.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RD 311/2022 art. 31.1"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-039",
+      "numero": 39,
+      "tema": 30,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es la arquitectura multicanal en un sistema de atención al cliente?",
+      "opciones": [
+        {
+          "texto": "Un sistema que integra diferentes servidores en una misma red.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "La capacidad de atender a los clientes a través de múltiples canales de comunicación, como teléfono, correo electrónico, chat, redes sociales, entre otros.",
+          "correcta": true,
+          "explicacion": "Atención por múltiples canales.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Un protocolo para establecer comunicación segura entre el cliente y el servidor.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Un tipo de base de datos utilizada en centros de contacto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-040",
+      "numero": 40,
+      "tema": 30,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes tipos de CRM se centra en mejorar la interacción con los clientes a través de múltiples canales?",
+      "opciones": [
+        {
+          "texto": "CRM Geográfico.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        },
+        {
+          "texto": "CRM Analítico.",
+          "correcta": false,
+          "explicacion": "Análisis de datos.",
+          "fuente": "—"
+        },
+        {
+          "texto": "CRM Operacional.",
+          "correcta": false,
+          "explicacion": "Automatiza procesos de contacto.",
+          "fuente": "—"
+        },
+        {
+          "texto": "CRM Colaborativo.",
+          "correcta": true,
+          "explicacion": "Colaborativo: interacción por múltiples canales.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-041",
+      "numero": 41,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Cuál de las siguientes afirmaciones sobre el Sistema de Alerta Temprana (SAT), es correcta:",
+      "opciones": [
+        {
+          "texto": "SAT-INET es un servicio para la detección en tiempo real de las amenazas e incidentes existentes en el tráfico en las redes de control y supervisión industrial del Organismo adscrito.",
+          "correcta": false,
+          "explicacion": "Describe SAT-ICS, no SAT-INET.",
+          "fuente": "CCN-CERT: SAT-INET y SAT-ICS"
+        },
+        {
+          "texto": "SAT-INET en ningún momento se centra en el análisis del contenido del tráfico, que no sea relevante en la detección de una amenaza.",
+          "correcta": true,
+          "explicacion": "Correcta según el tribunal.",
+          "fuente": "CCN-CERT: SAT-INET y SAT-ICS"
+        },
+        {
+          "texto": "SAT-ICS es un servicio para la detección en tiempo real de las amenazas e incidentes existentes en el tráfico que fluye entre la red interna del Organismo adscrito e Internet.",
+          "correcta": false,
+          "explicacion": "Describe SAT-INET.",
+          "fuente": "CCN-CERT: SAT-INET y SAT-ICS"
+        },
+        {
+          "texto": "SAT-ICS detecta patrones de distintos tipos de ataque y amenazas mediante el análisis del tráfico de red, en ningún momento se centra en el tráfico en protocolos industriales.",
+          "correcta": false,
+          "explicacion": "SAT-ICS sí analiza protocolos industriales.",
+          "fuente": "CCN-CERT: SAT-INET y SAT-ICS"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-042",
+      "numero": 42,
+      "tema": 28,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el CCN-CERT, ¿cuántos y cuáles son los niveles de impacto potencial de peligrosidad que se le pueden asignar a un ciberincidente?",
+      "opciones": [
+        {
+          "texto": "Son 3 niveles: bajo, medio y alto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "CCN-STIC 817"
+        },
+        {
+          "texto": "Son 4 niveles: bajo, medio, alto y muy alto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "CCN-STIC 817"
+        },
+        {
+          "texto": "Son 5 niveles: bajo, medio, alto, muy alto y crítico.",
+          "correcta": true,
+          "explicacion": "Bajo, medio, alto, muy alto y crítico.",
+          "fuente": "CCN-STIC 817"
+        },
+        {
+          "texto": "Son 6 niveles: bajo, medio, alto, muy alto, crítico y muy crítico.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "CCN-STIC 817"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-043",
+      "numero": 43,
+      "tema": 31,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una técnica utilizada en la Gestión de Derechos Digitales (DRM)?",
+      "opciones": [
+        {
+          "texto": "Multiplicación de datos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Compresión de archivos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Marcas de agua.",
+          "correcta": true,
+          "explicacion": "Marcas de agua.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Minimización del código.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-044",
+      "numero": 44,
+      "tema": 31,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Dónde se recoge la protección jurídica de los programas de ordenador en España?",
+      "opciones": [
+        {
+          "texto": "Ley 24/2015, de 24 de julio, de Patentes.",
+          "correcta": false,
+          "explicacion": "Excluye los programas como tales.",
+          "fuente": "RDL 1/1996 (LPI) art. 10.1.i y Título VII"
+        },
+        {
+          "texto": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+          "correcta": false,
+          "explicacion": "Protección de datos.",
+          "fuente": "RDL 1/1996 (LPI) art. 10.1.i y Título VII"
+        },
+        {
+          "texto": "Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.",
+          "correcta": true,
+          "explicacion": "Propiedad intelectual.",
+          "fuente": "RDL 1/1996 (LPI) art. 10.1.i y Título VII"
+        },
+        {
+          "texto": "Ley 11/2022, de 28 de junio, General de Telecomunicaciones.",
+          "correcta": false,
+          "explicacion": "Telecomunicaciones.",
+          "fuente": "RDL 1/1996 (LPI) art. 10.1.i y Título VII"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-045",
+      "numero": 45,
+      "tema": 32,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El objetivo de un análisis de viabilidad es:",
+      "opciones": [
+        {
+          "texto": "Reutilizar soluciones ya existentes en otras organizaciones.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Métrica v3, EVS"
+        },
+        {
+          "texto": "Disponer de criterios económicos, técnicos, legales y operativos que nos permitan decidir si seguir adelante con un proyecto o abandonar.",
+          "correcta": true,
+          "explicacion": "Criterios para decidir si seguir o abandonar.",
+          "fuente": "Métrica v3, EVS"
+        },
+        {
+          "texto": "Evaluar las necesidades de la organización con vistas a acometer un solo proyecto que las integre.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Métrica v3, EVS"
+        },
+        {
+          "texto": "Desarrollar un cronograma detallado del proyecto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Métrica v3, EVS"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-046",
+      "numero": 46,
+      "tema": 35,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el proceso de seguimiento de un proyecto informático, la monitorización y control del trabajo:",
+      "opciones": [
+        {
+          "texto": "Sólo se realiza en las fases iniciales del proyecto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "PMBOK"
+        },
+        {
+          "texto": "No incluye la toma de acciones preventivas y/o correctivas.",
+          "correcta": false,
+          "explicacion": "Sí incluye acciones preventivas y correctivas.",
+          "fuente": "PMBOK"
+        },
+        {
+          "texto": "Se enfoca únicamente en la gestión de riesgos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "PMBOK"
+        },
+        {
+          "texto": "Nos permite comprender el estado actual del proyecto, las medidas adoptadas y las proyecciones del presupuesto, el cronograma y el alcance.",
+          "correcta": true,
+          "explicacion": "Estado actual, medidas y proyecciones.",
+          "fuente": "PMBOK"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-047",
+      "numero": 47,
+      "tema": 33,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es la principal función de un sistema de gestión documental?",
+      "opciones": [
+        {
+          "texto": "Facilitar la edición de imágenes y videos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Almacenar, gestionar y controlar el acceso a documentos digitales dentro de una organización.",
+          "correcta": true,
+          "explicacion": "Almacenar, gestionar y controlar el acceso.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Crear y distribuir boletines informativos digitales.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Gestionar la contabilidad de una empresa.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-048",
+      "numero": 48,
+      "tema": 34,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes afirmaciones con respecto al modelo de ciclo de vida en cascada es correcta?",
+      "opciones": [
+        {
+          "texto": "Los usuarios establecen los requisitos del sistema en diferentes fases del proyecto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "El modelo es muy rígido, dado que es necesario finalizar cada actividad para iniciar la siguiente, lo que dificulta su adecuación a escenarios reales.",
+          "correcta": true,
+          "explicacion": "Rigidez: cada fase termina antes de la siguiente.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "El modelo dificulta la estimación y seguimiento del progreso del proyecto, al no disponer de entregables intermedios.",
+          "correcta": false,
+          "explicacion": "Tiene entregables por fase.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "Se dispone de versiones funcionales del sistema desde las etapas iniciales del proceso de desarrollo.",
+          "correcta": false,
+          "explicacion": "Eso es incremental o iterativo.",
+          "fuente": "Royce (1970)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-049",
+      "numero": 49,
+      "tema": 34,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el modelo de ciclo de vida en cascada pura, ¿qué sucede si la revisión del paso a la siguiente etapa del proyecto NO es satisfactoria?",
+      "opciones": [
+        {
+          "texto": "Se continua con la etapa siguiente.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "Se retrocede a la etapa anterior.",
+          "correcta": false,
+          "explicacion": "No en cascada pura.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "Se permanece en la etapa actual hasta que esté preparada.",
+          "correcta": true,
+          "explicacion": "Se permanece en la etapa hasta que esté lista.",
+          "fuente": "Royce (1970)"
+        },
+        {
+          "texto": "Se comienza otra vez con la primera etapa.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Royce (1970)"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-050",
+      "numero": 50,
+      "tema": 35,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Indique cuál de las siguientes NO es una metodología ágil:",
+      "opciones": [
+        {
+          "texto": "Scrum.",
+          "correcta": false,
+          "explicacion": "Ágil.",
+          "fuente": "Métrica v3"
+        },
+        {
+          "texto": "Extreme Programing (XP).",
+          "correcta": false,
+          "explicacion": "Ágil.",
+          "fuente": "Métrica v3"
+        },
+        {
+          "texto": "Métrica v3.",
+          "correcta": true,
+          "explicacion": "Métrica v3 no es ágil.",
+          "fuente": "Métrica v3"
+        },
+        {
+          "texto": "Lean.",
+          "correcta": false,
+          "explicacion": "Ágil.",
+          "fuente": "Métrica v3"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-051",
+      "numero": 51,
+      "tema": 35,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es el propósito principal del método PERT (Program Evaluation and Review Technique) en la gestión de proyectos?",
+      "opciones": [
+        {
+          "texto": "Estimar los costes de un proyecto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "PERT"
+        },
+        {
+          "texto": "Identificar riesgos financieros y establecer estrategias de mitigación.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "PERT"
+        },
+        {
+          "texto": "Identificar las rutas críticas y calcular el tiempo esperado de finalización del proyecto.",
+          "correcta": true,
+          "explicacion": "Rutas críticas y tiempo esperado.",
+          "fuente": "PERT"
+        },
+        {
+          "texto": "Evaluar la rentabilidad de un proyecto.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "PERT"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-052",
+      "numero": 52,
+      "tema": 34,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Indique cuál de las siguientes afirmaciones, referidas al concepto de prototipo en el desarrollo de software, es INCORRECTA:",
+      "opciones": [
+        {
+          "texto": "Es un producto software que se obtiene en una fase anterior a la finalización de un proyecto de desarrollo.",
+          "correcta": false,
+          "explicacion": "Correcta.",
+          "fuente": "—"
+        },
+        {
+          "texto": "No tiene por qué implementar todas las funcionalidades del sistema.",
+          "correcta": false,
+          "explicacion": "Correcta.",
+          "fuente": "—"
+        },
+        {
+          "texto": "El uso de prototipos no va a reducir el riesgo del proyecto.",
+          "correcta": true,
+          "explicacion": "Es la INCORRECTA: los prototipos reducen el riesgo.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Una vez se ha usado un prototipo, puede servir de base para el desarrollo del sistema.",
+          "correcta": false,
+          "explicacion": "Correcta (prototipo evolutivo).",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-053",
+      "numero": 53,
+      "tema": 34,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes enunciados NO es una ventaja del uso de prototipos?",
+      "opciones": [
+        {
+          "texto": "Para los usuarios es más fácil de evaluar un prototipo que un documento de especificación de requisitos software.",
+          "correcta": false,
+          "explicacion": "Sí es ventaja.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Hay una continua revisión de los requisitos del sistema por los usuarios.",
+          "correcta": false,
+          "explicacion": "Sí es ventaja.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Siempre es sencillo evolucionar el prototipo si se ha desarrollado con poca calidad.",
+          "correcta": true,
+          "explicacion": "No es ventaja: un prototipo de poca calidad es difícil de evolucionar.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Los usuarios tienen mucha más facilidad a la hora de describir lo que necesitan si lo ven en un prototipo.",
+          "correcta": false,
+          "explicacion": "Sí es ventaja.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-054",
+      "numero": 54,
+      "tema": 54,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un programa informático que utiliza inteligencia artificial y procesamiento del lenguaje natural para comprender preguntas es lo que comúnmente se conoce como:",
+      "opciones": [
+        {
+          "texto": "Total Test de Turing.",
+          "correcta": false,
+          "explicacion": "Prueba teórica.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Maquina de Turing con estados finitos.",
+          "correcta": false,
+          "explicacion": "Modelo teórico.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Chatbot.",
+          "correcta": true,
+          "explicacion": "Chatbot.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Deep Blue.",
+          "correcta": false,
+          "explicacion": "Programa de ajedrez.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-055",
+      "numero": 55,
+      "tema": 58,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Jenkins es:",
+      "opciones": [
+        {
+          "texto": "Un proyecto de código propietario para la automatización de las pruebas de software.",
+          "correcta": false,
+          "explicacion": "Es open source.",
+          "fuente": "jenkins.io"
+        },
+        {
+          "texto": "Un servidor web open source basado en Java.",
+          "correcta": false,
+          "explicacion": "No es servidor web.",
+          "fuente": "jenkins.io"
+        },
+        {
+          "texto": "Una especificación de servicios para desarrollo de aplicaciones móviles basado en patrones.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "jenkins.io"
+        },
+        {
+          "texto": "Un servidor de automatización open source escrito en Java para la integración continua de desarrollos software.",
+          "correcta": true,
+          "explicacion": "Servidor de automatización para CI.",
+          "fuente": "jenkins.io"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-056",
+      "numero": 56,
+      "tema": 58,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una herramienta de software para la gestión y construcción de proyectos Java basada en el llamado Modelo de Objetos de Proyecto (POM), el cual se define y mantiene en un fichero XML?",
+      "opciones": [
+        {
+          "texto": "Octopus Deploy.",
+          "correcta": false,
+          "explicacion": "Despliegue.",
+          "fuente": "maven.apache.org"
+        },
+        {
+          "texto": "ElasticBox.",
+          "correcta": false,
+          "explicacion": "Cloud.",
+          "fuente": "maven.apache.org"
+        },
+        {
+          "texto": "ElectricCloud.",
+          "correcta": false,
+          "explicacion": "DevOps.",
+          "fuente": "maven.apache.org"
+        },
+        {
+          "texto": "Maven.",
+          "correcta": true,
+          "explicacion": "Gestión de proyectos con POM (pom.xml).",
+          "fuente": "maven.apache.org"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-057",
+      "numero": 57,
+      "tema": 44,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué son pruebas de caja blanca?",
+      "opciones": [
+        {
+          "texto": "Pruebas que se centran en evaluar el código fuente interno de una aplicación.",
+          "correcta": true,
+          "explicacion": "Basada en el código interno.",
+          "fuente": "ISO/IEC/IEEE 29119-4"
+        },
+        {
+          "texto": "Pruebas que consisten en probar un sistema o programa informático sin tener conocimiento previo de su funcionamiento interno.",
+          "correcta": false,
+          "explicacion": "Eso es caja negra.",
+          "fuente": "ISO/IEC/IEEE 29119-4"
+        },
+        {
+          "texto": "Pruebas que evalúan la seguridad de una aplicación web en tiempo de ejecución.",
+          "correcta": false,
+          "explicacion": "Eso es DAST.",
+          "fuente": "ISO/IEC/IEEE 29119-4"
+        },
+        {
+          "texto": "Pruebas estáticas que evalúan el rendimiento y carga que soporta una aplicación.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ISO/IEC/IEEE 29119-4"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-058",
+      "numero": 58,
+      "tema": 44,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es JUnit?",
+      "opciones": [
+        {
+          "texto": "Un entorno para pruebas en la JVM.",
+          "correcta": true,
+          "explicacion": "Plataforma de pruebas en la JVM (JUnit 5).",
+          "fuente": "junit.org"
+        },
+        {
+          "texto": "Un framewok para el desarrollo de aplicaciones en JScript.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "junit.org"
+        },
+        {
+          "texto": "Un IDE para desarrollo de aplicaciones Java.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "junit.org"
+        },
+        {
+          "texto": "Un servidor de aplicaciones que cumple la especificación Java EE.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "junit.org"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-059",
+      "numero": 59,
+      "tema": 45,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes NO es una modalidad de migración de aplicaciones?",
+      "opciones": [
+        {
+          "texto": "Refronting.",
+          "correcta": false,
+          "explicacion": "Sí es modalidad.",
+          "fuente": "Modalidades de migración"
+        },
+        {
+          "texto": "Replacement.",
+          "correcta": false,
+          "explicacion": "Sí es modalidad.",
+          "fuente": "Modalidades de migración"
+        },
+        {
+          "texto": "Reconsidering.",
+          "correcta": true,
+          "explicacion": "No existe.",
+          "fuente": "Modalidades de migración"
+        },
+        {
+          "texto": "Rehosting.",
+          "correcta": false,
+          "explicacion": "Sí es modalidad.",
+          "fuente": "Modalidades de migración"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-060",
+      "numero": 60,
+      "tema": 45,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes tipos de mantenimiento software está dentro del ámbito de Métrica v3?",
+      "opciones": [
+        {
+          "texto": "El mantenimiento evolutivo.",
+          "correcta": true,
+          "explicacion": "Métrica contempla el correctivo y el evolutivo.",
+          "fuente": "Métrica v3, MSI"
+        },
+        {
+          "texto": "El mantenimiento adaptativo.",
+          "correcta": false,
+          "explicacion": "Fuera del ámbito de Métrica.",
+          "fuente": "Métrica v3, MSI"
+        },
+        {
+          "texto": "El mantenimiento perfectivo.",
+          "correcta": false,
+          "explicacion": "Fuera del ámbito de Métrica.",
+          "fuente": "Métrica v3, MSI"
+        },
+        {
+          "texto": "El mantenimiento preventivo.",
+          "correcta": false,
+          "explicacion": "Fuera del ámbito de Métrica.",
+          "fuente": "Métrica v3, MSI"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-061",
+      "numero": 61,
+      "tema": 46,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes opciones NO es una característica del diseño orientado a objetos?",
+      "opciones": [
+        {
+          "texto": "Reusabilidad.",
+          "correcta": false,
+          "explicacion": "Sí es característica.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Herencia.",
+          "correcta": false,
+          "explicacion": "Sí es característica.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Cohesión débil.",
+          "correcta": true,
+          "explicacion": "Se busca alta cohesión, no débil.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Polimorfismo.",
+          "correcta": false,
+          "explicacion": "Sí es característica.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-062",
+      "numero": 62,
+      "tema": 47,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes es un formato válido para el empaquetamiento de aplicaciones en Java Enterprise Edition (JEE)?",
+      "opciones": [
+        {
+          "texto": "VAR (Version Archive).",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        },
+        {
+          "texto": "LAR (Library Archive).",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        },
+        {
+          "texto": "SAR (Service Archive).",
+          "correcta": true,
+          "explicacion": "Service Archive (JBoss), según el tribunal.",
+          "fuente": "—"
+        },
+        {
+          "texto": "CAR (Class file Archive).",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "Los formatos estándar de Java EE son JAR, WAR, EAR y RAR; el tribunal dio SAR."
+    },
+    {
+      "id": "examen-gsi-2024-063",
+      "numero": 63,
+      "tema": 47,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes es un servidor de aplicaciones Java Enterprise Edition (JEE)?",
+      "opciones": [
+        {
+          "texto": "Apache Tomcat.",
+          "correcta": false,
+          "explicacion": "Tomcat es solo contenedor de servlets.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IBM WebSphere.",
+          "correcta": true,
+          "explicacion": "Servidor JEE completo.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Oracle Jdeveloper.",
+          "correcta": false,
+          "explicacion": "Es un IDE.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Oracle Exadata.",
+          "correcta": false,
+          "explicacion": "Es hardware de BD.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-064",
+      "numero": 64,
+      "tema": 47,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué tipo de objeto utiliza la plataforma .NET para encapsular la información sobre el usuario o la entidad que se está validando?",
+      "opciones": [
+        {
+          "texto": "Objeto User.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: IIdentity"
+        },
+        {
+          "texto": "Objeto Passport.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: IIdentity"
+        },
+        {
+          "texto": "Objeto Identity.",
+          "correcta": true,
+          "explicacion": "Identity (IIdentity) encapsula al usuario.",
+          "fuente": "Microsoft Learn: IIdentity"
+        },
+        {
+          "texto": "Objeto Token.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: IIdentity"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-065",
+      "numero": 65,
+      "tema": 47,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué clase se utiliza para manejar excepciones en .NET?",
+      "opciones": [
+        {
+          "texto": "Error.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: System.Exception"
+        },
+        {
+          "texto": "Fault.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: System.Exception"
+        },
+        {
+          "texto": "Issue.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Microsoft Learn: System.Exception"
+        },
+        {
+          "texto": "Exception.",
+          "correcta": true,
+          "explicacion": "System.Exception.",
+          "fuente": "Microsoft Learn: System.Exception"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-066",
+      "numero": 66,
+      "tema": 23,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes afirmaciones con respecto al estándar UDDI de OASIS es correcta?",
+      "opciones": [
+        {
+          "texto": "UDDI define un esquema XML para sindicación de contenidos a través de lectores RSS.",
+          "correcta": false,
+          "explicacion": "Eso es RSS.",
+          "fuente": "OASIS UDDI"
+        },
+        {
+          "texto": "UDDI define un lenguaje XML para describir la interfaz de servicios web.",
+          "correcta": false,
+          "explicacion": "Eso es WSDL.",
+          "fuente": "OASIS UDDI"
+        },
+        {
+          "texto": "UDDI define la pautas de accesibilidad para el contenido en la Web.",
+          "correcta": false,
+          "explicacion": "Eso es WCAG.",
+          "fuente": "OASIS UDDI"
+        },
+        {
+          "texto": "UDDI describe un protocolo para el registro y publicación de servicios web.",
+          "correcta": true,
+          "explicacion": "Registro y publicación de servicios web.",
+          "fuente": "OASIS UDDI"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-067",
+      "numero": 67,
+      "tema": 52,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En relación con la mejora y evaluación de procesos para el desarrollo de sistemas de software, ¿cuál de los siguientes NO es uno de los niveles de madurez del Modelo CMMI (Capability Maturity Model Integration)?",
+      "opciones": [
+        {
+          "texto": "Gestionado.",
+          "correcta": false,
+          "explicacion": "Nivel 2.",
+          "fuente": "CMMI"
+        },
+        {
+          "texto": "Definido.",
+          "correcta": false,
+          "explicacion": "Nivel 3.",
+          "fuente": "CMMI"
+        },
+        {
+          "texto": "Aprobado.",
+          "correcta": true,
+          "explicacion": "No existe.",
+          "fuente": "CMMI"
+        },
+        {
+          "texto": "Optimización.",
+          "correcta": false,
+          "explicacion": "Nivel 5.",
+          "fuente": "CMMI"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-068",
+      "numero": 68,
+      "tema": 52,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué miden los puntos de función en un sistema de software?",
+      "opciones": [
+        {
+          "texto": "El tamaño del sistema.",
+          "correcta": true,
+          "explicacion": "Tamaño funcional.",
+          "fuente": "IFPUG"
+        },
+        {
+          "texto": "El rendimiento del sistema.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "IFPUG"
+        },
+        {
+          "texto": "La seguridad del sistema.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "IFPUG"
+        },
+        {
+          "texto": "La fiabilidad del sistema.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "IFPUG"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-069",
+      "numero": 69,
+      "tema": 53,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La capacidad de un sitio web para ser utilizado por todas las personas, independientemente de sus habilidades o discapacidades, se denomina:",
+      "opciones": [
+        {
+          "texto": "Accesibilidad.",
+          "correcta": true,
+          "explicacion": "Accesibilidad.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Usabilidad.",
+          "correcta": false,
+          "explicacion": "Facilidad de uso.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Navegación intuitiva.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Compatibilidad.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-070",
+      "numero": 70,
+      "tema": 53,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es WCAG y cuál es su propósito principal?",
+      "opciones": [
+        {
+          "texto": "Un software para evaluar la accesibilidad de sitios web.",
+          "correcta": false,
+          "explicacion": "Es un estándar, no un software.",
+          "fuente": "W3C WCAG"
+        },
+        {
+          "texto": "Un estándar que define las pautas para hacer que el contenido web sea accesible.",
+          "correcta": true,
+          "explicacion": "Pautas de accesibilidad del contenido web.",
+          "fuente": "W3C WCAG"
+        },
+        {
+          "texto": "Un conjunto de herramientas para desarrollar sitios web adaptativos (responsive).",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "W3C WCAG"
+        },
+        {
+          "texto": "Una guía de buenas prácticas para la optimización de motores de búsqueda (SEO).",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "W3C WCAG"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-071",
+      "numero": 71,
+      "tema": 54,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es Spark en el contexto de Big Data?",
+      "opciones": [
+        {
+          "texto": "Un servicio de computación sin servidor que ejecuta código en respuesta a eventos y administra automáticamente los recursos computacionales subyacentes.",
+          "correcta": false,
+          "explicacion": "Eso es Lambda.",
+          "fuente": "spark.apache.org"
+        },
+        {
+          "texto": "Un servicio de administración de base de datos que permite catalogar, descubrir y compartir los datos almacenados en Hadoop y/o en fuentes de terceros.",
+          "correcta": false,
+          "explicacion": "Eso es Glue o Data Catalog.",
+          "fuente": "spark.apache.org"
+        },
+        {
+          "texto": "Un sistema de procesamiento distribuido de código abierto que se utiliza para cargas de trabajo de macrodatos.",
+          "correcta": true,
+          "explicacion": "Procesamiento distribuido de big data.",
+          "fuente": "spark.apache.org"
+        },
+        {
+          "texto": "Una base de datos administrada que proporciona un registro de transacciones transparente, inmutable y que se puede verificar mediante criptografía.",
+          "correcta": false,
+          "explicacion": "Eso es QLDB.",
+          "fuente": "spark.apache.org"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-072",
+      "numero": 72,
+      "tema": 54,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es la validación cruzada en minería de datos?",
+      "opciones": [
+        {
+          "texto": "Un método para evaluar la precisión de un modelo.",
+          "correcta": true,
+          "explicacion": "Evaluar el rendimiento del modelo.",
+          "fuente": "Hastie et al."
+        },
+        {
+          "texto": "Un proceso para limpiar datos no válidos descartados por el modelo.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Hastie et al."
+        },
+        {
+          "texto": "Una técnica para sobreajustar el modelo entrenándolo y validándolo con los mismos datos.",
+          "correcta": false,
+          "explicacion": "Lo contrario: evita el sobreajuste.",
+          "fuente": "Hastie et al."
+        },
+        {
+          "texto": "Un tipo de algoritmo de minería de datos basado en la técnica de Train-Test Split que consiste en descomponer de manera aleatoria una serie de datos.",
+          "correcta": false,
+          "explicacion": "No es un algoritmo.",
+          "fuente": "Hastie et al."
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-073",
+      "numero": 73,
+      "tema": 19,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En sistemas operativos, la planificación del procesador asigna momentos para que los procesos puedan utilizar el sistema y sus recursos. El algoritmo que asigna los turnos de ejecución de forma que los procesos estén ordenados en una cola circular y se vayan asignando intervalos de tiempos de ejecución por turnos es conocido como:",
+      "opciones": [
+        {
+          "texto": "SJF.",
+          "correcta": false,
+          "explicacion": "Primero el más corto.",
+          "fuente": "Silberschatz, cap. 5"
+        },
+        {
+          "texto": "FCFS.",
+          "correcta": false,
+          "explicacion": "Orden de llegada.",
+          "fuente": "Silberschatz, cap. 5"
+        },
+        {
+          "texto": "HRN.",
+          "correcta": false,
+          "explicacion": "Mayor ratio de respuesta.",
+          "fuente": "Silberschatz, cap. 5"
+        },
+        {
+          "texto": "Round Robin.",
+          "correcta": true,
+          "explicacion": "Round Robin: cola circular con quantum.",
+          "fuente": "Silberschatz, cap. 5"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-074",
+      "numero": 74,
+      "tema": 19,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el sentido más fundamental, cuando una aplicación necesita leer datos en un dispositivo llama a una función que le ofrece el sistema operativo, y el sistema operativo llama a una función implementada en el:",
+      "opciones": [
+        {
+          "texto": "Microkernel.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Módulo SVC.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Controlador del bus.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Controlador o driver.",
+          "correcta": true,
+          "explicacion": "Controlador o driver.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-075",
+      "numero": 75,
+      "tema": 39,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es la normalización en bases de datos?",
+      "opciones": [
+        {
+          "texto": "El proceso de organizar los datos para reducir la redundancia.",
+          "correcta": true,
+          "explicacion": "Reducir la redundancia.",
+          "fuente": "Codd"
+        },
+        {
+          "texto": "El proceso de crear índices en las columnas de la base de datos para agilizar las búsquedas.",
+          "correcta": false,
+          "explicacion": "Eso es indexar.",
+          "fuente": "Codd"
+        },
+        {
+          "texto": "El proceso por el cual, aunque los datos están distribuidos en varias ubicaciones, los usuarios tienen la impresión de que los datos se encuentran en un solo lugar.",
+          "correcta": false,
+          "explicacion": "Eso es transparencia de distribución.",
+          "fuente": "Codd"
+        },
+        {
+          "texto": "El proceso de transformación de una base de datos para que pueda ser considerada relacional según las normas de Codd.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Codd"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-076",
+      "numero": 76,
+      "tema": 56,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es el algoritmo de Paxos en bases de datos distribuidas?",
+      "opciones": [
+        {
+          "texto": "Un algoritmo para asegurar la consistencia eventual en sistemas distribuidos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Lamport, Paxos Made Simple"
+        },
+        {
+          "texto": "Un algoritmo para coordinar la replicación de datos en bases de datos distribuidas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Lamport, Paxos Made Simple"
+        },
+        {
+          "texto": "Un algoritmo de consenso para asegurar que múltiples nodos en un sistema distribuido acuerden un valor único.",
+          "correcta": true,
+          "explicacion": "Algoritmo de consenso.",
+          "fuente": "Lamport, Paxos Made Simple"
+        },
+        {
+          "texto": "Un algoritmo para la gestión de transacciones en bases de datos relacionales.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Lamport, Paxos Made Simple"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-077",
+      "numero": 77,
+      "tema": 27,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué significa el 2 en la regla de la copia de seguridad 3-2-1?",
+      "opciones": [
+        {
+          "texto": "Deben hacerse 2 copias de datos.",
+          "correcta": false,
+          "explicacion": "Son 3 copias.",
+          "fuente": "Regla 3-2-1"
+        },
+        {
+          "texto": "Deben utilizarse 2 formatos o soportes distintos.",
+          "correcta": true,
+          "explicacion": "2 soportes distintos.",
+          "fuente": "Regla 3-2-1"
+        },
+        {
+          "texto": "Las copias de seguridad deben almacenarse en 2 ubicaciones distintas.",
+          "correcta": false,
+          "explicacion": "1 copia fuera.",
+          "fuente": "Regla 3-2-1"
+        },
+        {
+          "texto": "Deben utilizarse 2 herramientas diferentes para la realización de las copias de seguridad.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "Regla 3-2-1"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-078",
+      "numero": 78,
+      "tema": 43,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El llamado conflicto de fusión (merge conflict) está relacionado con:",
+      "opciones": [
+        {
+          "texto": "Un problema de compatibilidad entre diferentes versiones de un sistema operativo.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "git-scm.com"
+        },
+        {
+          "texto": "Un problema de recuperación de una copia de seguridad, por la imposibilidad de fusionar al backup completo los backup diferenciales o incrementales.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "git-scm.com"
+        },
+        {
+          "texto": "El control de versiones en el desarrollo software.",
+          "correcta": true,
+          "explicacion": "Control de versiones.",
+          "fuente": "git-scm.com"
+        },
+        {
+          "texto": "Un problema de sincronización entre diferentes bases de datos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "git-scm.com"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-079",
+      "numero": 79,
+      "tema": 59,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es ELK (Elasticsearch, Logstash y Kibana) Stack?",
+      "opciones": [
+        {
+          "texto": "Un conjunto de herramientas para la búsqueda, análisis y visualización de datos.",
+          "correcta": true,
+          "explicacion": "Búsqueda, análisis y visualización.",
+          "fuente": "elastic.co"
+        },
+        {
+          "texto": "Un sistema de gestión de identidades que asegura el acceso a los datos de monitorización mediante autenticación multifactor.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "elastic.co"
+        },
+        {
+          "texto": "Una plataforma de análisis de sentimientos que utiliza procesamiento de lenguaje natural para evaluar el rendimiento del sistema basado en comentarios de usuarios.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "elastic.co"
+        },
+        {
+          "texto": "Una plataforma de blockchain utilizada para asegurar transacciones en redes distribuidas de monitorización.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "elastic.co"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-080",
+      "numero": 80,
+      "tema": 60,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un sistema RAID-5 formado por 5 discos:",
+      "opciones": [
+        {
+          "texto": "Muestra una tolerancia de fallo de 1 disco.",
+          "correcta": true,
+          "explicacion": "Tolera el fallo de un disco.",
+          "fuente": "SNIA: RAID"
+        },
+        {
+          "texto": "Muestra una tolerancia de fallo de 2 discos.",
+          "correcta": false,
+          "explicacion": "Eso es RAID 6.",
+          "fuente": "SNIA: RAID"
+        },
+        {
+          "texto": "Muestra una tolerancia de fallo de 3 discos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "SNIA: RAID"
+        },
+        {
+          "texto": "La tolerancia de fallo dependerá de la casuística y de cómo se distribuyan los bloques de paridad.",
+          "correcta": false,
+          "explicacion": "No depende.",
+          "fuente": "SNIA: RAID"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-081",
+      "numero": 81,
+      "tema": 63,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El protocolo LACP (Link Aggregation Control Protocol – IEEE 802.3ad):",
+      "opciones": [
+        {
+          "texto": "Permite el establecimiento de redes lógicas Ethernet en infraestructuras Ethernet nativas para mantener dinámicamente la topología entre nodos.",
+          "correcta": false,
+          "explicacion": "Eso son VLAN.",
+          "fuente": "IEEE 802.3ad/802.1AX"
+        },
+        {
+          "texto": "Se desarrolló para minimizar la posición dominante de las tarjetas de red de Cisco y compatibilizarlas con las de sus entonces rivales: Alcatel-Lucent, Aruba, IBM, ...",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "IEEE 802.3ad/802.1AX"
+        },
+        {
+          "texto": "Permite combinar varias conexiones de red físicas en una sola conexión lógica para aumentar el rendimiento y proporcionar redundancia.",
+          "correcta": true,
+          "explicacion": "Agrega enlaces físicos en uno lógico.",
+          "fuente": "IEEE 802.3ad/802.1AX"
+        },
+        {
+          "texto": "Proporciona conmutación modo activo/pasivo en las conexiones de red físicas para ofertar alta disponibilidad.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "IEEE 802.3ad/802.1AX"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-082",
+      "numero": 82,
+      "tema": 62,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Con respecto a la virtualización, podemos afirmar que un hipervisor de tipo 1:",
+      "opciones": [
+        {
+          "texto": "Ocupa el lugar de un sistema operativo host y programa los recursos de las máquinas virtuales directamente en el hardware.",
+          "correcta": true,
+          "explicacion": "Tipo 1 (bare metal): directamente sobre el hardware.",
+          "fuente": "—"
+        },
+        {
+          "texto": "También llamado “alojado”, permite múltiples lenguajes de programación sobre el sistema operativo host.",
+          "correcta": false,
+          "explicacion": "Eso es tipo 2.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Siempre es open source por compatibilidad con el sistema operativo host.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Se ejecuta por encima del sistema operativo convencional como una capa de software o una aplicación.",
+          "correcta": false,
+          "explicacion": "Eso es tipo 2.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-083",
+      "numero": 83,
+      "tema": 63,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué diferencia existe entre conectores ópticos APC y UPC?",
+      "opciones": [
+        {
+          "texto": "Las pérdidas de APC son del orden de 55 dB, mientras que las de UPC lo son de 65 dB.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "APC es tipo PC Connector y UPC es tipo Flat Connector.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "APC está pulido en ángulo de 8 grados y UPC está pulido sin ángulo.",
+          "correcta": true,
+          "explicacion": "APC pulido a 8°; UPC sin ángulo.",
+          "fuente": "—"
+        },
+        {
+          "texto": "UPC requiere alimentación externa y APC no la necesita.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-084",
+      "numero": 84,
+      "tema": 63,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una diferencia entre cables de datos CAT6 y CAT6a es que:",
+      "opciones": [
+        {
+          "texto": "CAT6 resiste mejor las interferencias que CAT6a.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "TIA-568"
+        },
+        {
+          "texto": "CAT6 suele estar apantallado y CAT6a no.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "TIA-568"
+        },
+        {
+          "texto": "CAT6 soporta anchos de banda hasta 250 MHz y CAT6a hasta 500 MHz.",
+          "correcta": true,
+          "explicacion": "250 MHz frente a 500 MHz.",
+          "fuente": "TIA-568"
+        },
+        {
+          "texto": "CAT6 alcanza 10 Gbps y CAT6a alcanza 100 Gbps.",
+          "correcta": false,
+          "explicacion": "Ambos rondan 10 Gbps.",
+          "fuente": "TIA-568"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-085",
+      "numero": 85,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En relación al ámbito de la seguridad de la red de una organización, podríamos afirmar que:",
+      "opciones": [
+        {
+          "texto": "IDS (Intrusion Detection System) es un servidor en la red que bloquea los accesos no autorizados.",
+          "correcta": false,
+          "explicacion": "IDS detecta, no bloquea.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IPS (Intrusion Prevention System) es un software que se utiliza para un análisis forense de los ataques y accesos no autorizados.",
+          "correcta": false,
+          "explicacion": "IPS bloquea.",
+          "fuente": "—"
+        },
+        {
+          "texto": "SIEM (Security Information and Event Management) es un software que engloba la gestión de información de seguridad y la gestión de eventos.",
+          "correcta": true,
+          "explicacion": "SIEM: SIM + SEM.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IGS (Intrusion Gateway System) combina las tareas de un IDS y un IPS, proporcionando un análisis en tiempo real de las alertas de seguridad generadas por los distintos dispositivos hardware y software de la red.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-086",
+      "numero": 86,
+      "tema": 64,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": true,
+      "enunciado": "Una de las diferencias entre los protocolos de enrutamiento IS-IS y OSPF es:",
+      "opciones": [
+        {
+          "texto": "IS-IS es del tipo EGP (Exterior Gateway Protocol), OSPF del tipo IGP (Interior Gateway Protocol).",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IS-IS es del tipo vector-distancia, OSPF del tipo estado-enlace.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IS-IS es del tipo estado-enlace, OSPF del tipo vector-distancia.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "IS-IS no es de la capa 3 de OSI, OSPF sí lo es.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "ANULADA: ambos son de estado de enlace."
+    },
+    {
+      "id": "examen-gsi-2024-087",
+      "numero": 87,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "NESSUS es:",
+      "opciones": [
+        {
+          "texto": "Una utilidad gráfica para mostrar los datos obtenidos por SNMP.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "tenable.com/products/nessus"
+        },
+        {
+          "texto": "Una herramienta para gestión de correo electrónico en entornos no Windows.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "tenable.com/products/nessus"
+        },
+        {
+          "texto": "Una herramienta para distribución de políticas GPO en entornos no Windows.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "tenable.com/products/nessus"
+        },
+        {
+          "texto": "Una herramienta de código abierto para escaneo de vulnerabilidades y pentesting.",
+          "correcta": true,
+          "explicacion": "Escáner de vulnerabilidades.",
+          "fuente": "tenable.com/products/nessus"
+        }
+      ],
+      "nota": "Nessus es propietario desde 2005; su fork libre es OpenVAS. El tribunal dio por buena la d)."
+    },
+    {
+      "id": "examen-gsi-2024-088",
+      "numero": 88,
+      "tema": 64,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En cuanto al protocolo de enrutamiento RIP, supongamos que un router A ha aprendido el coste hacia una red a través de un router B. ¿Cuál es el mecanismo que utiliza el router B para anunciar al router A un cambio de métrica en esa ruta, sin esperar al siguiente ciclo de actualización?",
+      "opciones": [
+        {
+          "texto": "Poison Reverse.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 2453"
+        },
+        {
+          "texto": "Triggered Updates.",
+          "correcta": true,
+          "explicacion": "Triggered updates: actualizaciones inmediatas ante cambios.",
+          "fuente": "RFC 2453"
+        },
+        {
+          "texto": "Split Horizon.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 2453"
+        },
+        {
+          "texto": "Split Horizon con Poison Reverse.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 2453"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-089",
+      "numero": 89,
+      "tema": 65,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En una red MPLS (Multiprotocol Label Switching), ¿cómo se denomina el tráfico que se encamina bajo una etiqueta y es tratado del mismo modo por un conmutador?",
+      "opciones": [
+        {
+          "texto": "LER (Label Edge Router).",
+          "correcta": false,
+          "explicacion": "Router de borde.",
+          "fuente": "RFC 3031"
+        },
+        {
+          "texto": "FEC (Forwarding Equivalence Class).",
+          "correcta": true,
+          "explicacion": "FEC: tráfico tratado igual bajo una etiqueta.",
+          "fuente": "RFC 3031"
+        },
+        {
+          "texto": "LSR (Label Switching Router).",
+          "correcta": false,
+          "explicacion": "Router de conmutación.",
+          "fuente": "RFC 3031"
+        },
+        {
+          "texto": "LFP (Label Forwarding Package).",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "RFC 3031"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-090",
+      "numero": 90,
+      "tema": 69,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": true,
+      "enunciado": "Con respecto a la familia de protocolos 802.11, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        {
+          "texto": "802.11g puede utilizar QAM (Quadrature Amplitude Modulation) para transmisión.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "La velocidad máxima teórica de 802.11a es de 54 Mbps.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "802.11n solo utiliza la banda de 5 GHz.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        },
+        {
+          "texto": "802.11b ofrece hasta 4 canales no solapados.",
+          "correcta": false,
+          "explicacion": "Anulada.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "ANULADA: la a) y la b) son ciertas."
+    },
+    {
+      "id": "examen-gsi-2024-091",
+      "numero": 91,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es el principal objetivo del principio de \"mínimo privilegio\" en el diseño de redes?",
+      "opciones": [
+        {
+          "texto": "Asegurar que todos los usuarios tengan acceso a la red.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Permitir acceso total a todos los usuarios.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Limitar el acceso de los usuarios solo a lo necesario para sus tareas.",
+          "correcta": true,
+          "explicacion": "Mínimo privilegio.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Proporcionar acceso ilimitado a los administradores de red.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-092",
+      "numero": 92,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Al tipo de ataque que se caracteriza por el uso de múltiples dispositivos conectados a Internet para inundar un objetivo con tráfico de peticiones hasta comprometer la disponibilidad, se le denomina:",
+      "opciones": [
+        {
+          "texto": "Ataque de ransomware.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Ataque DDoS.",
+          "correcta": true,
+          "explicacion": "DDoS.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Ataque de phishing.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Ataque de ingeniería social.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-093",
+      "numero": 93,
+      "tema": 24,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es el modelo OSI y cuántas capas tiene?",
+      "opciones": [
+        {
+          "texto": "Un modelo de referencia para la comunicación en redes con 7 capas.",
+          "correcta": true,
+          "explicacion": "Siete capas.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Un modelo de referencia para la comunicación en redes con 6 capas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Un modelo de referencia para la comunicación en redes con 5 capas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Un modelo de referencia para la comunicación en redes con 4 capas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ISO/IEC 7498-1"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-094",
+      "numero": 94,
+      "tema": 67,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Los protocolos de comunicación mas comúnmente utilizados en IoT (Internet of Things), son:",
+      "opciones": [
+        {
+          "texto": "SNMP y RTP.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "SMTP y FTP.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "—"
+        },
+        {
+          "texto": "MQTT y CoAP.",
+          "correcta": true,
+          "explicacion": "MQTT y CoAP.",
+          "fuente": "—"
+        },
+        {
+          "texto": "XMPT y AMPP.",
+          "correcta": false,
+          "explicacion": "Protocolos mal escritos.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-095",
+      "numero": 95,
+      "tema": 68,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué se conoce como NGN?",
+      "opciones": [
+        {
+          "texto": "New Generation Network, que es una red basada en paquetes.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T Y.2001"
+        },
+        {
+          "texto": "New Global Network, que es una red basada en circuitos.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T Y.2001"
+        },
+        {
+          "texto": "Network Generation Node, que es una red basada en conmutación de mensajes.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T Y.2001"
+        },
+        {
+          "texto": "Next Generation Network, que es una red basada en paquetes.",
+          "correcta": true,
+          "explicacion": "Next Generation Network, basada en paquetes.",
+          "fuente": "ITU-T Y.2001"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-096",
+      "numero": 96,
+      "tema": 68,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La función principal de una MCU (Multipoint Control Unit) en una red H.323, es:",
+      "opciones": [
+        {
+          "texto": "Proporcionar enrutamiento de paquetes de datos en una red de comunicaciones IP.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "Coordinar y gestionar conferencias de video y audio entre múltiples participantes.",
+          "correcta": true,
+          "explicacion": "Gestiona conferencias multipunto.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "Gestionar la seguridad extremo a extremo de la comunicación.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "Ofrecer servicios de almacenamiento en la nube para datos de comunicación.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T H.323"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-097",
+      "numero": 97,
+      "tema": 69,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La técnica de multiplexación fundamental para la eficiencia espectral en las redes móviles 4G LTE es:",
+      "opciones": [
+        {
+          "texto": "FDMA (Frequency Division Multiple Access).",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP LTE"
+        },
+        {
+          "texto": "TDMA (Time Division Multiple Access).",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP LTE"
+        },
+        {
+          "texto": "CDMA (Code Division Multiple Access).",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP LTE"
+        },
+        {
+          "texto": "OFDMA (Orthogonal Frequency Division Multiple Access).",
+          "correcta": true,
+          "explicacion": "OFDMA.",
+          "fuente": "3GPP LTE"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-098",
+      "numero": 98,
+      "tema": 69,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La característica de la tecnología 5G que permite la implementación de redes privadas y la segmentación de red (network slicing) es:",
+      "opciones": [
+        {
+          "texto": "El uso de frecuencias más altas.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP 5G"
+        },
+        {
+          "texto": "Una arquitectura basada en software y virtualización.",
+          "correcta": true,
+          "explicacion": "SDN/NFV permiten el network slicing.",
+          "fuente": "3GPP 5G"
+        },
+        {
+          "texto": "Un mayor ancho de banda.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP 5G"
+        },
+        {
+          "texto": "La compatibilidad con tecnologías anteriores.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "3GPP 5G"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-099",
+      "numero": 99,
+      "tema": 68,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Los sistemas de videoconferencia son especialmente sensibles al \"jitter\". ¿Qué es?",
+      "opciones": [
+        {
+          "texto": "Una interrupción en la señal.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 3393"
+        },
+        {
+          "texto": "Una ráfaga de pérdida de información.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 3393"
+        },
+        {
+          "texto": "Una variabilidad en el tiempo de llegada de los paquetes de datos.",
+          "correcta": true,
+          "explicacion": "Variación del retardo de llegada.",
+          "fuente": "RFC 3393"
+        },
+        {
+          "texto": "Un tipo de codificación.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "RFC 3393"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-100",
+      "numero": 100,
+      "tema": 68,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El estándar de ITU-T que se utiliza para videoconferencia sobre redes IP es:",
+      "opciones": [
+        {
+          "texto": "H.320",
+          "correcta": false,
+          "explicacion": "H.320 es sobre RDSI.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "H.261",
+          "correcta": false,
+          "explicacion": "Códec de vídeo.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "H.323",
+          "correcta": true,
+          "explicacion": "Videoconferencia sobre IP.",
+          "fuente": "ITU-T H.323"
+        },
+        {
+          "texto": "H.264",
+          "correcta": false,
+          "explicacion": "Códec de vídeo.",
+          "fuente": "ITU-T H.323"
+        }
+      ]
+    },
+    {
+      "id": "examen-gsi-2024-101",
+      "numero": 101,
+      "tema": 60,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Acorde al IETF RFC 3720, el formato de un identificador IQN (iSCSI Qualified Name), siendo “aaaa-mm” el año y el mes de adquisición del dominio, es:",
+      "opciones": [
+        {
+          "texto": "iqn.aaaa-mm.naming-authority:nombre-único",
+          "correcta": true,
+          "explicacion": "iqn.aaaa-mm.autoridad:nombre.",
+          "fuente": "RFC 3720"
+        },
+        {
+          "texto": "eui.aaaa-mm.naming-authority:nombre-único",
+          "correcta": false,
+          "explicacion": "Prefijo incorrecto.",
+          "fuente": "RFC 3720"
+        },
+        {
+          "texto": "iqn.naming-authority.aaaa-mm:nombre-único",
+          "correcta": false,
+          "explicacion": "Orden incorrecto.",
+          "fuente": "RFC 3720"
+        },
+        {
+          "texto": "eui.naming-authority.aaaa-mm:nombre-único",
+          "correcta": false,
+          "explicacion": "Prefijo y orden incorrectos.",
+          "fuente": "RFC 3720"
+        }
+      ],
+      "nota": "Pregunta de reserva n.º 1."
+    },
+    {
+      "id": "examen-gsi-2024-102",
+      "numero": 102,
+      "tema": 46,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En relación con UML, ¿cuál de las siguientes opciones NO es una característica de MOF?",
+      "opciones": [
+        {
+          "texto": "Se utiliza para definir la estructura de metamodelos.",
+          "correcta": false,
+          "explicacion": "Sí es característica.",
+          "fuente": "OMG MOF"
+        },
+        {
+          "texto": "Es un estándar de la OMG.",
+          "correcta": false,
+          "explicacion": "Sí es característica.",
+          "fuente": "OMG MOF"
+        },
+        {
+          "texto": "XMI es el formato estándar basado en XML para transmisión y almacenamiento de modelos OML.",
+          "correcta": false,
+          "explicacion": "Sí es característica (aunque pone OML en vez de UML).",
+          "fuente": "OMG MOF"
+        },
+        {
+          "texto": "La definición que incluye se limita al metamodelo UML.",
+          "correcta": true,
+          "explicacion": "Es la que NO: MOF no se limita a UML.",
+          "fuente": "OMG MOF"
+        }
+      ],
+      "nota": "Pregunta de reserva n.º 2."
+    },
+    {
+      "id": "examen-gsi-2024-103",
+      "numero": 103,
+      "tema": 23,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Las BER (Basic Encoding Rules):",
+      "opciones": [
+        {
+          "texto": "Están definidas en el estándar ITU-T X.660",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T X.690"
+        },
+        {
+          "texto": "Están definidas en el estándar ITU-T X.690",
+          "correcta": true,
+          "explicacion": "BER, CER y DER están en X.690.",
+          "fuente": "ITU-T X.690"
+        },
+        {
+          "texto": "Están definidas en el estándar ITU-T X.960",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T X.690"
+        },
+        {
+          "texto": "Están definidas en el estándar ITU-T X.990",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "ITU-T X.690"
+        }
+      ],
+      "nota": "Pregunta de reserva n.º 3."
+    },
+    {
+      "id": "examen-gsi-2024-104",
+      "numero": 104,
+      "tema": 54,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El aprendizaje profundo (deep learning) es una rama del aprendizaje automático que modela a alto nivel el mundo real mediante redes neuronales, aprendiendo de manera continua e iterativa de los resultados obtenidos en la aplicación de modelos de aprendizaje automático sin la necesidad de intervención humana. ¿Cuál de las siguientes NO es una biblioteca usada para operar con redes neuronales?",
+      "opciones": [
+        {
+          "texto": "Keras.",
+          "correcta": false,
+          "explicacion": "Existe.",
+          "fuente": "—"
+        },
+        {
+          "texto": "AutomaticDL.",
+          "correcta": true,
+          "explicacion": "No existe esa librería.",
+          "fuente": "—"
+        },
+        {
+          "texto": "TensorFlow.",
+          "correcta": false,
+          "explicacion": "Existe.",
+          "fuente": "—"
+        },
+        {
+          "texto": "PyTorch.",
+          "correcta": false,
+          "explicacion": "Existe.",
+          "fuente": "—"
+        }
+      ],
+      "nota": "Pregunta de reserva n.º 4."
+    },
+    {
+      "id": "examen-gsi-2024-105",
+      "numero": 105,
+      "tema": 66,
+      "origen": "examen-gsi-2024",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes es el token de seguridad definido en las especificaciones Web Services Security (WS-Security) para el uso de certificados X.509?",
+      "opciones": [
+        {
+          "texto": "Username Token.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "OASIS WS-Security"
+        },
+        {
+          "texto": "Binary Security Token.",
+          "correcta": true,
+          "explicacion": "BinarySecurityToken para certificados X.509.",
+          "fuente": "OASIS WS-Security"
+        },
+        {
+          "texto": "Certificate Token.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "OASIS WS-Security"
+        },
+        {
+          "texto": "X.509 Certificate Token.",
+          "correcta": false,
+          "explicacion": "No.",
+          "fuente": "OASIS WS-Security"
+        }
+      ],
+      "nota": "Pregunta de reserva n.º 5."
+    }
+  ]
+}
