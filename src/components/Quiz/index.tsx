@@ -5,9 +5,12 @@ import {nombreTema} from '../../data/temas';
 import {
   LETRAS,
   anotar,
+  SIMULACRO,
   barajar,
   cargarStats,
   corregir,
+  corregirPorGrupo,
+  crearSimulacro,
   estadoCasilla,
   formatoTiempo,
   guardarStats,
@@ -121,6 +124,26 @@ function Configuracion({
           </>
         )}
       </p>
+
+      <div className={styles.simulacro}>
+        <div>
+          <h2 className={styles.simulacroTitulo}>Simulacro de examen</h2>
+          <p className={styles.simulacroTexto}>
+            {SIMULACRO.total} preguntas de todos los bancos con el reparto del examen real: {SIMULACRO.grupoI} del
+            Grupo I y {SIMULACRO.total - SIMULACRO.grupoI} del Grupo II. {SIMULACRO.minutos} minutos, sin anuladas.
+          </p>
+        </div>
+        <button
+          className={styles.primario}
+          onClick={() => {
+            const lista = crearSimulacro(TODAS, barajar);
+            onEmpezar({...nuevaSesion('examen', lista), limiteMs: SIMULACRO.minutos * 60_000, simulacro: true});
+          }}>
+          Hacer simulacro
+        </button>
+      </div>
+
+      <h2 className={styles.subtituloForm}>O prepara un test a tu medida</h2>
 
       <fieldset className={styles.grupo}>
         <legend>Modo</legend>
@@ -352,7 +375,7 @@ function EnCurso({
   return (
     <section className={styles.panel} aria-label={estudio ? 'Test en modo estudio' : 'Examen'}>
       <div className={styles.cabecera}>
-        <span className={styles.modo}>{estudio ? 'Estudio' : 'Examen'}</span>
+        <span className={styles.modo}>{sesion.simulacro ? 'Simulacro' : estudio ? 'Estudio' : 'Examen'}</span>
         <span className={styles.progreso}>
           Pregunta {actual + 1} de {total}
         </span>
@@ -490,7 +513,13 @@ function PreguntaVista({
             )}
           </p>
           {p.anulada && <p className={styles.avisoAnulada}>Anulada por el tribunal: no puntúa.</p>}
+          {p.contexto && <p className={styles.contexto}>{p.contexto}</p>}
           <h2 className={styles.enunciado}>{p.enunciado}</h2>
+          {p.codigo && (
+            <pre className={styles.codigo}>
+              <code>{p.codigo}</code>
+            </pre>
+          )}
         </>
       )}
       {revelada && !p.anulada && (
@@ -567,6 +596,8 @@ function Resultados({
   onSalir: () => void;
 }) {
   const res = corregir(sesion);
+  const desglose = corregirPorGrupo(sesion);
+  const porGrupo = desglose.I.puntuables > 0 && desglose.II.puntuables > 0 ? desglose : null;
   const [filtro, setFiltro] = useState<'todas' | 'mal'>('mal');
   const duracion = (sesion.fin ?? Date.now()) - sesion.inicio;
 
@@ -588,7 +619,7 @@ function Resultados({
   return (
     <section className={styles.panel} aria-labelledby="res-titulo">
       <h1 id="res-titulo" className={styles.titulo}>
-        {sesion.modo === 'examen' ? 'Examen corregido' : 'Resumen del test'}
+        {sesion.simulacro ? 'Simulacro corregido' : sesion.modo === 'examen' ? 'Examen corregido' : 'Resumen del test'}
       </h1>
 
       <div className={styles.marcador}>
@@ -619,6 +650,35 @@ function Resultados({
           </div>
         </dl>
         <p className={styles.tenue}>Netas = aciertos − errores ÷ 3. Las anuladas no cuentan.</p>
+        {porGrupo && (
+          <div className={styles.tablaScroll}>
+          <table className={styles.tablaGrupos}>
+            <caption className={styles.srOnly}>Resultado por grupo del programa</caption>
+            <thead>
+              <tr>
+                <th scope="col">Grupo</th>
+                <th scope="col">Total</th>
+                <th scope="col">Bien</th>
+                <th scope="col">Mal</th>
+                <th scope="col">Blanco</th>
+                <th scope="col">Nota</th>
+              </tr>
+            </thead>
+            <tbody>
+              {(['I', 'II'] as const).map((g) => (
+                <tr key={g}>
+                  <th scope="row">{g === 'I' ? 'Grupo I' : 'Grupo II'}</th>
+                  <td>{porGrupo[g].puntuables}</td>
+                  <td>{porGrupo[g].aciertos}</td>
+                  <td>{porGrupo[g].errores}</td>
+                  <td>{porGrupo[g].blancos}</td>
+                  <td>{porGrupo[g].nota.toLocaleString('es-ES', {maximumFractionDigits: 2})}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          </div>
+        )}
       </div>
 
       <Hoja sesion={sesion} revelar completa />

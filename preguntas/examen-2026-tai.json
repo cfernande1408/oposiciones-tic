@@ -1,0 +1,3658 @@
+{
+  "meta": {
+    "id": "ayto-tai-tic-2026",
+    "titulo": "Examen Técnico/a Auxiliar TIC, Ayto. de Madrid (junio 2026)",
+    "cuestionario_teorico": "https://sede.madrid.es/UnidadWeb/Contenidos/Oposiciones/2025/TecAuxTICTL/Ficheros/18plCuadernilloTeórica.pdf",
+    "cuestionario_practico": "https://sede.madrid.es/UnidadWeb/Contenidos/Oposiciones/2025/TecAuxTICTL/Ficheros/18plCuadernilloPráctica.pdf",
+    "alegaciones": "https://sede.madrid.es/UnidadWeb/Contenidos/Oposiciones/2025/TecAuxTICTL/Ficheros/18plAnuncAlegacPlantDef.pdf",
+    "nota": "Respuestas de la plantilla definitiva (24/07/2026). Preguntas 1-90 teoría; 91-120 = práctica 1-30."
+  },
+  "preguntas": [
+    {
+      "id": "tai26-t001",
+      "numero": 1,
+      "tema": 1,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El artículo 18 de la Constitución española establece que:",
+      "opciones": [
+        {
+          "texto": "Mediante ley orgánica se delimitará el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas.",
+          "correcta": false,
+          "explicacion": "El art. 18.3 garantiza el secreto de las comunicaciones «salvo resolución judicial»; no remite a una ley orgánica que lo delimite.",
+          "fuente": "CE art. 18"
+        },
+        {
+          "texto": "Ninguna entrada o registro podrá hacerse en el domicilio sin consentimiento del titular, aun en el caso de flagrante delito.",
+          "correcta": false,
+          "explicacion": "El art. 18.2 exceptúa precisamente el flagrante delito (y la resolución judicial).",
+          "fuente": "CE art. 18"
+        },
+        {
+          "texto": "La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+          "correcta": true,
+          "explicacion": "Literal del art. 18.4 CE.",
+          "fuente": "CE art. 18"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t002",
+      "numero": 2,
+      "tema": 1,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 55 de la Constitución española, cuando se acuerde la declaración del estado de excepción o de sitio podrá suspenderse:",
+      "opciones": [
+        {
+          "texto": "La inviolabilidad del domicilio contemplada en el artículo 18.2.",
+          "correcta": true,
+          "explicacion": "El art. 55.1 incluye el 18.2 y el 18.3 entre los derechos suspendibles.",
+          "fuente": "CE art. 55.1"
+        },
+        {
+          "texto": "El uso de la informática para garantizar el honor y la intimidad, contemplado en el artículo 18.4.",
+          "correcta": false,
+          "explicacion": "El 18.4 no figura en la lista del art. 55.1.",
+          "fuente": "CE art. 55.1"
+        },
+        {
+          "texto": "El derecho a la producción y creación literaria, artística, científica y técnica, del artículo 20.1 b).",
+          "correcta": false,
+          "explicacion": "Del art. 20.1 solo son suspendibles las letras a) y d), no la b).",
+          "fuente": "CE art. 55.1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t003",
+      "numero": 3,
+      "tema": 2,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 142 de la Constitución, las Haciendas locales se nutrirán:",
+      "opciones": [
+        {
+          "texto": "Exclusivamente de tributos propios.",
+          "correcta": false,
+          "explicacion": "No es exclusivo: también participan en tributos del Estado y CCAA.",
+          "fuente": "CE art. 142"
+        },
+        {
+          "texto": "Únicamente de la participación en los tributos del Estado y las Comunidades Autónomas.",
+          "correcta": false,
+          "explicacion": "No es único: también tienen tributos propios.",
+          "fuente": "CE art. 142"
+        },
+        {
+          "texto": "Fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+          "correcta": true,
+          "explicacion": "Literal del art. 142 CE (principio de suficiencia).",
+          "fuente": "CE art. 142"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t004",
+      "numero": 4,
+      "tema": 2,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 141 de la Constitución española:",
+      "opciones": [
+        {
+          "texto": "La Constitución garantiza la autonomía de las provincias. Estas gozarán de personalidad jurídica plena.",
+          "correcta": false,
+          "explicacion": "La «personalidad jurídica plena» es la fórmula del art. 140 para los municipios.",
+          "fuente": "CE art. 140"
+        },
+        {
+          "texto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+          "correcta": true,
+          "explicacion": "Literal del art. 141.1.",
+          "fuente": "CE art. 141.1"
+        },
+        {
+          "texto": "No podrán crearse agrupaciones de municipios diferentes de la provincia.",
+          "correcta": false,
+          "explicacion": "El art. 141.3 dice justo lo contrario: sí podrán crearse.",
+          "fuente": "CE art. 141.3"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t005",
+      "numero": 5,
+      "tema": 5,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En cuanto a la creación, modificación y supresión de órganos y unidades administrativas, el ROGA establece que:",
+      "opciones": [
+        {
+          "texto": "Los órganos directivos y las Subdirecciones Generales se crean, modifican o suprimen por la Junta de Gobierno, a través de los acuerdos de la relación de puestos de trabajo.",
+          "correcta": false,
+          "explicacion": "El instrumento no es la RPT sino los acuerdos de organización administrativa.",
+          "fuente": "ROGA art. 8 (redacción de 2015)"
+        },
+        {
+          "texto": "Los órganos directivos y las Subdirecciones Generales se crean, modifican o suprimen por la Junta de Gobierno, a través de los acuerdos de organización administrativa, a propuesta del titular del Área de Gobierno correspondiente y previo informe del órgano directivo competente en materia de organización municipal.",
+          "correcta": true,
+          "explicacion": "Texto del art. 8 tras la modificación de 30/09/2015 (antes lo hacía el alcalde por decreto).",
+          "fuente": "ROGA art. 8 (redacción de 2015)"
+        },
+        {
+          "texto": "Ambas son incorrectas.",
+          "correcta": false,
+          "explicacion": "La b) es correcta.",
+          "fuente": "ROGA art. 8 (redacción de 2015)"
+        }
+      ],
+      "nota": "Ojo: el art. 8 cambió en 2015. Los manuales antiguos dicen «por decreto del alcalde»."
+    },
+    {
+      "id": "tai26-t006",
+      "numero": 6,
+      "tema": 5,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la respuesta correcta sobre los órganos superiores y directivos según el ROGA:",
+      "opciones": [
+        {
+          "texto": "A los órganos superiores corresponde la dirección, planificación y coordinación política.",
+          "correcta": false,
+          "explicacion": "Es correcta, pero no la única.",
+          "fuente": "ROGA art. 7.4"
+        },
+        {
+          "texto": "A los órganos directivos corresponde la ejecución de las decisiones adoptadas por los órganos superiores, sin perjuicio de las competencias delegadas y de lo previsto para concejales de Coordinación y concejales-delegados.",
+          "correcta": false,
+          "explicacion": "Es correcta, pero no la única.",
+          "fuente": "ROGA art. 7.4"
+        },
+        {
+          "texto": "Ambas respuestas son correctas.",
+          "correcta": true,
+          "explicacion": "Ambas reproducen el art. 7.4 del ROGA.",
+          "fuente": "ROGA art. 7.4"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t007",
+      "numero": 7,
+      "tema": 6,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Los distritos, según el ROGA (señale la respuesta INCORRECTA):",
+      "opciones": [
+        {
+          "texto": "Constituyen divisiones territoriales del municipio, dotados de órganos de gestión desconcentrada para el impulso de la participación ciudadana, sin perjuicio de la unidad de gobierno y gestión del municipio.",
+          "correcta": false,
+          "explicacion": "Correcta: art. 61.1.",
+          "fuente": "ROGA art. 61.1"
+        },
+        {
+          "texto": "El gobierno y administración del distrito corresponde a la Junta Municipal y al Coordinador de distrito, sin perjuicio de las competencias de los demás órganos municipales.",
+          "correcta": true,
+          "explicacion": "Es la INCORRECTA: el gobierno corresponde a la Junta Municipal y al concejal-presidente (art. 62). Al coordinador le corresponde dirigir y coordinar los servicios (art. 69).",
+          "fuente": "ROGA arts. 62 y 69; alegaciones del tribunal"
+        },
+        {
+          "texto": "Corresponde al Pleno mediante norma orgánica establecer la división en distritos y la regulación de sus órganos, sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva.",
+          "correcta": false,
+          "explicacion": "Correcta: art. 61.2.",
+          "fuente": "ROGA art. 61.2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t008",
+      "numero": 8,
+      "tema": 6,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Dentro de las competencias del concejal-presidente según el ROGA se encuentra:",
+      "opciones": [
+        {
+          "texto": "La dirección, planificación y coordinación de los servicios municipales de la competencia del distrito.",
+          "correcta": true,
+          "explicacion": "Art. 65.1.",
+          "fuente": "ROGA art. 65.1"
+        },
+        {
+          "texto": "La elaboración, seguimiento y control del presupuesto anual que se le asigne.",
+          "correcta": false,
+          "explicacion": "Es competencia del coordinador de distrito (art. 71.1.d), según el tribunal.",
+          "fuente": "ROGA art. 71.1.d"
+        },
+        {
+          "texto": "La evaluación de los servicios del Distrito.",
+          "correcta": false,
+          "explicacion": "Es competencia del coordinador de distrito (art. 71.1.e).",
+          "fuente": "ROGA art. 71.1.e"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t009",
+      "numero": 9,
+      "tema": 7,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 23 del TREBEP, las retribuciones básicas estarán integradas única y exclusivamente por:",
+      "opciones": [
+        {
+          "texto": "Sueldo, trienios y la progresión alcanzada dentro del sistema de carrera administrativa.",
+          "correcta": false,
+          "explicacion": "La progresión en la carrera es retribución complementaria (art. 24.a).",
+          "fuente": "TREBEP arts. 23 y 24"
+        },
+        {
+          "texto": "Sueldo, trienios y la especial dificultad técnica o las condiciones del trabajo.",
+          "correcta": false,
+          "explicacion": "La especial dificultad técnica es complementaria (art. 24.b).",
+          "fuente": "TREBEP arts. 23 y 24"
+        },
+        {
+          "texto": "El sueldo asignado a cada Subgrupo o Grupo y los trienios, cantidad igual para cada Subgrupo o Grupo por cada tres años de servicio.",
+          "correcta": true,
+          "explicacion": "Literal del art. 23.",
+          "fuente": "TREBEP arts. 23 y 24"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t010",
+      "numero": 10,
+      "tema": 7,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El artículo 64 del TREBEP dispone respecto de la renuncia voluntaria a la condición de funcionario:",
+      "opciones": [
+        {
+          "texto": "Habrá de manifestarse de forma verbal o escrita y será aceptada incondicionalmente.",
+          "correcta": false,
+          "explicacion": "Debe manifestarse por escrito (art. 64.1).",
+          "fuente": "TREBEP art. 64"
+        },
+        {
+          "texto": "No podrá ser aceptada cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado auto de procesamiento o de apertura de juicio oral por algún delito.",
+          "correcta": true,
+          "explicacion": "Literal del art. 64.2.",
+          "fuente": "TREBEP art. 64"
+        },
+        {
+          "texto": "Inhabilita para ingresar de nuevo en la Administración a través de procedimientos de selección.",
+          "correcta": false,
+          "explicacion": "No inhabilita para un nuevo ingreso (art. 64.3).",
+          "fuente": "TREBEP art. 64"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t011",
+      "numero": 11,
+      "tema": 8,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La Ordenanza de Transparencia de la Ciudad de Madrid se aplica a (señale la INCORRECTA):",
+      "opciones": [
+        {
+          "texto": "El Ayuntamiento de Madrid.",
+          "correcta": false,
+          "explicacion": "Incluido en el ámbito.",
+          "fuente": "Ordenanza de Transparencia de la Ciudad de Madrid (27/07/2016), art. 2"
+        },
+        {
+          "texto": "Los organismos autónomos, entidades públicas empresariales y entidades de derecho público vinculadas o dependientes.",
+          "correcta": false,
+          "explicacion": "Incluidos en el ámbito.",
+          "fuente": "Ordenanza de Transparencia de la Ciudad de Madrid (27/07/2016), art. 2"
+        },
+        {
+          "texto": "Las sociedades mercantiles cuyo capital tenga una participación directa o indirecta de las entidades anteriores inferior al 50 %.",
+          "correcta": true,
+          "explicacion": "Es la INCORRECTA: la ordenanza alcanza a las sociedades con participación SUPERIOR al 50 %.",
+          "fuente": "Ordenanza de Transparencia de la Ciudad de Madrid (27/07/2016), art. 2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t012",
+      "numero": 12,
+      "tema": 9,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Son derechos de las personas en sus relaciones con las Administraciones Públicas, según el artículo 13 de la Ley 39/2015:",
+      "opciones": [
+        {
+          "texto": "A identificar a las autoridades y al personal bajo cuya responsabilidad se tramiten los procedimientos.",
+          "correcta": false,
+          "explicacion": "Es un derecho del INTERESADO en el procedimiento (art. 53.1.b), no del art. 13.",
+          "fuente": "Ley 39/2015 art. 53.1.b"
+        },
+        {
+          "texto": "A obtener información y orientación sobre los requisitos jurídicos o técnicos de los proyectos o solicitudes.",
+          "correcta": false,
+          "explicacion": "También es del art. 53.1 (interesados), no del art. 13.",
+          "fuente": "Ley 39/2015 art. 53.1.f"
+        },
+        {
+          "texto": "A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+          "correcta": true,
+          "explicacion": "Literal del art. 13.b.",
+          "fuente": "Ley 39/2015 art. 13.b"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t013",
+      "numero": 13,
+      "tema": 9,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 4 de la Ley 39/2015, se consideran interesados en el procedimiento:",
+      "opciones": [
+        {
+          "texto": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+          "correcta": true,
+          "explicacion": "Literal del art. 4.1.a.",
+          "fuente": "Ley 39/2015 art. 4.1; alegaciones del tribunal"
+        },
+        {
+          "texto": "Los que, sin haber iniciado el procedimiento, tengan intereses que puedan resultar afectados por la decisión.",
+          "correcta": false,
+          "explicacion": "Trampa: la ley dice DERECHOS, no intereses (art. 4.1.b).",
+          "fuente": "Ley 39/2015 art. 4.1; alegaciones del tribunal"
+        },
+        {
+          "texto": "Aquellos cuyos derechos legítimos puedan resultar afectados y se personen antes de la resolución definitiva.",
+          "correcta": false,
+          "explicacion": "Trampa: la ley dice INTERESES legítimos, no derechos (art. 4.1.c).",
+          "fuente": "Ley 39/2015 art. 4.1; alegaciones del tribunal"
+        }
+      ],
+      "nota": "El tribunal recalca que derecho e interés son conceptos distintos: atento a los cambios de palabra."
+    },
+    {
+      "id": "tai26-t014",
+      "numero": 14,
+      "tema": 9,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según la Ley 39/2015, los procedimientos administrativos podrán iniciarse:",
+      "opciones": [
+        {
+          "texto": "De oficio.",
+          "correcta": false,
+          "explicacion": "Incompleto: también a solicitud del interesado.",
+          "fuente": "Ley 39/2015 arts. 54, 58 y 62"
+        },
+        {
+          "texto": "De oficio o a solicitud del interesado.",
+          "correcta": true,
+          "explicacion": "Literal del art. 54.",
+          "fuente": "Ley 39/2015 arts. 54, 58 y 62"
+        },
+        {
+          "texto": "De oficio, a solicitud del interesado o por denuncia.",
+          "correcta": false,
+          "explicacion": "La denuncia no es una forma autónoma: es uno de los supuestos de iniciación de oficio (art. 58).",
+          "fuente": "Ley 39/2015 arts. 54, 58 y 62"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t015",
+      "numero": 15,
+      "tema": 12,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Respecto de los precios públicos locales (art. 20.1.B y ss. del TRLRHL):",
+      "opciones": [
+        {
+          "texto": "Su importe deberá cubrir como máximo el coste del servicio o actividad.",
+          "correcta": false,
+          "explicacion": "Al revés: deben cubrir COMO MÍNIMO el coste (art. 44.1).",
+          "fuente": "TRLRHL art. 44.1"
+        },
+        {
+          "texto": "Las entidades locales podrán exigirlos en régimen de autoliquidación.",
+          "correcta": true,
+          "explicacion": "Literal del art. 46.3.",
+          "fuente": "TRLRHL art. 46"
+        },
+        {
+          "texto": "Ambas son correctas.",
+          "correcta": false,
+          "explicacion": "La a) es falsa.",
+          "fuente": "TRLRHL art. 44"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t016",
+      "numero": 16,
+      "tema": 12,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Tendrán la consideración de tasas las prestaciones patrimoniales que establezcan las entidades locales por:",
+      "opciones": [
+        {
+          "texto": "La utilización privativa o el aprovechamiento especial del dominio público local.",
+          "correcta": true,
+          "explicacion": "Literal del art. 20.1.A.",
+          "fuente": "TRLRHL art. 20.1"
+        },
+        {
+          "texto": "La prestación de un servicio o actividad en régimen de derecho público que beneficie al sujeto pasivo, cuando sean de solicitud o recepción voluntaria.",
+          "correcta": false,
+          "explicacion": "Trampa: es tasa cuando NO es de solicitud o recepción voluntaria (art. 20.1.B.a).",
+          "fuente": "TRLRHL art. 20.1"
+        },
+        {
+          "texto": "Ambas son incorrectas.",
+          "correcta": false,
+          "explicacion": "La a) es correcta.",
+          "fuente": "TRLRHL art. 20.1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t017",
+      "numero": 17,
+      "tema": 13,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 35 de la LPRL, los delegados de Prevención se designan con arreglo a la siguiente escala:",
+      "opciones": [
+        {
+          "texto": "De 101 a 500 trabajadores: 3 delegados.",
+          "correcta": true,
+          "explicacion": "Escala: 50-100 → 2; 101-500 → 3; 501-1.000 → 4; 1.001-2.000 → 5…",
+          "fuente": "Ley 31/1995 art. 35.2"
+        },
+        {
+          "texto": "De 501 a 1.000 trabajadores: 5 delegados.",
+          "correcta": false,
+          "explicacion": "Son 4, no 5.",
+          "fuente": "Ley 31/1995 art. 35.2"
+        },
+        {
+          "texto": "De 50 a 100 trabajadores: 3 delegados.",
+          "correcta": false,
+          "explicacion": "Son 2, no 3.",
+          "fuente": "Ley 31/1995 art. 35.2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t018",
+      "numero": 18,
+      "tema": 13,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En las empresas sin Comité de Seguridad y Salud por no alcanzar el mínimo de trabajadores, sus competencias serán ejercidas por:",
+      "opciones": [
+        {
+          "texto": "Órganos específicos creados en el propio convenio.",
+          "correcta": false,
+          "explicacion": "No es lo que dispone la ley.",
+          "fuente": "Ley 31/1995 art. 36.1"
+        },
+        {
+          "texto": "Los delegados de Prevención.",
+          "correcta": true,
+          "explicacion": "Literal del art. 36.1 in fine.",
+          "fuente": "Ley 31/1995 art. 36.1"
+        },
+        {
+          "texto": "Las organizaciones sindicales más representativas.",
+          "correcta": false,
+          "explicacion": "No es lo que dispone la ley.",
+          "fuente": "Ley 31/1995 art. 36.1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t019",
+      "numero": 19,
+      "tema": 14,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el art. 6 de la LO 3/2007, la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular, salvo justificación objetiva:",
+      "opciones": [
+        {
+          "texto": "Constituye acoso sexual.",
+          "correcta": false,
+          "explicacion": "El acoso sexual se define en el art. 7.",
+          "fuente": "LO 3/2007 arts. 6 y 7"
+        },
+        {
+          "texto": "Se considera discriminación directa por razón de sexo.",
+          "correcta": false,
+          "explicacion": "La directa es tratar de manera menos favorable por razón de sexo (art. 6.1).",
+          "fuente": "LO 3/2007 arts. 6 y 7"
+        },
+        {
+          "texto": "Se considera discriminación indirecta por razón de sexo.",
+          "correcta": true,
+          "explicacion": "Literal del art. 6.2: la clave es «aparentemente neutros».",
+          "fuente": "LO 3/2007 arts. 6 y 7"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t020",
+      "numero": 20,
+      "tema": 14,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 3 de la Ley 4/2023, se considera discriminación indirecta:",
+      "opciones": [
+        {
+          "texto": "Que una persona sea tratada de manera menos favorable que otras en situación análoga por orientación e identidad sexuales.",
+          "correcta": false,
+          "explicacion": "Es la definición de discriminación directa.",
+          "fuente": "Ley 4/2023 art. 3"
+        },
+        {
+          "texto": "La denegación de ajustes razonables a las personas con discapacidad.",
+          "correcta": false,
+          "explicacion": "Es otra forma de discriminación ligada a la discapacidad.",
+          "fuente": "Ley 4/2023 art. 3"
+        },
+        {
+          "texto": "Cuando una disposición, criterio o práctica aparentemente neutros ocasiona una desventaja particular por razón de orientación sexual, identidad sexual, expresión de género o características sexuales.",
+          "correcta": true,
+          "explicacion": "Es la definición de discriminación indirecta del art. 3.",
+          "fuente": "Ley 4/2023 art. 3"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t021",
+      "numero": 21,
+      "tema": 21,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿En qué nivel organizativo de un sistema de información se asocian principalmente los datos en bruto?",
+      "opciones": [
+        {
+          "texto": "Nivel estratégico.",
+          "correcta": false,
+          "explicacion": "Trabaja con información muy agregada (DSS/EIS).",
+          "fuente": "Laudon & Laudon, Sistemas de información gerencial"
+        },
+        {
+          "texto": "Nivel táctico.",
+          "correcta": false,
+          "explicacion": "Usa informes resumidos (MIS).",
+          "fuente": "Laudon & Laudon, Sistemas de información gerencial"
+        },
+        {
+          "texto": "Nivel operativo.",
+          "correcta": true,
+          "explicacion": "Los sistemas transaccionales (OLTP) registran el detalle de cada operación.",
+          "fuente": "Laudon & Laudon, Sistemas de información gerencial"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t022",
+      "numero": 22,
+      "tema": 18,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué componentes forman la arquitectura básica de Von Neumann?",
+      "opciones": [
+        {
+          "texto": "BIOS, sistema operativo y drivers.",
+          "correcta": false,
+          "explicacion": "Es software, no arquitectura.",
+          "fuente": "Von Neumann, First Draft of a Report on the EDVAC (1945)"
+        },
+        {
+          "texto": "Memoria, CPU y unidades de E/S.",
+          "correcta": true,
+          "explicacion": "CPU (control + ALU), memoria que guarda datos e instrucciones, y E/S, unidas por buses.",
+          "fuente": "Von Neumann, First Draft of a Report on the EDVAC (1945)"
+        },
+        {
+          "texto": "Disco duro, RAM y BIOS.",
+          "correcta": false,
+          "explicacion": "Mezcla componentes concretos sin la CPU.",
+          "fuente": "Von Neumann, First Draft of a Report on the EDVAC (1945)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t023",
+      "numero": 23,
+      "tema": 18,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué estándar de conexión unifica datos, vídeo y alimentación eléctrica en un único puerto?",
+      "opciones": [
+        {
+          "texto": "USB4 con compatibilidad Thunderbolt.",
+          "correcta": true,
+          "explicacion": "USB4 (conector USB-C) transporta datos, DisplayPort y USB Power Delivery.",
+          "fuente": "USB-IF, USB4 Specification"
+        },
+        {
+          "texto": "DisplayPort 1.2 con alimentación PoE.",
+          "correcta": false,
+          "explicacion": "PoE es alimentación sobre Ethernet, no sobre DisplayPort.",
+          "fuente": "USB-IF, USB4 Specification"
+        },
+        {
+          "texto": "USB tipo A con compatibilidad legacy.",
+          "correcta": false,
+          "explicacion": "El USB-A no lleva vídeo nativo.",
+          "fuente": "USB-IF, USB4 Specification"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t024",
+      "numero": 24,
+      "tema": 18,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué diferencia a los SSD con arquitectura 3D NAND frente a los de celdas planas (2D NAND)?",
+      "opciones": [
+        {
+          "texto": "Mayor compatibilidad con interfaces ópticas y menor consumo en lectura.",
+          "correcta": false,
+          "explicacion": "No tiene relación con interfaces ópticas.",
+          "fuente": "Documentación de fabricantes (Samsung V-NAND, Micron 3D NAND)"
+        },
+        {
+          "texto": "Almacenamiento en múltiples capas apiladas verticalmente, lo que mejora la densidad y reduce el coste por GB.",
+          "correcta": true,
+          "explicacion": "Apilar capas verticalmente es la esencia de 3D NAND.",
+          "fuente": "Documentación de fabricantes (Samsung V-NAND, Micron 3D NAND)"
+        },
+        {
+          "texto": "Celdas de doble voltaje para escribir en dispositivos magnéticos y ópticos.",
+          "correcta": false,
+          "explicacion": "Afirmación sin sentido técnico.",
+          "fuente": "Documentación de fabricantes (Samsung V-NAND, Micron 3D NAND)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t025",
+      "numero": 25,
+      "tema": 40,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En un árbol binario de búsqueda equilibrado, ¿qué ventaja se busca respecto a uno no equilibrado?",
+      "opciones": [
+        {
+          "texto": "Almacenar más nodos distribuyéndolos en más niveles.",
+          "correcta": false,
+          "explicacion": "Equilibrar reduce niveles, no los aumenta.",
+          "fuente": "Cormen et al., Introduction to Algorithms, cap. 13"
+        },
+        {
+          "texto": "Ordenar automáticamente los nodos de cada nivel.",
+          "correcta": false,
+          "explicacion": "El orden lo garantiza cualquier ABB; no es lo que aporta el equilibrio.",
+          "fuente": "Cormen et al., Introduction to Algorithms, cap. 13"
+        },
+        {
+          "texto": "Reducir la altura del árbol para evitar búsquedas degeneradas.",
+          "correcta": true,
+          "explicacion": "Altura O(log n) en vez del peor caso O(n) de un árbol degenerado en lista (AVL, rojo-negro).",
+          "fuente": "Cormen et al., Introduction to Algorithms, cap. 13"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t026",
+      "numero": 26,
+      "tema": 40,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué estructura es más adecuada para comprobar si una expresión con paréntesis, corchetes y llaves está balanceada?",
+      "opciones": [
+        {
+          "texto": "Una pila.",
+          "correcta": true,
+          "explicacion": "Se apila cada apertura y se desapila al encontrar su cierre (LIFO).",
+          "fuente": "Cormen et al., 10.1"
+        },
+        {
+          "texto": "Una cola.",
+          "correcta": false,
+          "explicacion": "FIFO no respeta el anidamiento.",
+          "fuente": "Cormen et al., 10.1"
+        },
+        {
+          "texto": "Un árbol binario de búsqueda.",
+          "correcta": false,
+          "explicacion": "No aporta nada a este problema.",
+          "fuente": "Cormen et al., 10.1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t027",
+      "numero": 27,
+      "tema": 40,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué describe mejor la finalidad de analizar la complejidad de un algoritmo?",
+      "opciones": [
+        {
+          "texto": "Medir el tiempo exacto en segundos en un ordenador concreto.",
+          "correcta": false,
+          "explicacion": "Eso es benchmarking, dependiente del hardware.",
+          "fuente": "Cormen et al., cap. 3"
+        },
+        {
+          "texto": "Contar líneas de código para estimar el esfuerzo.",
+          "correcta": false,
+          "explicacion": "Las líneas de código no miden eficiencia.",
+          "fuente": "Cormen et al., cap. 3"
+        },
+        {
+          "texto": "Estimar cómo crecen el tiempo o la memoria al aumentar el tamaño de la entrada.",
+          "correcta": true,
+          "explicacion": "Es el análisis asintótico (notación O).",
+          "fuente": "Cormen et al., cap. 3"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t028",
+      "numero": 28,
+      "tema": 19,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué técnica de gestión de memoria divide la RAM en marcos y los programas en páginas?",
+      "opciones": [
+        {
+          "texto": "Segmentación.",
+          "correcta": false,
+          "explicacion": "Divide en segmentos de tamaño variable según la lógica del programa.",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 9"
+        },
+        {
+          "texto": "Paginación.",
+          "correcta": true,
+          "explicacion": "Páginas lógicas de tamaño fijo que se asignan a marcos físicos.",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 9"
+        },
+        {
+          "texto": "Swapping.",
+          "correcta": false,
+          "explicacion": "Mueve procesos completos entre memoria y disco.",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 9"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t029",
+      "numero": 29,
+      "tema": 19,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué sistema de archivos es típico de Linux?",
+      "opciones": [
+        {
+          "texto": "NTFS, FAT32.",
+          "correcta": false,
+          "explicacion": "Son de Windows.",
+          "fuente": "man 5 ext4"
+        },
+        {
+          "texto": "HFS, MFS.",
+          "correcta": false,
+          "explicacion": "Son de Mac OS clásico.",
+          "fuente": "man 5 ext4"
+        },
+        {
+          "texto": "Ext2/Ext3, ReiserFS.",
+          "correcta": true,
+          "explicacion": "Familia ext (hoy ext4) y ReiserFS son de Linux.",
+          "fuente": "man 5 ext4"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t030",
+      "numero": 30,
+      "tema": 22,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "De las siguientes sentencias, ¿cuál es DDL?",
+      "opciones": [
+        {
+          "texto": "Delete.",
+          "correcta": false,
+          "explicacion": "DELETE es DML.",
+          "fuente": "ISO/IEC 9075"
+        },
+        {
+          "texto": "Drop.",
+          "correcta": true,
+          "explicacion": "DROP (con CREATE, ALTER, TRUNCATE) define estructura: DDL.",
+          "fuente": "ISO/IEC 9075"
+        },
+        {
+          "texto": "Merge.",
+          "correcta": false,
+          "explicacion": "MERGE es DML.",
+          "fuente": "ISO/IEC 9075"
+        }
+      ],
+      "nota": "La plantilla provisional decía a); el tribunal la corrigió a b) por error material."
+    },
+    {
+      "id": "tai26-t031",
+      "numero": 31,
+      "tema": 22,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes es una base de datos NoSQL?",
+      "opciones": [
+        {
+          "texto": "PostgreSQL.",
+          "correcta": false,
+          "explicacion": "Relacional.",
+          "fuente": "couchbase.com"
+        },
+        {
+          "texto": "Couchbase.",
+          "correcta": true,
+          "explicacion": "Documental y clave-valor (JSON).",
+          "fuente": "couchbase.com"
+        },
+        {
+          "texto": "MS Access.",
+          "correcta": false,
+          "explicacion": "Relacional de escritorio.",
+          "fuente": "couchbase.com"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t032",
+      "numero": 32,
+      "tema": 38,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el modelado conceptual de datos, ¿qué representa un atributo?",
+      "opciones": [
+        {
+          "texto": "Una instancia específica de una entidad.",
+          "correcta": false,
+          "explicacion": "Eso es una ocurrencia o ejemplar.",
+          "fuente": "Chen (1976); Métrica v3, Técnicas: Modelo E/R"
+        },
+        {
+          "texto": "Una regla de negocio que gobierna una relación.",
+          "correcta": false,
+          "explicacion": "Eso sería una restricción.",
+          "fuente": "Chen (1976); Métrica v3, Técnicas: Modelo E/R"
+        },
+        {
+          "texto": "Una propiedad o característica descriptiva de una entidad.",
+          "correcta": true,
+          "explicacion": "Definición de atributo en el modelo E/R.",
+          "fuente": "Chen (1976); Métrica v3, Técnicas: Modelo E/R"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t033",
+      "numero": 33,
+      "tema": 38,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué función cumplen las relaciones en un modelo conceptual de datos?",
+      "opciones": [
+        {
+          "texto": "Definir las propiedades de cada entidad.",
+          "correcta": false,
+          "explicacion": "Eso son atributos.",
+          "fuente": "Chen (1976)"
+        },
+        {
+          "texto": "Establecer asociaciones o vínculos lógicos entre dos o más entidades.",
+          "correcta": true,
+          "explicacion": "Definición de relación (interrelación).",
+          "fuente": "Chen (1976)"
+        },
+        {
+          "texto": "Mostrar cómo fluyen los datos entre procesos.",
+          "correcta": false,
+          "explicacion": "Eso es un DFD.",
+          "fuente": "Chen (1976)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t034",
+      "numero": 34,
+      "tema": 39,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La función de una clave ajena (foreign key) es:",
+      "opciones": [
+        {
+          "texto": "Evitar redundancia.",
+          "correcta": false,
+          "explicacion": "La redundancia la reduce la normalización.",
+          "fuente": "Codd (1970); ISO/IEC 9075"
+        },
+        {
+          "texto": "Relacionar tablas.",
+          "correcta": true,
+          "explicacion": "Referencia la clave de otra tabla y garantiza la integridad referencial.",
+          "fuente": "Codd (1970); ISO/IEC 9075"
+        },
+        {
+          "texto": "Crear índices automáticos.",
+          "correcta": false,
+          "explicacion": "No todos los SGBD indexan la FK automáticamente.",
+          "fuente": "Codd (1970); ISO/IEC 9075"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t035",
+      "numero": 35,
+      "tema": 39,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el diseño lógico relacional, una relación M:N se implementa mediante:",
+      "opciones": [
+        {
+          "texto": "Una tabla intermedia con dos claves foráneas.",
+          "correcta": true,
+          "explicacion": "La tabla de unión con las claves de ambas entidades.",
+          "fuente": "Elmasri & Navathe, transformación E/R → relacional"
+        },
+        {
+          "texto": "Una única tabla sin claves foráneas.",
+          "correcta": false,
+          "explicacion": "No representa la relación.",
+          "fuente": "Elmasri & Navathe, transformación E/R → relacional"
+        },
+        {
+          "texto": "Dos claves primarias independientes en las tablas originales.",
+          "correcta": false,
+          "explicacion": "No implementa la asociación.",
+          "fuente": "Elmasri & Navathe, transformación E/R → relacional"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t036",
+      "numero": 36,
+      "tema": 39,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una relación está en Primera Forma Normal (1FN) cuando:",
+      "opciones": [
+        {
+          "texto": "Todos los atributos dependen de la clave completa.",
+          "correcta": false,
+          "explicacion": "Eso es la 2FN.",
+          "fuente": "Codd; alegaciones del tribunal"
+        },
+        {
+          "texto": "No existen dependencias transitivas.",
+          "correcta": false,
+          "explicacion": "Eso es la 3FN.",
+          "fuente": "Codd; alegaciones del tribunal"
+        },
+        {
+          "texto": "No existen grupos repetitivos ni atributos multivalorados.",
+          "correcta": true,
+          "explicacion": "Atomicidad de los valores: es la 1FN.",
+          "fuente": "Codd; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t037",
+      "numero": 37,
+      "tema": 20,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué caracteriza al lenguaje máquina?",
+      "opciones": [
+        {
+          "texto": "Usa palabras clave en inglés.",
+          "correcta": false,
+          "explicacion": "Eso es propio de lenguajes de alto nivel o ensamblador (mnemónicos).",
+          "fuente": "Tanenbaum, Organización de computadoras"
+        },
+        {
+          "texto": "Utiliza únicamente 0 y 1.",
+          "correcta": true,
+          "explicacion": "Instrucciones binarias que ejecuta directamente la CPU.",
+          "fuente": "Tanenbaum, Organización de computadoras"
+        },
+        {
+          "texto": "Es independiente del hardware.",
+          "correcta": false,
+          "explicacion": "Es totalmente dependiente de la arquitectura.",
+          "fuente": "Tanenbaum, Organización de computadoras"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t038",
+      "numero": 38,
+      "tema": 20,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué operador lógico devuelve verdadero solo si ambas expresiones lo son?",
+      "opciones": [
+        {
+          "texto": "OR.",
+          "correcta": false,
+          "explicacion": "Basta con que una sea verdadera.",
+          "fuente": "Álgebra de Boole"
+        },
+        {
+          "texto": "NOT.",
+          "correcta": false,
+          "explicacion": "Niega una sola expresión.",
+          "fuente": "Álgebra de Boole"
+        },
+        {
+          "texto": "AND.",
+          "correcta": true,
+          "explicacion": "Conjunción lógica.",
+          "fuente": "Álgebra de Boole"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t039",
+      "numero": 39,
+      "tema": 22,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Por qué un procedimiento almacenado puede ser más eficiente que ejecutar consultas SQL desde una aplicación?",
+      "opciones": [
+        {
+          "texto": "Evita completamente el uso del motor de BD.",
+          "correcta": false,
+          "explicacion": "Se ejecuta precisamente en el motor.",
+          "fuente": "Documentación de SGBD (PostgreSQL, Oracle PL/SQL)"
+        },
+        {
+          "texto": "Se envía y compila una sola vez, reduciendo el tráfico de red.",
+          "correcta": true,
+          "explicacion": "Plan reutilizable y una sola llamada en vez de muchas idas y vueltas.",
+          "fuente": "Documentación de SGBD (PostgreSQL, Oracle PL/SQL)"
+        },
+        {
+          "texto": "Reemplaza las consultas por operaciones en memoria.",
+          "correcta": false,
+          "explicacion": "Falso.",
+          "fuente": "Documentación de SGBD (PostgreSQL, Oracle PL/SQL)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t040",
+      "numero": 40,
+      "tema": 22,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Por qué es buena práctica manejar transacciones dentro de un procedimiento almacenado?",
+      "opciones": [
+        {
+          "texto": "Para asegurar la atomicidad y consistencia de las operaciones.",
+          "correcta": true,
+          "explicacion": "Propiedades ACID: todo o nada.",
+          "fuente": "Propiedades ACID (Gray & Reuter)"
+        },
+        {
+          "texto": "Para mejorar la legibilidad del código.",
+          "correcta": false,
+          "explicacion": "No es su finalidad.",
+          "fuente": "Propiedades ACID (Gray & Reuter)"
+        },
+        {
+          "texto": "Para evitar validar errores.",
+          "correcta": false,
+          "explicacion": "Al contrario: hay que gestionar errores y hacer rollback.",
+          "fuente": "Propiedades ACID (Gray & Reuter)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t041",
+      "numero": 41,
+      "tema": 46,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En POO, ¿cuál es una de las principales diferencias entre clase y objeto?",
+      "opciones": [
+        {
+          "texto": "Una clase es una instancia concreta y un objeto un molde abstracto.",
+          "correcta": false,
+          "explicacion": "Está invertido.",
+          "fuente": "Booch, Object-Oriented Analysis and Design"
+        },
+        {
+          "texto": "Una clase es una plantilla que define atributos y métodos; un objeto es la instanciación de una clase.",
+          "correcta": true,
+          "explicacion": "Definición estándar.",
+          "fuente": "Booch, Object-Oriented Analysis and Design"
+        },
+        {
+          "texto": "Una clase solo contiene datos y un objeto solo métodos.",
+          "correcta": false,
+          "explicacion": "Falso: ambos tienen estado y comportamiento.",
+          "fuente": "Booch, Object-Oriented Analysis and Design"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t042",
+      "numero": 42,
+      "tema": 46,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué característica de la POO permite definir varios métodos con el mismo nombre en una clase pero con distintos parámetros?",
+      "opciones": [
+        {
+          "texto": "Sobrecarga.",
+          "correcta": true,
+          "explicacion": "Overloading: misma firma de nombre, distintos parámetros.",
+          "fuente": "JLS §8.4.9 (Overloading)"
+        },
+        {
+          "texto": "Herencia.",
+          "correcta": false,
+          "explicacion": "Reutiliza la definición de una clase base.",
+          "fuente": "JLS §8.4.9 (Overloading)"
+        },
+        {
+          "texto": "Abstracción.",
+          "correcta": false,
+          "explicacion": "Oculta detalles y expone lo esencial.",
+          "fuente": "JLS §8.4.9 (Overloading)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t043",
+      "numero": 43,
+      "tema": 46,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es uno de los objetivos principales de los patrones de diseño?",
+      "opciones": [
+        {
+          "texto": "Sustituir la programación orientada a objetos.",
+          "correcta": false,
+          "explicacion": "Se apoyan en la POO, no la sustituyen.",
+          "fuente": "Gamma et al., Design Patterns (1994)"
+        },
+        {
+          "texto": "Garantizar una solución única o definitiva.",
+          "correcta": false,
+          "explicacion": "Son soluciones probadas, no únicas.",
+          "fuente": "Gamma et al., Design Patterns (1994)"
+        },
+        {
+          "texto": "Resolver problemas comunes de diseño de forma reutilizable.",
+          "correcta": true,
+          "explicacion": "Definición de patrón (GoF).",
+          "fuente": "Gamma et al., Design Patterns (1994)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t044",
+      "numero": 44,
+      "tema": 47,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es el objetivo principal de la arquitectura Java EE?",
+      "opciones": [
+        {
+          "texto": "Facilitar aplicaciones de escritorio multiplataforma.",
+          "correcta": false,
+          "explicacion": "Eso es Java SE.",
+          "fuente": "Jakarta EE Platform Specification"
+        },
+        {
+          "texto": "Proporcionar una plataforma estándar para aplicaciones empresariales distribuidas.",
+          "correcta": true,
+          "explicacion": "Es la definición de Java EE (hoy Jakarta EE).",
+          "fuente": "Jakarta EE Platform Specification"
+        },
+        {
+          "texto": "Simplificar el desarrollo de aplicaciones.",
+          "correcta": false,
+          "explicacion": "Demasiado genérico.",
+          "fuente": "Jakarta EE Platform Specification"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t045",
+      "numero": 45,
+      "tema": 47,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es la función principal de un contenedor web en Java EE?",
+      "opciones": [
+        {
+          "texto": "Gestionar bases de datos relacionales.",
+          "correcta": false,
+          "explicacion": "No es un SGBD.",
+          "fuente": "Jakarta Servlet Specification"
+        },
+        {
+          "texto": "Compilar aplicaciones Java.",
+          "correcta": false,
+          "explicacion": "Compilar lo hace javac.",
+          "fuente": "Jakarta Servlet Specification"
+        },
+        {
+          "texto": "Ejecutar componentes web como Servlets y JSP.",
+          "correcta": true,
+          "explicacion": "Gestiona el ciclo de vida de servlets y JSP (Tomcat, Jetty...).",
+          "fuente": "Jakarta Servlet Specification"
+        }
+      ],
+      "nota": "La plantilla provisional decía b); el tribunal la corrigió a c) por error material."
+    },
+    {
+      "id": "tai26-t046",
+      "numero": 46,
+      "tema": 23,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuáles son las capas habituales de una arquitectura multicapa?",
+      "opciones": [
+        {
+          "texto": "Red, seguridad y almacenamiento.",
+          "correcta": false,
+          "explicacion": "No son capas de aplicación.",
+          "fuente": "Fowler, Patterns of Enterprise Application Architecture"
+        },
+        {
+          "texto": "Presentación, lógica de negocio y datos.",
+          "correcta": true,
+          "explicacion": "Modelo clásico de tres capas.",
+          "fuente": "Fowler, Patterns of Enterprise Application Architecture"
+        },
+        {
+          "texto": "Interfaz de usuario, presentación y datos.",
+          "correcta": false,
+          "explicacion": "Interfaz y presentación son la misma capa; falta la lógica de negocio.",
+          "fuente": "Fowler, Patterns of Enterprise Application Architecture"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t047",
+      "numero": 47,
+      "tema": 48,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la respuesta correcta sobre los protocolos asociados a los servicios web:",
+      "opciones": [
+        {
+          "texto": "Incluyen HTTP y HTTPS, siendo HTTPS la versión que añade seguridad mediante mecanismos criptográficos.",
+          "correcta": true,
+          "explicacion": "HTTPS es HTTP sobre TLS.",
+          "fuente": "RFC 9110; RFC 8446"
+        },
+        {
+          "texto": "Utilizan XML como protocolo de comunicación y el cifrado es su elemento principal.",
+          "correcta": false,
+          "explicacion": "XML es un formato de datos, no un protocolo de transporte.",
+          "fuente": "RFC 9110; RFC 8446"
+        },
+        {
+          "texto": "Incluyen HTTP, pero se ha dejado de usar por seguridad.",
+          "correcta": false,
+          "explicacion": "HTTP sigue siendo la base de los servicios web.",
+          "fuente": "RFC 9110; RFC 8446"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t048",
+      "numero": 48,
+      "tema": 49,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué ocurre si JavaScript está deshabilitado en el navegador?",
+      "opciones": [
+        {
+          "texto": "La página no se carga en absoluto.",
+          "correcta": false,
+          "explicacion": "El HTML y el CSS se siguen procesando.",
+          "fuente": "MDN: Progressive enhancement"
+        },
+        {
+          "texto": "Se pierde la interactividad, pero el HTML sigue mostrándose.",
+          "correcta": true,
+          "explicacion": "Base de la mejora progresiva.",
+          "fuente": "MDN: Progressive enhancement"
+        },
+        {
+          "texto": "El servidor deja de responder.",
+          "correcta": false,
+          "explicacion": "El servidor no se ve afectado.",
+          "fuente": "MDN: Progressive enhancement"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t049",
+      "numero": 49,
+      "tema": 48,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es la finalidad fundamental del diseño responsive en un contexto multidispositivo?",
+      "opciones": [
+        {
+          "texto": "Que estructura y presentación se adapten dinámicamente a distintas resoluciones y tamaños de pantalla.",
+          "correcta": true,
+          "explicacion": "Definición de RWD.",
+          "fuente": "Marcotte, Responsive Web Design (2010)"
+        },
+        {
+          "texto": "Reducir la complejidad del CSS con frameworks.",
+          "correcta": false,
+          "explicacion": "Los frameworks son una herramienta, no la finalidad.",
+          "fuente": "Marcotte, Responsive Web Design (2010)"
+        },
+        {
+          "texto": "Mejorar el rendimiento del servidor repartiendo carga.",
+          "correcta": false,
+          "explicacion": "No tiene relación.",
+          "fuente": "Marcotte, Responsive Web Design (2010)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t050",
+      "numero": 50,
+      "tema": 50,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál NO es un desafío típico en el desarrollo de una app multiplataforma?",
+      "opciones": [
+        {
+          "texto": "Garantizar la compatibilidad con múltiples sistemas operativos.",
+          "correcta": false,
+          "explicacion": "Sí es un desafío típico.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Diseñar una interfaz adaptada a cada plataforma.",
+          "correcta": false,
+          "explicacion": "Sí es un desafío típico.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Fabricar físicamente los dispositivos móviles.",
+          "correcta": true,
+          "explicacion": "No es tarea del desarrollo de software.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t051",
+      "numero": 51,
+      "tema": 50,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es el IDE oficial de Apple para desarrollar aplicaciones iOS?",
+      "opciones": [
+        {
+          "texto": "Xcode.",
+          "correcta": true,
+          "explicacion": "IDE oficial de Apple.",
+          "fuente": "developer.apple.com/xcode"
+        },
+        {
+          "texto": "Atom.",
+          "correcta": false,
+          "explicacion": "Editor de GitHub (discontinuado).",
+          "fuente": "developer.apple.com/xcode"
+        },
+        {
+          "texto": "Sublime Text.",
+          "correcta": false,
+          "explicacion": "Editor de texto genérico.",
+          "fuente": "developer.apple.com/xcode"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t052",
+      "numero": 52,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un atacante inyecta código malicioso en un campo de comentarios que se ejecuta en los navegadores de otros usuarios. ¿Qué vulnerabilidad ha explotado?",
+      "opciones": [
+        {
+          "texto": "Inyección SQL.",
+          "correcta": false,
+          "explicacion": "Ataca la base de datos, no el navegador.",
+          "fuente": "OWASP Top 10, A03 Injection (XSS)"
+        },
+        {
+          "texto": "Cross-Site Scripting (XSS).",
+          "correcta": true,
+          "explicacion": "XSS almacenado: el script se ejecuta en el navegador de las víctimas.",
+          "fuente": "OWASP Top 10, A03 Injection (XSS)"
+        },
+        {
+          "texto": "Cross-Site Request Forgery (CSRF).",
+          "correcta": false,
+          "explicacion": "CSRF fuerza peticiones en nombre del usuario, sin inyectar script.",
+          "fuente": "OWASP Top 10, A03 Injection (XSS)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t053",
+      "numero": 53,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué vulnerabilidad se previene principalmente con consultas preparadas?",
+      "opciones": [
+        {
+          "texto": "Inyección SQL (SQLi).",
+          "correcta": true,
+          "explicacion": "Los parámetros se envían separados del código SQL.",
+          "fuente": "OWASP SQL Injection Prevention Cheat Sheet"
+        },
+        {
+          "texto": "Cross-Site Scripting (XSS).",
+          "correcta": false,
+          "explicacion": "Se previene con escapado de salida y CSP.",
+          "fuente": "OWASP SQL Injection Prevention Cheat Sheet"
+        },
+        {
+          "texto": "Reutilización de tokens de sesión.",
+          "correcta": false,
+          "explicacion": "Se previene con gestión de sesiones.",
+          "fuente": "OWASP SQL Injection Prevention Cheat Sheet"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t054",
+      "numero": 54,
+      "tema": 53,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué institución formuló los siete principios del diseño universal?",
+      "opciones": [
+        {
+          "texto": "W3C, en el marco de las WCAG.",
+          "correcta": false,
+          "explicacion": "Las WCAG tienen 4 principios (POUR), no 7.",
+          "fuente": "design.ncsu.edu/research/center-for-universal-design"
+        },
+        {
+          "texto": "Center for Universal Design (NCSU).",
+          "correcta": true,
+          "explicacion": "Ronald Mace y su equipo, NC State University, 1997.",
+          "fuente": "design.ncsu.edu/research/center-for-universal-design"
+        },
+        {
+          "texto": "EIDD – Design for All Europe.",
+          "correcta": false,
+          "explicacion": "Es otra organización europea; no formuló los 7 principios.",
+          "fuente": "design.ncsu.edu/research/center-for-universal-design"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t055",
+      "numero": 55,
+      "tema": 27,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Por qué usar repositorios de backup inmutables (WORM) frente a ransomware?",
+      "opciones": [
+        {
+          "texto": "Para reducir espacio con deduplicación.",
+          "correcta": false,
+          "explicacion": "La deduplicación es otra técnica.",
+          "fuente": "CCN-CERT, guías de protección frente a ransomware"
+        },
+        {
+          "texto": "Para impedir que el ataque cifre o elimine las copias.",
+          "correcta": true,
+          "explicacion": "Write Once Read Many: nadie puede modificar ni borrar la copia durante su retención.",
+          "fuente": "CCN-CERT, guías de protección frente a ransomware"
+        },
+        {
+          "texto": "Para replicar copias en varias regiones.",
+          "correcta": false,
+          "explicacion": "La replicación geográfica es otra medida.",
+          "fuente": "CCN-CERT, guías de protección frente a ransomware"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t056",
+      "numero": 56,
+      "tema": 60,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Para un Área municipal multisede con BD corporativas, virtualización y aplicaciones críticas, ¿qué almacenamiento es más adecuado?",
+      "opciones": [
+        {
+          "texto": "DAS, por simplicidad y bajo coste.",
+          "correcta": false,
+          "explicacion": "Conectado a un solo servidor: no escala ni se comparte.",
+          "fuente": "SNIA Dictionary: SAN, NAS, DAS"
+        },
+        {
+          "texto": "NAS, por acceso por red a nivel de archivo.",
+          "correcta": false,
+          "explicacion": "Útil para ficheros, menos para BD y virtualización exigentes.",
+          "fuente": "SNIA Dictionary: SAN, NAS, DAS"
+        },
+        {
+          "texto": "SAN, por su arquitectura de bloques y alta velocidad.",
+          "correcta": true,
+          "explicacion": "Acceso por bloques, alto rendimiento y gestión centralizada.",
+          "fuente": "SNIA Dictionary: SAN, NAS, DAS"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t057",
+      "numero": 57,
+      "tema": 60,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué solución open source ofrece almacenamiento distribuido por bloques, archivos y objetos e integra con OpenStack y Kubernetes?",
+      "opciones": [
+        {
+          "texto": "Ceph.",
+          "correcta": true,
+          "explicacion": "RBD (bloques), CephFS (archivos) y RGW (objetos).",
+          "fuente": "docs.ceph.com"
+        },
+        {
+          "texto": "TrueNAS CORE basado en FreeBSD.",
+          "correcta": false,
+          "explicacion": "NAS basado en ZFS, no distribuido de esa forma.",
+          "fuente": "docs.ceph.com"
+        },
+        {
+          "texto": "GlusterFS.",
+          "correcta": false,
+          "explicacion": "Sistema de archivos distribuido, sin bloques ni objetos nativos completos.",
+          "fuente": "docs.ceph.com"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t058",
+      "numero": 58,
+      "tema": 19,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una de las funciones del sistema operativo respecto al hardware es:",
+      "opciones": [
+        {
+          "texto": "Permitir que las aplicaciones accedan directamente a los registros del procesador.",
+          "correcta": false,
+          "explicacion": "Al contrario: el SO lo impide (modo usuario/núcleo).",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 1"
+        },
+        {
+          "texto": "Gestionar la localización y la protección de acceso al hardware.",
+          "correcta": true,
+          "explicacion": "Gestión y protección de recursos.",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 1"
+        },
+        {
+          "texto": "Sustituir al firmware de la BIOS.",
+          "correcta": false,
+          "explicacion": "El firmware es independiente del SO.",
+          "fuente": "Silberschatz, Operating System Concepts, cap. 1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t059",
+      "numero": 59,
+      "tema": 19,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En la gestión de procesos, el sistema operativo se encarga de:",
+      "opciones": [
+        {
+          "texto": "Crear y destruir procesos.",
+          "correcta": false,
+          "explicacion": "Correcta, pero incompleta.",
+          "fuente": "Silberschatz, cap. 3"
+        },
+        {
+          "texto": "Parar y reanudar procesos.",
+          "correcta": false,
+          "explicacion": "Correcta, pero incompleta.",
+          "fuente": "Silberschatz, cap. 3"
+        },
+        {
+          "texto": "Ambas son correctas.",
+          "correcta": true,
+          "explicacion": "Ambas son funciones de gestión de procesos.",
+          "fuente": "Silberschatz, cap. 3"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t060",
+      "numero": 60,
+      "tema": 63,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Para segmentar el tráfico de Policía Municipal, SAMUR y sistemas tributarios sobre una misma red física, ¿qué tecnología es la más adecuada?",
+      "opciones": [
+        {
+          "texto": "VPNs IPsec sitio a sitio entre las sedes.",
+          "correcta": false,
+          "explicacion": "Cifra, pero no es la forma natural de segmentar una LAN compartida.",
+          "fuente": "IEEE 802.1Q; alegaciones del tribunal"
+        },
+        {
+          "texto": "SDN/NFV con microsegmentación y VXLAN.",
+          "correcta": false,
+          "explicacion": "Según el tribunal, pensado para centros de datos masivos: complejidad injustificada.",
+          "fuente": "IEEE 802.1Q; alegaciones del tribunal"
+        },
+        {
+          "texto": "VLANs (IEEE 802.1Q), una por organismo.",
+          "correcta": true,
+          "explicacion": "Mecanismo estándar y maduro para aislar tráfico en capa 2.",
+          "fuente": "IEEE 802.1Q; alegaciones del tribunal"
+        }
+      ],
+      "nota": "El tribunal: «la pregunta pide lo más adecuado, no lo más sofisticado»."
+    },
+    {
+      "id": "tai26-t061",
+      "numero": 61,
+      "tema": 62,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "NFV (Network Function Virtualization) hace referencia a:",
+      "opciones": [
+        {
+          "texto": "Ejecutar funciones de red (firewalls, balanceadores, routers) como software sobre servidores estándar.",
+          "correcta": true,
+          "explicacion": "Definición de ETSI NFV.",
+          "fuente": "ETSI GS NFV 002"
+        },
+        {
+          "texto": "Protocolos de cifrado del 3GPP para 5G.",
+          "correcta": false,
+          "explicacion": "No es lo que significa NFV.",
+          "fuente": "ETSI GS NFV 002"
+        },
+        {
+          "texto": "Segmentación con etiquetas VLAN.",
+          "correcta": false,
+          "explicacion": "Eso es 802.1Q.",
+          "fuente": "ETSI GS NFV 002"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t062",
+      "numero": 62,
+      "tema": 55,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué protocolo se usa comúnmente para acceso remoto en entornos Windows corporativos?",
+      "opciones": [
+        {
+          "texto": "FTP.",
+          "correcta": false,
+          "explicacion": "Transferencia de ficheros.",
+          "fuente": "Microsoft Learn: Remote Desktop Protocol"
+        },
+        {
+          "texto": "SMTP.",
+          "correcta": false,
+          "explicacion": "Envío de correo.",
+          "fuente": "Microsoft Learn: Remote Desktop Protocol"
+        },
+        {
+          "texto": "RDP.",
+          "correcta": true,
+          "explicacion": "Remote Desktop Protocol (puerto 3389).",
+          "fuente": "Microsoft Learn: Remote Desktop Protocol"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t063",
+      "numero": 63,
+      "tema": 55,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es una desventaja común de VNC para acceso remoto?",
+      "opciones": [
+        {
+          "texto": "Requiere configuraciones adicionales para varios usuarios simultáneos.",
+          "correcta": false,
+          "explicacion": "Según el tribunal, no es la desventaja común principal.",
+          "fuente": "RFC 6143 (RFB); alegaciones del tribunal"
+        },
+        {
+          "texto": "Solo funciona en redes locales.",
+          "correcta": false,
+          "explicacion": "Falso: funciona por Internet (con puertos, VPN o túnel).",
+          "fuente": "RFC 6143 (RFB); alegaciones del tribunal"
+        },
+        {
+          "texto": "Puede ser más lento que otras herramientas si la conexión es lenta.",
+          "correcta": true,
+          "explicacion": "Transmite la pantalla como imágenes (RFB): sensible al ancho de banda.",
+          "fuente": "RFC 6143 (RFB); alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t064",
+      "numero": 64,
+      "tema": 55,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué problema de seguridad es común en VNC si no se configura correctamente?",
+      "opciones": [
+        {
+          "texto": "Exceso de velocidad de red.",
+          "correcta": false,
+          "explicacion": "No es un problema de seguridad.",
+          "fuente": "RFC 6143"
+        },
+        {
+          "texto": "Acceso no cifrado o débilmente protegido.",
+          "correcta": true,
+          "explicacion": "RFB no cifra por defecto y su autenticación clásica es débil.",
+          "fuente": "RFC 6143"
+        },
+        {
+          "texto": "Incompatibilidad con hardware.",
+          "correcta": false,
+          "explicacion": "No es un problema de seguridad.",
+          "fuente": "RFC 6143"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t065",
+      "numero": 65,
+      "tema": 63,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "RMON realiza la comunicación a través del protocolo:",
+      "opciones": [
+        {
+          "texto": "Spanning Tree.",
+          "correcta": false,
+          "explicacion": "STP evita bucles en capa 2.",
+          "fuente": "RFC 2819 (RMON)"
+        },
+        {
+          "texto": "SNMP.",
+          "correcta": true,
+          "explicacion": "RMON es una MIB que se consulta por SNMP.",
+          "fuente": "RFC 2819 (RMON)"
+        },
+        {
+          "texto": "No utiliza ningún protocolo.",
+          "correcta": false,
+          "explicacion": "Falso.",
+          "fuente": "RFC 2819 (RMON)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t066",
+      "numero": 66,
+      "tema": 63,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "RMON 2 extiende el monitoreo a:",
+      "opciones": [
+        {
+          "texto": "La capa física.",
+          "correcta": false,
+          "explicacion": "RMON1 ya trabaja sobre segmentos físicos.",
+          "fuente": "RFC 4502 (RMON2)"
+        },
+        {
+          "texto": "La capa MAC.",
+          "correcta": false,
+          "explicacion": "RMON1 se centra en capa MAC.",
+          "fuente": "RFC 4502 (RMON2)"
+        },
+        {
+          "texto": "Las capas superiores de red.",
+          "correcta": true,
+          "explicacion": "RMON2 añade capas 3 a 7 (protocolos y aplicaciones).",
+          "fuente": "RFC 4502 (RMON2)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t067",
+      "numero": 67,
+      "tema": 62,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué tipo de nube se caracteriza por no requerir inversión inicial en hardware?",
+      "opciones": [
+        {
+          "texto": "Nube privada.",
+          "correcta": false,
+          "explicacion": "Exige infraestructura propia.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "Nube híbrida.",
+          "correcta": false,
+          "explicacion": "Incluye una parte privada.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "Nube pública.",
+          "correcta": true,
+          "explicacion": "Pago por uso sin CAPEX inicial.",
+          "fuente": "NIST SP 800-145"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t068",
+      "numero": 68,
+      "tema": 62,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué modelo de servicio cloud se basa en la externalización de servidores y pago por consumo?",
+      "opciones": [
+        {
+          "texto": "IaaS.",
+          "correcta": true,
+          "explicacion": "Infraestructura (cómputo, almacenamiento, red) como servicio.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "SaaS.",
+          "correcta": false,
+          "explicacion": "Aplicaciones completas.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "PaaS.",
+          "correcta": false,
+          "explicacion": "Plataforma de desarrollo y ejecución.",
+          "fuente": "NIST SP 800-145"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t069",
+      "numero": 69,
+      "tema": 62,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿De qué tipo de servicio cloud son ejemplos Google Apps, Gmail o WordPress?",
+      "opciones": [
+        {
+          "texto": "PaaS.",
+          "correcta": false,
+          "explicacion": "No ofrecen plataforma de desarrollo.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "SaaS.",
+          "correcta": true,
+          "explicacion": "Software listo para usar como servicio.",
+          "fuente": "NIST SP 800-145"
+        },
+        {
+          "texto": "IaaS.",
+          "correcta": false,
+          "explicacion": "No son infraestructura.",
+          "fuente": "NIST SP 800-145"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t070",
+      "numero": 70,
+      "tema": 17,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Es lo mismo la firma electrónica que la firma digital?",
+      "opciones": [
+        {
+          "texto": "Sí, son exactamente lo mismo.",
+          "correcta": false,
+          "explicacion": "La firma electrónica es un concepto jurídico más amplio.",
+          "fuente": "Reglamento (UE) 910/2014 (eIDAS) art. 3"
+        },
+        {
+          "texto": "No, la firma digital es un tipo de firma electrónica basada en criptografía.",
+          "correcta": true,
+          "explicacion": "La digital usa criptografía asimétrica: es una forma de firma electrónica.",
+          "fuente": "Reglamento (UE) 910/2014 (eIDAS) art. 3"
+        },
+        {
+          "texto": "No, la firma electrónica es más avanzada que la digital.",
+          "correcta": false,
+          "explicacion": "Al revés.",
+          "fuente": "Reglamento (UE) 910/2014 (eIDAS) art. 3"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t071",
+      "numero": 71,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Señale la respuesta correcta sobre los elementos de la seguridad de la información:",
+      "opciones": [
+        {
+          "texto": "Una amenaza es una debilidad del sistema explotable por un atacante.",
+          "correcta": false,
+          "explicacion": "Eso define la vulnerabilidad.",
+          "fuente": "MAGERIT v3, Libro I"
+        },
+        {
+          "texto": "Una vulnerabilidad es un evento potencial que puede causar daño.",
+          "correcta": false,
+          "explicacion": "Eso define la amenaza.",
+          "fuente": "MAGERIT v3, Libro I"
+        },
+        {
+          "texto": "Un activo es cualquier elemento de valor para la organización que debe ser protegido.",
+          "correcta": true,
+          "explicacion": "Definición de activo (MAGERIT).",
+          "fuente": "MAGERIT v3, Libro I"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t072",
+      "numero": 72,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "IEEE 802.11be es también conocido como:",
+      "opciones": [
+        {
+          "texto": "WiFi 5.",
+          "correcta": false,
+          "explicacion": "802.11ac.",
+          "fuente": "Wi-Fi Alliance"
+        },
+        {
+          "texto": "WiFi 6.",
+          "correcta": false,
+          "explicacion": "802.11ax.",
+          "fuente": "Wi-Fi Alliance"
+        },
+        {
+          "texto": "WiFi 7.",
+          "correcta": true,
+          "explicacion": "802.11be (Extremely High Throughput).",
+          "fuente": "Wi-Fi Alliance"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t073",
+      "numero": 73,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El comité IEEE que desarrolla estándares para redes inalámbricas de área personal (WPAN) es:",
+      "opciones": [
+        {
+          "texto": "IEEE 802.11.",
+          "correcta": false,
+          "explicacion": "WLAN (WiFi).",
+          "fuente": "IEEE 802 LAN/MAN Standards Committee"
+        },
+        {
+          "texto": "IEEE 802.15.",
+          "correcta": true,
+          "explicacion": "WPAN: Bluetooth (802.15.1), Zigbee (802.15.4).",
+          "fuente": "IEEE 802 LAN/MAN Standards Committee"
+        },
+        {
+          "texto": "IEEE 802.16.",
+          "correcta": false,
+          "explicacion": "WMAN (WiMAX).",
+          "fuente": "IEEE 802 LAN/MAN Standards Committee"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t074",
+      "numero": 74,
+      "tema": 67,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál fue la primera red práctica que implementó la conmutación de paquetes?",
+      "opciones": [
+        {
+          "texto": "AlohaNet.",
+          "correcta": false,
+          "explicacion": "Red de radio (1971) con acceso aleatorio, no conmutación de paquetes como tal.",
+          "fuente": "Plantilla definitiva del tribunal"
+        },
+        {
+          "texto": "ARPANET.",
+          "correcta": true,
+          "explicacion": "Respuesta oficial del tribunal (1969).",
+          "fuente": "Plantilla definitiva del tribunal"
+        },
+        {
+          "texto": "NSFNET.",
+          "correcta": false,
+          "explicacion": "Es posterior (1985).",
+          "fuente": "Plantilla definitiva del tribunal"
+        }
+      ],
+      "nota": "Hay debate histórico (la red NPL de Donald Davies), pero el tribunal da ARPANET."
+    },
+    {
+      "id": "tai26-t075",
+      "numero": 75,
+      "tema": 65,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué tecnología permite gestionar servicios de red abstrayendo la infraestructura subyacente?",
+      "opciones": [
+        {
+          "texto": "Conmutación de circuitos.",
+          "correcta": false,
+          "explicacion": "Técnica de transmisión.",
+          "fuente": "ONF, SDN Architecture"
+        },
+        {
+          "texto": "Software-Defined Networking (SDN).",
+          "correcta": true,
+          "explicacion": "Separa el plano de control del de datos y lo centraliza en un controlador.",
+          "fuente": "ONF, SDN Architecture"
+        },
+        {
+          "texto": "Packet Switching.",
+          "correcta": false,
+          "explicacion": "Técnica de transmisión.",
+          "fuente": "ONF, SDN Architecture"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t076",
+      "numero": 76,
+      "tema": 24,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es el modelo de arquitectura de red teórico más famoso?",
+      "opciones": [
+        {
+          "texto": "El modelo ISO de la OSI.",
+          "correcta": false,
+          "explicacion": "Trampa: no existe «modelo ISO de la OSI»; es el modelo OSI de la ISO.",
+          "fuente": "ISO/IEC 7498-1; alegaciones del tribunal"
+        },
+        {
+          "texto": "El modelo TCP/IP.",
+          "correcta": false,
+          "explicacion": "Es un modelo práctico, no el teórico de referencia.",
+          "fuente": "ISO/IEC 7498-1; alegaciones del tribunal"
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "correcta": true,
+          "explicacion": "Al estar mal formulada la a), ninguna es correcta.",
+          "fuente": "ISO/IEC 7498-1; alegaciones del tribunal"
+        }
+      ],
+      "nota": "16 aspirantes la impugnaron y el tribunal la mantuvo. Este tribunal pone trampas de redacción: lee cada palabra."
+    },
+    {
+      "id": "tai26-t077",
+      "numero": 77,
+      "tema": 24,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿En qué nivel se lleva a cabo el enrutamiento de datos entre redes?",
+      "opciones": [
+        {
+          "texto": "Capa de enlace de datos.",
+          "correcta": false,
+          "explicacion": "Conmutación dentro de la misma red (MAC).",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Capa de red.",
+          "correcta": true,
+          "explicacion": "Capa 3: IP y routers.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Capa de transporte.",
+          "correcta": false,
+          "explicacion": "Extremo a extremo entre procesos (TCP/UDP).",
+          "fuente": "ISO/IEC 7498-1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t078",
+      "numero": 78,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál se considera uno de los principales riesgos por errores, desconocimiento o malas prácticas del usuario?",
+      "opciones": [
+        {
+          "texto": "El factor humano.",
+          "correcta": true,
+          "explicacion": "Ingeniería social, errores y descuidos.",
+          "fuente": "ENS (RD 311/2022) art. 15; CCN-CERT"
+        },
+        {
+          "texto": "La infraestructura de red.",
+          "correcta": false,
+          "explicacion": "No depende del usuario.",
+          "fuente": "ENS (RD 311/2022) art. 15; CCN-CERT"
+        },
+        {
+          "texto": "Los mecanismos de cifrado.",
+          "correcta": false,
+          "explicacion": "No depende del usuario.",
+          "fuente": "ENS (RD 311/2022) art. 15; CCN-CERT"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t079",
+      "numero": 79,
+      "tema": 66,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Cuál es la finalidad principal de la seguridad perimetral?",
+      "opciones": [
+        {
+          "texto": "Proteger solo los equipos de usuario con antivirus.",
+          "correcta": false,
+          "explicacion": "Eso es seguridad del puesto.",
+          "fuente": "CCN-STIC, seguridad perimetral"
+        },
+        {
+          "texto": "Controlar y proteger las comunicaciones entre la red interna y las externas, evitando accesos no autorizados.",
+          "correcta": true,
+          "explicacion": "Firewalls, DMZ, proxies, IPS en la frontera.",
+          "fuente": "CCN-STIC, seguridad perimetral"
+        },
+        {
+          "texto": "Supervisar el tráfico para detectar y registrar incidentes.",
+          "correcta": false,
+          "explicacion": "Eso es monitorización/IDS, una parte pero no la finalidad principal.",
+          "fuente": "CCN-STIC, seguridad perimetral"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t080",
+      "numero": 80,
+      "tema": 63,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En la topología en bus:",
+      "opciones": [
+        {
+          "texto": "La información describe una trayectoria circular en una única dirección.",
+          "correcta": false,
+          "explicacion": "Eso es anillo.",
+          "fuente": "Tanenbaum, Redes de computadoras"
+        },
+        {
+          "texto": "Los elementos se disponen linealmente, en serie, conectados por un cable.",
+          "correcta": true,
+          "explicacion": "Definición de bus.",
+          "fuente": "Tanenbaum, Redes de computadoras"
+        },
+        {
+          "texto": "Todos los elementos se conectan punto a punto a un equipo central.",
+          "correcta": false,
+          "explicacion": "Eso es estrella.",
+          "fuente": "Tanenbaum, Redes de computadoras"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t081",
+      "numero": 81,
+      "tema": 63,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En la topología en anillo:",
+      "opciones": [
+        {
+          "texto": "La información describe una trayectoria circular en una única dirección y el equipo principal gestiona conflictos para evitar colisiones.",
+          "correcta": true,
+          "explicacion": "Descripción de anillo según el tribunal.",
+          "fuente": "Alegaciones del tribunal"
+        },
+        {
+          "texto": "Los elementos se disponen linealmente conectados por un cable.",
+          "correcta": false,
+          "explicacion": "Eso es bus.",
+          "fuente": "Alegaciones del tribunal"
+        },
+        {
+          "texto": "Todos los elementos se conectan punto a punto a un equipo central.",
+          "correcta": false,
+          "explicacion": "Eso es estrella.",
+          "fuente": "Alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t082",
+      "numero": 82,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El sistema de radiocomunicaciones TETRA es aprobado por:",
+      "opciones": [
+        {
+          "texto": "3GPP.",
+          "correcta": false,
+          "explicacion": "Estandariza 3G/4G/5G.",
+          "fuente": "ETSI EN 300 392"
+        },
+        {
+          "texto": "ETSI.",
+          "correcta": true,
+          "explicacion": "Serie ETSI EN 300 392.",
+          "fuente": "ETSI EN 300 392"
+        },
+        {
+          "texto": "OMA.",
+          "correcta": false,
+          "explicacion": "Open Mobile Alliance.",
+          "fuente": "ETSI EN 300 392"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t083",
+      "numero": 83,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "TETRA emplea la técnica de:",
+      "opciones": [
+        {
+          "texto": "Acceso Múltiple por División de Tiempo (TDMA).",
+          "correcta": true,
+          "explicacion": "4 slots por portadora de 25 kHz.",
+          "fuente": "ETSI EN 300 392-2"
+        },
+        {
+          "texto": "Acceso Múltiple por División de longitud de Onda.",
+          "correcta": false,
+          "explicacion": "Eso es WDM, de fibra óptica.",
+          "fuente": "ETSI EN 300 392-2"
+        },
+        {
+          "texto": "Acceso Múltiple por División Simple de Datos.",
+          "correcta": false,
+          "explicacion": "No existe.",
+          "fuente": "ETSI EN 300 392-2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t084",
+      "numero": 84,
+      "tema": 16,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Según el artículo 5 del ENS, deberán tenerse en cuenta los siguientes principios básicos, entre otros:",
+      "opciones": [
+        {
+          "texto": "Reevaluación periódica, vigilancia continua, prevención, detección, respuesta y recuperación, y seguridad como proceso integral.",
+          "correcta": false,
+          "explicacion": "«Recuperación» no es un principio del ENS: el principio es «prevención, detección, respuesta y CONSERVACIÓN».",
+          "fuente": "RD 311/2022 art. 5"
+        },
+        {
+          "texto": "Gestión de la seguridad basada en los riesgos, vigilancia continua, prevención, detección y respuesta, y seguridad como proceso integral.",
+          "correcta": true,
+          "explicacion": "Todo lo enumerado está en el art. 5 (aunque la letra c esté abreviada).",
+          "fuente": "RD 311/2022 art. 5"
+        },
+        {
+          "texto": "Gestión de la seguridad basada en las amenazas, vigilancia continua, prevención, detección, respuesta y conservación, y seguridad como proceso integral.",
+          "correcta": false,
+          "explicacion": "«Basada en las amenazas» es falso: es basada en los RIESGOS.",
+          "fuente": "RD 311/2022 art. 5"
+        }
+      ],
+      "nota": "Rectificada tras 24 impugnaciones: la provisional daba a). Los 7 principios: proceso integral, gestión basada en riesgos, prevención-detección-respuesta-conservación, líneas de defensa, vigilancia continua, reevaluación periódica y diferenciación de responsabilidades."
+    },
+    {
+      "id": "tai26-t085",
+      "numero": 85,
+      "tema": 16,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Sobre la seguridad como proceso integral (art. 6 del ENS):",
+      "opciones": [
+        {
+          "texto": "Incluye elementos humanos, materiales, técnicos, jurídicos, organizativos y transitorios, y excluye actuaciones puntuales.",
+          "correcta": false,
+          "explicacion": "«Transitorios» no aparece en la norma (trampa intencionada según el tribunal).",
+          "fuente": "RD 311/2022 art. 6"
+        },
+        {
+          "texto": "Incluye elementos humanos, materiales, técnicos, jurídicos y organizativos, e incluye cualquier actuación puntual o tratamiento coyuntural.",
+          "correcta": false,
+          "explicacion": "El principio EXCLUYE las actuaciones puntuales.",
+          "fuente": "RD 311/2022 art. 6"
+        },
+        {
+          "texto": "Incluye elementos humanos, materiales, técnicos, jurídicos y organizativos, y excluye cualquier actuación puntual o tratamiento coyuntural.",
+          "correcta": true,
+          "explicacion": "Literal del art. 6.1.",
+          "fuente": "RD 311/2022 art. 6"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t086",
+      "numero": 86,
+      "tema": 16,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Acerca de las líneas de defensa del ENS:",
+      "opciones": [
+        {
+          "texto": "Han de estar constituidas por medidas de naturaleza material, lógica y organizativa.",
+          "correcta": false,
+          "explicacion": "«Material» no es el término de la norma: es física.",
+          "fuente": "RD 311/2022 art. 8.2"
+        },
+        {
+          "texto": "Han de estar constituidas por medidas de naturaleza física, lógica y organizativa.",
+          "correcta": true,
+          "explicacion": "Literal del art. 8.2: organizativa, física y lógica.",
+          "fuente": "RD 311/2022 art. 8.2"
+        },
+        {
+          "texto": "Por medidas organizativas, físicas, lógicas y cognitivas.",
+          "correcta": false,
+          "explicacion": "«Cognitiva» no figura.",
+          "fuente": "RD 311/2022 art. 8.2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t087",
+      "numero": 87,
+      "tema": 68,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En una sala de videoconferencia, ¿qué mejora de forma más directa la inteligibilidad de la voz?",
+      "opciones": [
+        {
+          "texto": "Controlar el tiempo de reverberación con materiales absorbentes.",
+          "correcta": true,
+          "explicacion": "Reduce ecos y reflexiones: actúa directamente sobre la claridad.",
+          "fuente": "Alegaciones del tribunal"
+        },
+        {
+          "texto": "Un altavoz de mayor potencia.",
+          "correcta": false,
+          "explicacion": "Más volumen no reduce la reverberación.",
+          "fuente": "Alegaciones del tribunal"
+        },
+        {
+          "texto": "Aislar la sala frente a ruidos exteriores.",
+          "correcta": false,
+          "explicacion": "Ayuda indirectamente, pero no corrige la reverberación interior (tribunal).",
+          "fuente": "Alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t088",
+      "numero": 88,
+      "tema": 33,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En una herramienta colaborativa, ¿qué funcionalidad está asociada al control de cambios en documentos compartidos?",
+      "opciones": [
+        {
+          "texto": "El historial de versiones.",
+          "correcta": true,
+          "explicacion": "Registra cada cambio y permite restaurar versiones.",
+          "fuente": "—"
+        },
+        {
+          "texto": "El sistema de notificaciones.",
+          "correcta": false,
+          "explicacion": "Avisa, pero no controla cambios.",
+          "fuente": "—"
+        },
+        {
+          "texto": "El sistema de permisos.",
+          "correcta": false,
+          "explicacion": "Restringe quién edita, pero no registra cambios.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t089",
+      "numero": 89,
+      "tema": 43,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Varios programadores deben editar el mismo código a la vez, ver cambios en tiempo real y recuperar versiones anteriores. ¿Qué combinación es mejor?",
+      "opciones": [
+        {
+          "texto": "Jira y Zoom.",
+          "correcta": false,
+          "explicacion": "Gestión de tareas y videollamada.",
+          "fuente": "learn.microsoft.com/visualstudio/liveshare; git-scm.com"
+        },
+        {
+          "texto": "Slack y Google Drive.",
+          "correcta": false,
+          "explicacion": "Mensajería y ficheros.",
+          "fuente": "learn.microsoft.com/visualstudio/liveshare; git-scm.com"
+        },
+        {
+          "texto": "Visual Studio Live Share y Git.",
+          "correcta": true,
+          "explicacion": "Live Share: edición colaborativa en tiempo real; Git: control de versiones.",
+          "fuente": "learn.microsoft.com/visualstudio/liveshare; git-scm.com"
+        }
+      ]
+    },
+    {
+      "id": "tai26-t090",
+      "numero": 90,
+      "tema": 30,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué se entiende por software social?",
+      "opciones": [
+        {
+          "texto": "Aplicaciones que analizan el comportamiento para mostrar publicidad.",
+          "correcta": false,
+          "explicacion": "Eso es publicidad comportamental.",
+          "fuente": "—"
+        },
+        {
+          "texto": "Aplicaciones que facilitan la comunicación, colaboración e interacción, permitiendo crear y compartir contenido colectivamente.",
+          "correcta": true,
+          "explicacion": "Definición de software social (wikis, redes, foros).",
+          "fuente": "—"
+        },
+        {
+          "texto": "Programas que simulan conversaciones con IA.",
+          "correcta": false,
+          "explicacion": "Eso son chatbots.",
+          "fuente": "—"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p001",
+      "numero": 91,
+      "tema": 66,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el piloto, los puestos fijos acceden bien, pero los móviles corporativos muestran «No se puede establecer conexión segura con el servidor». Otros servicios de Internet funcionan en esos móviles. ¿Cuál sería la comprobación inicial más adecuada?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Comprobar la configuración de proxy y APN en los móviles.",
+          "correcta": false,
+          "explicacion": "Si fallara el proxy o el APN no funcionarían otros servicios.",
+          "fuente": "RFC 8446 (TLS 1.3); alegaciones del tribunal"
+        },
+        {
+          "texto": "Validar que el firewall permita el tráfico HTTPS desde la red móvil corporativa.",
+          "correcta": false,
+          "explicacion": "Según el tribunal, un bloqueo de firewall da timeout o conexión rechazada, no un error de conexión segura.",
+          "fuente": "RFC 8446 (TLS 1.3); alegaciones del tribunal"
+        },
+        {
+          "texto": "Verificar si los móviles confían en el certificado del servidor o en su autoridad certificadora.",
+          "correcta": true,
+          "explicacion": "El mensaje apunta a la negociación TLS: CA no confiable en los móviles.",
+          "fuente": "RFC 8446 (TLS 1.3); alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p002",
+      "numero": 92,
+      "tema": 47,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En el siguiente EJB Stateless con transacciones gestionadas por el contenedor, se produce una RuntimeException al insertar la auditoría. ¿Qué comportamiento es esperable por defecto?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "@Stateless\npublic class IncidenciaService {\n  @PersistenceContext\n  private EntityManager em;\n\n  public void registrarIncidencia(Incidencia incidencia) {\n    em.persist(incidencia);\n    Auditoria auditoria = new Auditoria();\n    auditoria.setAccion(\"ALTA_INCIDENCIA\");\n    auditoria.setIdIncidencia(incidencia.getId());\n    em.persist(auditoria);\n  }\n}",
+      "opciones": [
+        {
+          "texto": "Se revierte toda la transacción.",
+          "correcta": true,
+          "explicacion": "Una excepción de sistema (RuntimeException) marca la transacción para rollback: ni incidencia ni auditoría.",
+          "fuente": "Jakarta Enterprise Beans Spec, cap. Transactions (system exceptions)"
+        },
+        {
+          "texto": "Se persiste la incidencia y solo se descarta la auditoría.",
+          "correcta": false,
+          "explicacion": "No hay commit parcial en CMT.",
+          "fuente": "Jakarta Enterprise Beans Spec, cap. Transactions (system exceptions)"
+        },
+        {
+          "texto": "El contenedor confirma los cambios hasta la excepción.",
+          "correcta": false,
+          "explicacion": "Contradice la atomicidad.",
+          "fuente": "Jakarta Enterprise Beans Spec, cap. Transactions (system exceptions)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p003",
+      "numero": 93,
+      "tema": 22,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El panel debe mostrar incidencias no cerradas, pero algunas abiertas de días anteriores no aparecen con esta consulta. ¿Causa más probable?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "SELECT id_incidencia, tipo, prioridad, estado, fecha_alta\nFROM incidencias\nWHERE estado <> 'CERRADA'\n  AND fecha_alta > CURRENT_DATE\nORDER BY prioridad DESC, fecha_alta ASC;",
+      "opciones": [
+        {
+          "texto": "La condición fecha_alta > CURRENT_DATE excluye incidencias anteriores al día actual.",
+          "correcta": true,
+          "explicacion": "Filtra por fecha y deja fuera las abiertas antiguas.",
+          "fuente": "ISO/IEC 9075 (SELECT)"
+        },
+        {
+          "texto": "ORDER BY elimina automáticamente las incidencias antiguas.",
+          "correcta": false,
+          "explicacion": "ORDER BY solo ordena, nunca filtra.",
+          "fuente": "ISO/IEC 9075 (SELECT)"
+        },
+        {
+          "texto": "El operador <> solo funciona con campos numéricos.",
+          "correcta": false,
+          "explicacion": "<> funciona con cadenas.",
+          "fuente": "ISO/IEC 9075 (SELECT)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p004",
+      "numero": 94,
+      "tema": 50,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un agente registra una incidencia sin cobertura y, al reconectar, el servidor rechaza la sincronización porque un operador ya la había cerrado. ¿Qué diseño es más adecuado?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "«Last Write Wins»: el último cambio sobrescribe.",
+          "correcta": false,
+          "explicacion": "Perdería información de forma silenciosa.",
+          "fuente": "Fowler, Optimistic Offline Lock"
+        },
+        {
+          "texto": "Detección y resolución de conflictos con versiones, marcas temporales y reglas de negocio.",
+          "correcta": true,
+          "explicacion": "Patrón estándar de sincronización offline-first (bloqueo optimista).",
+          "fuente": "Fowler, Optimistic Offline Lock"
+        },
+        {
+          "texto": "Bloqueo pesimista para evitar modificaciones concurrentes.",
+          "correcta": false,
+          "explicacion": "Inviable con clientes que trabajan desconectados.",
+          "fuente": "Fowler, Optimistic Offline Lock"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p005",
+      "numero": 95,
+      "tema": 64,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una comisaría tiene la red 192.168.20.0/24 y necesita: Usuarios 120, Servidores 25, Impresoras 12, Videovigilancia 8. ¿Qué segmentación VLSM es la más eficiente y correcta?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "/25 – /27 – /28 – /28",
+          "correcta": true,
+          "explicacion": "/25=126 hosts, /27=30, /28=14, /28=14. Total 128+32+16+16=192 ≤ 256.",
+          "fuente": "RFC 1878 (VLSM); RFC 4632"
+        },
+        {
+          "texto": "/24 – /27 – /28 – /28",
+          "correcta": false,
+          "explicacion": "Un /24 para usuarios agota toda la red.",
+          "fuente": "RFC 1878 (VLSM); RFC 4632"
+        },
+        {
+          "texto": "/26 – /27 – /28 – /29",
+          "correcta": false,
+          "explicacion": "/26=62 hosts no da para 120, y /29=6 no da para 8.",
+          "fuente": "RFC 1878 (VLSM); RFC 4632"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p006",
+      "numero": 96,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Usuarios intentan subir ejecutables (.exe) renombrados como .jpg. ¿Qué control es el más adecuado?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Validar extensión, tipo MIME, firma mágica, tamaño máximo y analizar con antimalware antes de almacenar.",
+          "correcta": true,
+          "explicacion": "Defensa en profundidad: la firma mágica detecta el renombrado.",
+          "fuente": "OWASP File Upload Cheat Sheet"
+        },
+        {
+          "texto": "Permitir cualquier archivo si el usuario está autenticado.",
+          "correcta": false,
+          "explicacion": "La autenticación no valida el contenido.",
+          "fuente": "OWASP File Upload Cheat Sheet"
+        },
+        {
+          "texto": "Comprobar únicamente que la extensión sea .jpg o .png.",
+          "correcta": false,
+          "explicacion": "La extensión se falsifica trivialmente.",
+          "fuente": "OWASP File Upload Cheat Sheet"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p007",
+      "numero": 97,
+      "tema": 49,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El panel debe mostrar nuevas incidencias sin refrescar. ¿Qué problema tiene esta configuración?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "setInterval(() => {\n  fetch(\"/api/incidencias/activas\")\n    .then(r => r.json())\n    .then(datos => pintarPanel(datos));\n}, 300000);",
+      "opciones": [
+        {
+          "texto": "Actualiza cada 5 minutos, lo que puede ser insuficiente para una sala de coordinación.",
+          "correcta": true,
+          "explicacion": "300000 ms = 5 min. Para tiempo real convienen WebSockets o SSE.",
+          "fuente": "MDN: setInterval"
+        },
+        {
+          "texto": "Actualiza cada 3 segundos y podría saturar el sistema.",
+          "correcta": false,
+          "explicacion": "Serían 3000 ms.",
+          "fuente": "MDN: setInterval"
+        },
+        {
+          "texto": "Tiene un error de sintaxis.",
+          "correcta": false,
+          "explicacion": "La sintaxis es correcta.",
+          "fuente": "MDN: setInterval"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p008",
+      "numero": 98,
+      "tema": 16,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El sistema trata datos policiales (seguridad ciudadana, investigación de delitos). Según el ENS, ¿en qué categoría debe clasificarse predominantemente?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Categoría BÁSICA.",
+          "correcta": false,
+          "explicacion": "Insuficiente para datos policiales.",
+          "fuente": "RD 311/2022 anexo I; LO 7/2021 art. 37; alegaciones del tribunal"
+        },
+        {
+          "texto": "Categoría MEDIA.",
+          "correcta": false,
+          "explicacion": "Según el tribunal, una filtración causaría perjuicio muy grave (nivel ALTO).",
+          "fuente": "RD 311/2022 anexo I; LO 7/2021 art. 37; alegaciones del tribunal"
+        },
+        {
+          "texto": "Categoría ALTA.",
+          "correcta": true,
+          "explicacion": "La categoría es ALTA si alguna dimensión (aquí la confidencialidad) alcanza nivel ALTO.",
+          "fuente": "RD 311/2022 anexo I; LO 7/2021 art. 37; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p009",
+      "numero": 99,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué es el modo DMO de TETRA y cuándo resulta útil?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Digital Monitoring Operation: monitoriza interferencias.",
+          "correcta": false,
+          "explicacion": "No existe ese modo.",
+          "fuente": "ETSI EN 300 396 (TETRA DMO)"
+        },
+        {
+          "texto": "Direct Mode Operation: comunicación directa entre terminales sin infraestructura de red.",
+          "correcta": true,
+          "explicacion": "Clave cuando no hay cobertura o la red cae (modo walkie-talkie). El modo con red es TMO.",
+          "fuente": "ETSI EN 300 396 (TETRA DMO)"
+        },
+        {
+          "texto": "Data Management Operation: gestiona datos.",
+          "correcta": false,
+          "explicacion": "No existe ese modo.",
+          "fuente": "ETSI EN 300 396 (TETRA DMO)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p010",
+      "numero": 100,
+      "tema": 27,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Con esta tarea de cron para backups, ¿qué RPO aproximado se está asumiendo?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "0 3 * * * /usr/local/bin/backup-diario.sh",
+      "opciones": [
+        {
+          "texto": "Hasta 24 horas de pérdida máxima de datos.",
+          "correcta": true,
+          "explicacion": "Una copia al día a las 03:00: el peor caso pierde casi 24 h.",
+          "fuente": "man 5 crontab; alegaciones del tribunal"
+        },
+        {
+          "texto": "Sin pérdida de datos (RPO = 0).",
+          "correcta": false,
+          "explicacion": "RPO 0 exige replicación síncrona.",
+          "fuente": "man 5 crontab; alegaciones del tribunal"
+        },
+        {
+          "texto": "Máximo de tres horas.",
+          "correcta": false,
+          "explicacion": "El «3» es la hora de ejecución, no un intervalo.",
+          "fuente": "man 5 crontab; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p011",
+      "numero": 101,
+      "tema": 68,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En una videoconferencia hay cortes de audio y el sistema no retransmite los paquetes perdidos. ¿Qué principio lo explica?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "El uso de TCP es obligatorio en estas aplicaciones.",
+          "correcta": false,
+          "explicacion": "Se usa RTP sobre UDP precisamente para no retransmitir.",
+          "fuente": "RFC 3550 (RTP)"
+        },
+        {
+          "texto": "Los protocolos de videoconferencia siempre desactivan la corrección de errores.",
+          "correcta": false,
+          "explicacion": "«Siempre» es falso: existen FEC y ocultación de pérdidas.",
+          "fuente": "RFC 3550 (RTP)"
+        },
+        {
+          "texto": "En tiempo real se prioriza la baja latencia sobre la fiabilidad total.",
+          "correcta": true,
+          "explicacion": "Un paquete retransmitido llega tarde y ya no sirve.",
+          "fuente": "RFC 3550 (RTP)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p012",
+      "numero": 102,
+      "tema": 48,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un agente de la Comisaría 08 pide GET /api/incidencias/4812 (de la Comisaría 12) y la API devuelve todos los datos. ¿Qué vulnerabilidad es?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Falta de autorización a nivel de objeto (Object Level Authorization).",
+          "correcta": true,
+          "explicacion": "BOLA/IDOR: el número 1 del OWASP API Top 10.",
+          "fuente": "OWASP API Security Top 10, API1:2023 BOLA"
+        },
+        {
+          "texto": "Ausencia de rate limiting.",
+          "correcta": false,
+          "explicacion": "El problema no es el volumen de peticiones.",
+          "fuente": "OWASP API Security Top 10, API1:2023 BOLA"
+        },
+        {
+          "texto": "Uso inadecuado del método GET.",
+          "correcta": false,
+          "explicacion": "GET es el método correcto para consultar.",
+          "fuente": "OWASP API Security Top 10, API1:2023 BOLA"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p013",
+      "numero": 103,
+      "tema": 35,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una herramienta ágil con tableros de columnas «Pendiente», «En progreso» y «Completado». ¿Qué metodología y herramienta describe?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Cascada con diagrama de Gantt.",
+          "correcta": false,
+          "explicacion": "Gantt es planificación temporal secuencial.",
+          "fuente": "Anderson, Kanban (2010)"
+        },
+        {
+          "texto": "Kanban con tablero Kanban.",
+          "correcta": true,
+          "explicacion": "Flujo visual por columnas de estado.",
+          "fuente": "Anderson, Kanban (2010)"
+        },
+        {
+          "texto": "PRINCE2 con registro de riesgos.",
+          "correcta": false,
+          "explicacion": "PRINCE2 no se caracteriza por tableros.",
+          "fuente": "Anderson, Kanban (2010)"
+        }
+      ],
+      "nota": "La plantilla provisional decía a); el tribunal la corrigió a b) tras 61 impugnaciones."
+    },
+    {
+      "id": "tai26-p014",
+      "numero": 104,
+      "tema": 24,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿En qué capa del modelo OSI se realiza el enrutamiento de paquetes entre redes diferentes?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Capa 2: enlace de datos.",
+          "correcta": false,
+          "explicacion": "Dentro de una misma red.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Capa 3: red.",
+          "correcta": true,
+          "explicacion": "IP y routers.",
+          "fuente": "ISO/IEC 7498-1"
+        },
+        {
+          "texto": "Capa 4: transporte.",
+          "correcta": false,
+          "explicacion": "Extremo a extremo.",
+          "fuente": "ISO/IEC 7498-1"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p015",
+      "numero": 105,
+      "tema": 69,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "La sala de coordinación necesita comunicaciones de voz entre agentes aunque falle la red de datos. ¿Qué sistema está diseñado para ello?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Red WiFi 802.11ac.",
+          "correcta": false,
+          "explicacion": "Cobertura local, no crítica.",
+          "fuente": "ETSI EN 300 392"
+        },
+        {
+          "texto": "Red 4G/LTE comercial.",
+          "correcta": false,
+          "explicacion": "Red comercial sin garantías de misión crítica.",
+          "fuente": "ETSI EN 300 392"
+        },
+        {
+          "texto": "Sistema TETRA.",
+          "correcta": true,
+          "explicacion": "Radio digital de emergencias, con modo directo DMO.",
+          "fuente": "ETSI EN 300 392"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p016",
+      "numero": 106,
+      "tema": 40,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "¿Qué algoritmo implementa este pseudocódigo sobre una lista ordenada?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "inicio = 0; fin = N-1\nmientras inicio <= fin:\n  medio = (inicio + fin) / 2\n  si lista[medio] == objetivo: devolver medio\n  si lista[medio] < objetivo: inicio = medio + 1\n  sino: fin = medio - 1\ndevolver -1",
+      "opciones": [
+        {
+          "texto": "Búsqueda lineal.",
+          "correcta": false,
+          "explicacion": "Recorre uno a uno.",
+          "fuente": "Cormen et al., ejercicio 2.3-5"
+        },
+        {
+          "texto": "Búsqueda binaria (dicotómica).",
+          "correcta": true,
+          "explicacion": "Divide el intervalo a la mitad en cada paso: O(log n).",
+          "fuente": "Cormen et al., ejercicio 2.3-5"
+        },
+        {
+          "texto": "Búsqueda en profundidad (DFS).",
+          "correcta": false,
+          "explicacion": "DFS recorre grafos.",
+          "fuente": "Cormen et al., ejercicio 2.3-5"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p017",
+      "numero": 107,
+      "tema": 58,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un desarrollador ejecuta por error «git push origin main --force» en el repositorio compartido. ¿Impacto y cómo recuperar?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "El historial se pierde de forma definitiva y hay que reclonar.",
+          "correcta": false,
+          "explicacion": "Git no borra los commits inmediatamente.",
+          "fuente": "git-scm.com/docs/git-reflog; alegaciones del tribunal"
+        },
+        {
+          "texto": "El historial remoto queda sobrescrito, pero los commits pueden recuperarse con git reflog.",
+          "correcta": true,
+          "explicacion": "Se localiza el commit previo en el reflog, se crea una rama y se vuelve a subir.",
+          "fuente": "git-scm.com/docs/git-reflog; alegaciones del tribunal"
+        },
+        {
+          "texto": "No afecta a los repositorios locales y se sincronizan solos.",
+          "correcta": false,
+          "explicacion": "Sí afecta al remoto y no hay sincronización automática.",
+          "fuente": "git-scm.com/docs/git-reflog; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p018",
+      "numero": 108,
+      "tema": 66,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un equipo interno envía cada 60 s consultas DNS a un dominio externo con subdominios aleatorios largos (a3f92bc1d72e.maldominio.com). ¿Qué técnica es?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Amplificación DNS.",
+          "correcta": false,
+          "explicacion": "Es un DDoS con respuestas grandes hacia una víctima.",
+          "fuente": "MITRE ATT&CK T1071.004"
+        },
+        {
+          "texto": "DNS Tunneling.",
+          "correcta": true,
+          "explicacion": "Exfiltración o C2 codificando datos en subdominios: es su firma típica.",
+          "fuente": "MITRE ATT&CK T1071.004"
+        },
+        {
+          "texto": "DNS Cache Poisoning.",
+          "correcta": false,
+          "explicacion": "Envenena la caché de un resolver.",
+          "fuente": "MITRE ATT&CK T1071.004"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p019",
+      "numero": 109,
+      "tema": 28,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "En los logs aparece repetida esta entrada. ¿Qué tipo de ataque indica?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "GET /buscar?expediente=1+OR+1=1-- HTTP/1.1",
+      "opciones": [
+        {
+          "texto": "XSS reflejado.",
+          "correcta": false,
+          "explicacion": "No hay scripts.",
+          "fuente": "OWASP Testing Guide, SQL Injection"
+        },
+        {
+          "texto": "Intento de inyección SQL.",
+          "correcta": true,
+          "explicacion": "«OR 1=1--» es la firma clásica de SQLi (condición siempre cierta y comentario).",
+          "fuente": "OWASP Testing Guide, SQL Injection"
+        },
+        {
+          "texto": "Fuerza bruta contra el campo de búsqueda.",
+          "correcta": false,
+          "explicacion": "No prueba valores de forma masiva.",
+          "fuente": "OWASP Testing Guide, SQL Injection"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p020",
+      "numero": 110,
+      "tema": 57,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un equipo da BSOD recurrente y vuelve a hacerlo durante la sesión RDP. ¿Cuál es el siguiente paso correcto?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Llamar al agente para que lea el código del BSOD, porque no se puede capturar en remoto.",
+          "correcta": false,
+          "explicacion": "Falso: el volcado (minidump) se analiza en remoto.",
+          "fuente": "Microsoft Learn: Analyze crash dump files"
+        },
+        {
+          "texto": "Revisar en remoto el Visor de eventos (Sistema y Aplicación) y analizar el volcado de memoria.",
+          "correcta": true,
+          "explicacion": "Diagnóstico antes de actuar (WinDbg sobre el .dmp).",
+          "fuente": "Microsoft Learn: Analyze crash dump files"
+        },
+        {
+          "texto": "Reinstalar el sistema operativo con WDS.",
+          "correcta": false,
+          "explicacion": "Desproporcionado sin diagnóstico.",
+          "fuente": "Microsoft Learn: Analyze crash dump files"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p021",
+      "numero": 111,
+      "tema": 53,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un campo de búsqueda usa solo el atributo placeholder, sin <label> asociada. ¿Qué problema de accesibilidad presenta?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "El placeholder desaparece al escribir y no siempre se anuncia como etiqueta: incumple los criterios 1.3.1 y 3.3.2 de WCAG 2.1.",
+          "correcta": true,
+          "explicacion": "Información y relaciones (1.3.1) y etiquetas o instrucciones (3.3.2).",
+          "fuente": "W3C WCAG 2.1, 1.3.1 y 3.3.2"
+        },
+        {
+          "texto": "Ninguno: NVDA y JAWS lo leen.",
+          "correcta": false,
+          "explicacion": "No todos los lectores ni todos los usuarios cubren el caso.",
+          "fuente": "W3C WCAG 2.1, 1.3.1 y 3.3.2"
+        },
+        {
+          "texto": "El problema es de contraste (criterio 1.4.3).",
+          "correcta": false,
+          "explicacion": "El contraste puede ser un problema añadido, pero no es el principal.",
+          "fuente": "W3C WCAG 2.1, 1.3.1 y 3.3.2"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p022",
+      "numero": 112,
+      "tema": 59,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El proceso Java consume el 95 % de CPU varios minutos al arrancar; la JVM tiene -Xms64m -Xmx64m. ¿Causa más probable y qué cambiar primero?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "-Xmx64m limita el heap a 64 MB, insuficiente: el GC se ejecuta continuamente. Aumentar -Xmx (al menos 512m).",
+          "correcta": true,
+          "explicacion": "GC thrashing en el arranque, según el tribunal.",
+          "fuente": "Oracle, JVM tuning (-Xms/-Xmx); alegaciones del tribunal"
+        },
+        {
+          "texto": "Que -Xms y -Xmx sean iguales impide asignar hilos.",
+          "correcta": false,
+          "explicacion": "Igualarlos es una práctica habitual y no afecta a los hilos.",
+          "fuente": "Oracle, JVM tuning (-Xms/-Xmx); alegaciones del tribunal"
+        },
+        {
+          "texto": "-Xms64m reserva 64 MB de CPU.",
+          "correcta": false,
+          "explicacion": "Xms es memoria, no CPU.",
+          "fuente": "Oracle, JVM tuning (-Xms/-Xmx); alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p023",
+      "numero": 113,
+      "tema": 40,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Hay que asignar cada aviso a la patrulla más cercana según GPS, con consulta eficiente con muchas unidades. ¿Qué estructura es más adecuada?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Una pila LIFO con la última patrulla disponible.",
+          "correcta": false,
+          "explicacion": "No tiene en cuenta la distancia.",
+          "fuente": "Bentley (1975), k-d trees; alegaciones del tribunal"
+        },
+        {
+          "texto": "Una estructura espacial (árbol k-d o índice geoespacial) para buscar vecinos más cercanos.",
+          "correcta": true,
+          "explicacion": "Búsqueda del vecino más cercano en tiempo sublineal.",
+          "fuente": "Bentley (1975), k-d trees; alegaciones del tribunal"
+        },
+        {
+          "texto": "Una lista no ordenada recorrida entera en cada aviso.",
+          "correcta": false,
+          "explicacion": "Funciona pero es O(n): la solución ingenua que el enunciado descarta.",
+          "fuente": "Bentley (1975), k-d trees; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p024",
+      "numero": 114,
+      "tema": 56,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Con autocommit activado en PostgreSQL, un técnico ejecuta este UPDATE por error y luego hace ROLLBACK. ¿Resultado?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "codigo": "UPDATE incidencias\nSET estado = 'ARCHIVADA'\nWHERE id_incidencia > 0;\nROLLBACK;",
+      "opciones": [
+        {
+          "texto": "El ROLLBACK revierte gracias al WAL.",
+          "correcta": false,
+          "explicacion": "El WAL es para recuperación ante fallos, no para deshacer commits.",
+          "fuente": "postgresql.org/docs: BEGIN, ROLLBACK"
+        },
+        {
+          "texto": "El ROLLBACK no tiene efecto: con autocommit cada sentencia se confirma sola. Debería haber usado BEGIN antes.",
+          "correcta": true,
+          "explicacion": "Sin BEGIN no hay transacción abierta que deshacer.",
+          "fuente": "postgresql.org/docs: BEGIN, ROLLBACK"
+        },
+        {
+          "texto": "Revierte si se hace en 30 segundos.",
+          "correcta": false,
+          "explicacion": "No existe ese tiempo de retención.",
+          "fuente": "postgresql.org/docs: BEGIN, ROLLBACK"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p025",
+      "numero": 115,
+      "tema": 32,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Se construye un formulario con una plataforma low-code del catálogo municipal. ¿Riesgo técnico más relevante antes de producción?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Generan HTML estático y no pueden enviar datos.",
+          "correcta": false,
+          "explicacion": "Falso: envían datos.",
+          "fuente": "Alegaciones del tribunal; RD 311/2022; RGPD"
+        },
+        {
+          "texto": "Dependencia de proveedor (vendor lock-in) y verificar cumplimiento de ENS y RGPD antes de tratar datos policiales.",
+          "correcta": true,
+          "explicacion": "Única opción técnicamente válida según el tribunal.",
+          "fuente": "Alegaciones del tribunal; RD 311/2022; RGPD"
+        },
+        {
+          "texto": "Solo admiten REST y no podrían integrarse con SOAP.",
+          "correcta": false,
+          "explicacion": "Generalización falsa.",
+          "fuente": "Alegaciones del tribunal; RD 311/2022; RGPD"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p026",
+      "numero": 116,
+      "tema": 39,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "El campo nombre_agente se repite en cada fila junto al id_agente. ¿En qué forma normal se resuelve?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "1FN.",
+          "correcta": false,
+          "explicacion": "Los valores ya son atómicos.",
+          "fuente": "Codd; alegaciones del tribunal"
+        },
+        {
+          "texto": "2FN.",
+          "correcta": false,
+          "explicacion": "Solo aplicaría con clave compuesta y dependencia parcial.",
+          "fuente": "Codd; alegaciones del tribunal"
+        },
+        {
+          "texto": "3FN.",
+          "correcta": true,
+          "explicacion": "Dependencia transitiva: nombre_agente depende de id_agente, atributo no clave.",
+          "fuente": "Codd; alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p027",
+      "numero": 117,
+      "tema": 38,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un AGENTE gestiona muchas INCIDENCIAS (cada una por un agente). Una INCIDENCIA involucra varios VEHÍCULOS y un VEHÍCULO aparece en varias INCIDENCIAS. ¿Cómo se representan?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "AGENTE (1,N) INCIDENCIA «gestiona»; INCIDENCIA (N,M) VEHÍCULO «involucra».",
+          "correcta": true,
+          "explicacion": "Uno a muchos y muchos a muchos.",
+          "fuente": "Chen (1976); alegaciones del tribunal"
+        },
+        {
+          "texto": "AGENTE (1,1) INCIDENCIA; INCIDENCIA (1,N) VEHÍCULO.",
+          "correcta": false,
+          "explicacion": "No refleja que un agente gestiona muchas ni que un vehículo aparece en varias.",
+          "fuente": "Chen (1976); alegaciones del tribunal"
+        },
+        {
+          "texto": "Todas son N:M por defecto en el modelo conceptual.",
+          "correcta": false,
+          "explicacion": "Falso: las cardinalidades se modelan en el conceptual.",
+          "fuente": "Chen (1976); alegaciones del tribunal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p028",
+      "numero": 118,
+      "tema": 55,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Un proceso (PID 4821) consume el 98 % de CPU y hay que terminarlo de forma ordenada. ¿Qué comando?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "kill -1 4821",
+          "correcta": false,
+          "explicacion": "SIGHUP: suele significar recargar configuración.",
+          "fuente": "man 7 signal"
+        },
+        {
+          "texto": "kill -9 4821",
+          "correcta": false,
+          "explicacion": "SIGKILL: muerte inmediata, sin limpieza.",
+          "fuente": "man 7 signal"
+        },
+        {
+          "texto": "kill -15 4821",
+          "correcta": true,
+          "explicacion": "SIGTERM: petición de terminación que el proceso puede atender (es la señal por defecto).",
+          "fuente": "man 7 signal"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p029",
+      "numero": 119,
+      "tema": 46,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Atestado hereda de Documento, que define firmar(). Al llamar a miAtestado.firmar() se ejecuta la versión sobrescrita en Atestado. ¿Qué concepto es?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Encapsulación.",
+          "correcta": false,
+          "explicacion": "Oculta el estado interno.",
+          "fuente": "JLS §8.4.8 (Overriding)"
+        },
+        {
+          "texto": "Polimorfismo.",
+          "correcta": true,
+          "explicacion": "Sobrescritura con despacho dinámico: polimorfismo de subtipo.",
+          "fuente": "JLS §8.4.8 (Overriding)"
+        },
+        {
+          "texto": "Abstracción.",
+          "correcta": false,
+          "explicacion": "Modela lo esencial.",
+          "fuente": "JLS §8.4.8 (Overriding)"
+        }
+      ]
+    },
+    {
+      "id": "tai26-p030",
+      "numero": 120,
+      "tema": 62,
+      "origen": "ayto-tai-tic-2026",
+      "verificada": true,
+      "confianza": "tribunal",
+      "anulada": false,
+      "enunciado": "Una app cloud debe almacenar fotos, vídeos y documentos accesibles desde varias instancias, sin depender del disco local. ¿Qué servicio es más adecuado?",
+      "contexto": "Supuesto: sistema de gestión de incidencias de la Policía Municipal de Madrid (web, móvil, BD corporativa, red TETRA, ENS y ENI).",
+      "opciones": [
+        {
+          "texto": "Amazon EBS, Azure Managed Disks o Google Persistent Disk.",
+          "correcta": false,
+          "explicacion": "Discos de bloque ligados a una instancia.",
+          "fuente": "Documentación AWS, Azure y GCP"
+        },
+        {
+          "texto": "Amazon S3, Azure Blob Storage o Google Cloud Storage.",
+          "correcta": true,
+          "explicacion": "Almacenamiento de objetos, compartido y escalable.",
+          "fuente": "Documentación AWS, Azure y GCP"
+        },
+        {
+          "texto": "ElastiCache, Azure Cache for Redis o Memorystore.",
+          "correcta": false,
+          "explicacion": "Cachés en memoria, no persistencia de ficheros.",
+          "fuente": "Documentación AWS, Azure y GCP"
+        }
+      ]
+    }
+  ]
+}

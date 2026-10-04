@@ -44,3 +44,16 @@ Los `id` deben ser únicos entre todos los bancos. `npm run check:preguntas` val
 ## Apuntes
 
 Ficheros Markdown en `docs/`. Se publican en `/apuntes`.
+
+## App en el móvil (PWA)
+
+Abre la web en el móvil y elige «Añadir a pantalla de inicio» (Chrome: menú ⋮ → Instalar app; Safari: Compartir → Añadir a pantalla de inicio). Funciona sin conexión.
+
+Para probar el modo sin conexión en local no sirve `npm run serve` (redirige `sw.js` y el navegador rechaza el service worker). Usa un servidor estático:
+
+```bash
+npm run build
+mkdir -p /tmp/www && ln -sfn "$PWD/build" /tmp/www/oposiciones-tic
+python3 -m http.server 3000 -d /tmp/www
+# http://localhost:3000/oposiciones-tic/?offlineMode=true
+```

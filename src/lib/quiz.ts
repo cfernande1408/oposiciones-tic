@@ -14,6 +14,8 @@ export type Pregunta = {
   confianza?: 'alta' | 'media' | 'tribunal' | string;
   anulada?: boolean;
   enunciado: string;
+  codigo?: string;
+  contexto?: string;
   opciones: Opcion[];
   nota?: string;
   banco: string;
@@ -35,9 +37,31 @@ export type Sesion = {
   inicio: number;
   limiteMs: number | null;
   fin: number | null;
+  simulacro?: boolean;
 };
 
 export const LETRAS = ['a', 'b', 'c', 'd', 'e'];
+
+// Programa Ayto. de Madrid: Grupo I = temas 1-14, Grupo II = 15-69.
+export type Grupo = 'I' | 'II';
+export function grupoDeTema(t?: number): Grupo | null {
+  if (t == null) return null;
+  return t <= 14 ? 'I' : 'II';
+}
+
+// Reparto real del 1er ejercicio de 2025 (13 de 107 preguntas de Grupo I).
+export const SIMULACRO = {total: 100, grupoI: 12, minutos: 100};
+
+export function crearSimulacro(todas: Pregunta[], rnd: <T>(a: T[]) => T[]): Pregunta[] {
+  const validas = todas.filter((p) => !p.anulada && p.tema != null);
+  const g1 = rnd(validas.filter((p) => grupoDeTema(p.tema) === 'I'));
+  const g2 = rnd(validas.filter((p) => grupoDeTema(p.tema) === 'II'));
+  const n1 = Math.min(SIMULACRO.grupoI, g1.length);
+  const n2 = Math.min(SIMULACRO.total - n1, g2.length);
+  // Grupo I primero, como en el examen real; dentro de cada grupo, por tema.
+  const porTema = (a: Pregunta, b: Pregunta) => (a.tema ?? 0) - (b.tema ?? 0);
+  return [...g1.slice(0, n1).sort(porTema), ...g2.slice(0, n2).sort(porTema)];
+}
 
 export function indiceCorrecta(p: Pregunta): number {
   return p.opciones.findIndex((o) => o.correcta);
@@ -78,6 +102,15 @@ export function corregir(s: Sesion): Resultado {
   const netas = aciertos - errores / 3;
   const nota = puntuables ? Math.max(0, netas) / puntuables * 10 : 0;
   return {aciertos, errores, blancos, puntuables, netas, nota};
+}
+
+export function corregirPorGrupo(s: Sesion): Record<Grupo, Resultado> {
+  const out = {} as Record<Grupo, Resultado>;
+  (['I', 'II'] as Grupo[]).forEach((g) => {
+    const idx = s.preguntas.map((_, i) => i).filter((i) => grupoDeTema(s.preguntas[i].tema) === g);
+    out[g] = corregir({...s, preguntas: idx.map((i) => s.preguntas[i]), respuestas: idx.map((i) => s.respuestas[i])});
+  });
+  return out;
 }
 
 export type EstadoCasilla = 'vacia' | 'marcada' | 'acierto' | 'error' | 'anulada';

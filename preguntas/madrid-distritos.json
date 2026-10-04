@@ -1,0 +1,913 @@
+{
+  "meta": {
+    "id": "madrid-distritos",
+    "titulo": "Distritos de Madrid: RO 6/2021 (preguntas propias)",
+    "fuentes": [
+      "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/06/16/BOCM-20210616-62.PDF"
+    ],
+    "nota": "Texto vigente: la única modificación (RO 11/2022) afecta al anexo de barrios. El art. 66 está anulado."
+  },
+  "preguntas": [
+    {
+      "id": "mad-dist-001",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el Reglamento Orgánico 6/2021, el término municipal de Madrid se divide en:",
+      "opciones": [
+        {
+          "texto": "19 distritos.",
+          "correcta": false,
+          "explicacion": "Son 21.",
+          "fuente": "RO 6/2021 de Distritos art. 3.1"
+        },
+        {
+          "texto": "21 distritos.",
+          "correcta": true,
+          "explicacion": "Enumerados en el art. 3.1, del 01 Centro al 21 Barajas.",
+          "fuente": "RO 6/2021 de Distritos art. 3.1"
+        },
+        {
+          "texto": "128 distritos.",
+          "correcta": false,
+          "explicacion": "128 es aproximadamente el número de barrios, no de distritos.",
+          "fuente": "RO 6/2021 de Distritos anexo"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-002",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Alterar el número, denominación y límites territoriales de los distritos corresponde a:",
+      "opciones": [
+        {
+          "texto": "El Pleno, modificando el reglamento orgánico.",
+          "correcta": true,
+          "explicacion": "Literal del art. 3.2.",
+          "fuente": "RO 6/2021 de Distritos art. 3.2"
+        },
+        {
+          "texto": "La Junta de Gobierno, a propuesta del área de coordinación territorial.",
+          "correcta": false,
+          "explicacion": "Es competencia del Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 3.2"
+        },
+        {
+          "texto": "El alcalde, por decreto.",
+          "correcta": false,
+          "explicacion": "Es competencia del Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 3.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-003",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los recursos presupuestarios que gestionen los distritos en su conjunto no serán en ningún caso inferiores al:",
+      "opciones": [
+        {
+          "texto": "20 % del presupuesto del Ayuntamiento.",
+          "correcta": false,
+          "explicacion": "No es la cifra del reglamento.",
+          "fuente": "RO 6/2021 de Distritos art. 7"
+        },
+        {
+          "texto": "11 % del presupuesto del Ayuntamiento.",
+          "correcta": true,
+          "explicacion": "Literal del art. 7.",
+          "fuente": "RO 6/2021 de Distritos art. 7"
+        },
+        {
+          "texto": "13 % del presupuesto del Ayuntamiento.",
+          "correcta": false,
+          "explicacion": "El 13 % era la cifra del reglamento de 2004.",
+          "fuente": "RO 6/2021 de Distritos art. 7"
+        }
+      ],
+      "nota": "Trampa típica: el reglamento derogado de 2004 hablaba del 13 %."
+    },
+    {
+      "id": "mad-dist-004",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el art. 5 del RO 6/2021, NO es un órgano de los distritos:",
+      "opciones": [
+        {
+          "texto": "El gerente del distrito.",
+          "correcta": true,
+          "explicacion": "La figura del gerente desapareció: hoy es el coordinador del distrito.",
+          "fuente": "RO 6/2021 de Distritos art. 5"
+        },
+        {
+          "texto": "El coordinador del distrito.",
+          "correcta": false,
+          "explicacion": "Sí lo es, como órgano directivo (art. 5.c).",
+          "fuente": "RO 6/2021 de Distritos art. 5"
+        },
+        {
+          "texto": "La Junta Municipal del Distrito.",
+          "correcta": false,
+          "explicacion": "Sí lo es (art. 5.a).",
+          "fuente": "RO 6/2021 de Distritos art. 5"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-005",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El concejal-presidente del distrito es nombrado y separado:",
+      "opciones": [
+        {
+          "texto": "Por la Junta de Gobierno, a propuesta del alcalde.",
+          "correcta": false,
+          "explicacion": "Lo nombra directamente el alcalde.",
+          "fuente": "RO 6/2021 de Distritos art. 5.b"
+        },
+        {
+          "texto": "Libremente por el alcalde.",
+          "correcta": true,
+          "explicacion": "Art. 5.b y art. 57.1; coincide con el art. 14.3.d de la Ley 22/2006.",
+          "fuente": "RO 6/2021 de Distritos arts. 5.b y 57.1"
+        },
+        {
+          "texto": "Por la Junta Municipal del Distrito, por mayoría absoluta.",
+          "correcta": false,
+          "explicacion": "No lo elige la Junta Municipal.",
+          "fuente": "RO 6/2021 de Distritos art. 57.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-006",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La coordinación de los distritos entre sí y con el resto de órganos municipales la ejerce:",
+      "opciones": [
+        {
+          "texto": "La Junta de Portavoces de cada distrito.",
+          "correcta": false,
+          "explicacion": "Es un órgano deliberante interno de cada Junta.",
+          "fuente": "RO 6/2021 de Distritos art. 6"
+        },
+        {
+          "texto": "El titular del área que determine el alcalde.",
+          "correcta": true,
+          "explicacion": "Literal del art. 6.",
+          "fuente": "RO 6/2021 de Distritos art. 6"
+        },
+        {
+          "texto": "El vicealcalde, en todo caso.",
+          "correcta": false,
+          "explicacion": "El reglamento no la atribuye al vicealcalde.",
+          "fuente": "RO 6/2021 de Distritos art. 6"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-007",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El número de miembros de la Junta Municipal del Distrito lo determina:",
+      "opciones": [
+        {
+          "texto": "El Pleno del Ayuntamiento, al inicio de cada mandato.",
+          "correcta": true,
+          "explicacion": "Se distribuye entre grupos en proporción a su representación en el Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 8.1"
+        },
+        {
+          "texto": "El propio reglamento, que fija 25 miembros por distrito.",
+          "correcta": false,
+          "explicacion": "El reglamento no fija un número.",
+          "fuente": "RO 6/2021 de Distritos art. 8.1"
+        },
+        {
+          "texto": "El concejal-presidente, en la sesión constitutiva.",
+          "correcta": false,
+          "explicacion": "Lo fija el Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 8.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-008",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los vocales vecinos de la Junta Municipal del Distrito son nombrados:",
+      "opciones": [
+        {
+          "texto": "Por elección directa de los vecinos del distrito.",
+          "correcta": false,
+          "explicacion": "No hay elección directa.",
+          "fuente": "RO 6/2021 de Distritos art. 69.1"
+        },
+        {
+          "texto": "Por el concejal-presidente, a propuesta de las asociaciones vecinales.",
+          "correcta": false,
+          "explicacion": "Los nombra el alcalde a propuesta de los grupos políticos.",
+          "fuente": "RO 6/2021 de Distritos art. 69.1"
+        },
+        {
+          "texto": "Por el alcalde, a propuesta de los grupos políticos.",
+          "correcta": true,
+          "explicacion": "Art. 8.2.b y art. 69.1.",
+          "fuente": "RO 6/2021 de Distritos arts. 8.2.b y 69"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-009",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Si en la sesión constitutiva de la Junta Municipal del Distrito no concurre la mayoría absoluta de sus miembros:",
+      "opciones": [
+        {
+          "texto": "Se celebra sesión dos días después y queda constituida cualquiera que sea el número de presentes.",
+          "correcta": true,
+          "explicacion": "Literal del art. 10.2.",
+          "fuente": "RO 6/2021 de Distritos art. 10.2"
+        },
+        {
+          "texto": "Se aplaza una semana y se exige un tercio.",
+          "correcta": false,
+          "explicacion": "No es el régimen del reglamento.",
+          "fuente": "RO 6/2021 de Distritos art. 10.2"
+        },
+        {
+          "texto": "El alcalde nombra una comisión gestora.",
+          "correcta": false,
+          "explicacion": "No existe esa previsión.",
+          "fuente": "RO 6/2021 de Distritos art. 10.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-010",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Con qué periodicidad celebra sesión plenaria ordinaria la Junta Municipal del Distrito?",
+      "opciones": [
+        {
+          "texto": "Una vez al mes, salvo en agosto.",
+          "correcta": true,
+          "explicacion": "Literal del art. 14.2.",
+          "fuente": "RO 6/2021 de Distritos art. 14.2"
+        },
+        {
+          "texto": "Cada quince días.",
+          "correcta": false,
+          "explicacion": "Es mensual.",
+          "fuente": "RO 6/2021 de Distritos art. 14.2"
+        },
+        {
+          "texto": "Una vez al trimestre.",
+          "correcta": false,
+          "explicacion": "Es mensual.",
+          "fuente": "RO 6/2021 de Distritos art. 14.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-011",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las sesiones extraordinarias de la Junta Municipal del Distrito se celebran cuando lo decida el concejal-presidente o lo solicite:",
+      "opciones": [
+        {
+          "texto": "La tercera parte de los miembros presentes.",
+          "correcta": false,
+          "explicacion": "La fracción es un cuarto del número legal.",
+          "fuente": "RO 6/2021 de Distritos art. 15.1"
+        },
+        {
+          "texto": "La mayoría absoluta de los vocales vecinos.",
+          "correcta": false,
+          "explicacion": "Basta con un cuarto.",
+          "fuente": "RO 6/2021 de Distritos art. 15.1"
+        },
+        {
+          "texto": "La cuarta parte, al menos, del número legal de miembros.",
+          "correcta": true,
+          "explicacion": "Cada miembro puede solicitar como máximo tres al año (art. 15.2).",
+          "fuente": "RO 6/2021 de Distritos art. 15.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-012",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Una vez solicitada una sesión extraordinaria, su celebración no podrá demorarse más de:",
+      "opciones": [
+        {
+          "texto": "Un mes.",
+          "correcta": false,
+          "explicacion": "Son quince días hábiles.",
+          "fuente": "RO 6/2021 de Distritos art. 15.4"
+        },
+        {
+          "texto": "Quince días hábiles.",
+          "correcta": true,
+          "explicacion": "Si no se convoca, queda convocada automáticamente para el décimo día hábil siguiente (art. 15.5).",
+          "fuente": "RO 6/2021 de Distritos art. 15.4"
+        },
+        {
+          "texto": "Diez días naturales.",
+          "correcta": false,
+          "explicacion": "Son quince días hábiles.",
+          "fuente": "RO 6/2021 de Distritos art. 15.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-013",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las sesiones de la Junta Municipal del Distrito deberán convocarse, salvo las urgentes, con al menos:",
+      "opciones": [
+        {
+          "texto": "Dos días hábiles de antelación.",
+          "correcta": true,
+          "explicacion": "Literal del art. 17.1.",
+          "fuente": "RO 6/2021 de Distritos art. 17.1"
+        },
+        {
+          "texto": "Veinticuatro horas.",
+          "correcta": false,
+          "explicacion": "Son dos días hábiles.",
+          "fuente": "RO 6/2021 de Distritos art. 17.1"
+        },
+        {
+          "texto": "Cinco días hábiles de antelación.",
+          "correcta": false,
+          "explicacion": "Cinco días es el plazo para presentar proposiciones (art. 45.4).",
+          "fuente": "RO 6/2021 de Distritos art. 45.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-014",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La Junta Municipal del Distrito se constituye válidamente con la asistencia de:",
+      "opciones": [
+        {
+          "texto": "Un tercio del número legal de sus miembros, con presidente y secretario.",
+          "correcta": true,
+          "explicacion": "El quórum debe mantenerse durante toda la sesión.",
+          "fuente": "RO 6/2021 de Distritos art. 23.2"
+        },
+        {
+          "texto": "La mayoría absoluta de sus miembros.",
+          "correcta": false,
+          "explicacion": "La mayoría absoluta solo se exige en la sesión constitutiva (art. 10.2).",
+          "fuente": "RO 6/2021 de Distritos art. 10.2"
+        },
+        {
+          "texto": "La mitad de los vocales vecinos.",
+          "correcta": false,
+          "explicacion": "El quórum es un tercio.",
+          "fuente": "RO 6/2021 de Distritos art. 23.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-015",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el RO 6/2021, tiene la consideración de acta de la sesión de la Junta Municipal del Distrito:",
+      "opciones": [
+        {
+          "texto": "Únicamente el extracto en papel firmado por el concejal-presidente.",
+          "correcta": false,
+          "explicacion": "El extracto acompaña, pero el acta es la grabación firmada.",
+          "fuente": "RO 6/2021 de Distritos art. 37"
+        },
+        {
+          "texto": "La transcripción literal mecanografiada aprobada en la sesión siguiente.",
+          "correcta": false,
+          "explicacion": "No es lo que prevé el reglamento.",
+          "fuente": "RO 6/2021 de Distritos art. 37.1"
+        },
+        {
+          "texto": "El fichero de la grabación de audio y vídeo, firmado con certificado electrónico por el secretario del distrito, junto con el extracto y el orden del día.",
+          "correcta": true,
+          "explicacion": "El acta es electrónica: la grabación firmada garantiza autenticidad e integridad.",
+          "fuente": "RO 6/2021 de Distritos art. 37.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-016",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las sesiones de las Juntas Municipales podrán celebrarse a distancia por medios electrónicos cuando concurran circunstancias excepcionales, siempre que sus miembros:",
+      "opciones": [
+        {
+          "texto": "Dispongan de certificado de empleado público.",
+          "correcta": false,
+          "explicacion": "No se exige ese certificado.",
+          "fuente": "RO 6/2021 de Distritos art. 24.1"
+        },
+        {
+          "texto": "Lo soliciten por mayoría absoluta.",
+          "correcta": false,
+          "explicacion": "Lo determina el concejal-presidente en la convocatoria.",
+          "fuente": "RO 6/2021 de Distritos art. 24.1"
+        },
+        {
+          "texto": "Se encuentren en territorio español y quede acreditada su identidad.",
+          "correcta": true,
+          "explicacion": "Literal del art. 24.1.",
+          "fuente": "RO 6/2021 de Distritos art. 24.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-017",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "En caso de empate en una votación de la Junta Municipal del Distrito:",
+      "opciones": [
+        {
+          "texto": "La propuesta se entiende rechazada.",
+          "correcta": false,
+          "explicacion": "Se repite y dirime el concejal-presidente.",
+          "fuente": "RO 6/2021 de Distritos art. 30.3"
+        },
+        {
+          "texto": "Se repite la votación y, si persiste, decide el voto de calidad del concejal-presidente.",
+          "correcta": true,
+          "explicacion": "Literal del art. 30.3.",
+          "fuente": "RO 6/2021 de Distritos art. 30.3"
+        },
+        {
+          "texto": "Decide el voto de calidad del coordinador del distrito.",
+          "correcta": false,
+          "explicacion": "El coordinador no vota.",
+          "fuente": "RO 6/2021 de Distritos art. 30.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-018",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Quién tiene derecho a voto en la Junta Municipal del Distrito?",
+      "opciones": [
+        {
+          "texto": "El presidente, los vocales vecinos y los concejales de los grupos políticos.",
+          "correcta": false,
+          "explicacion": "Los concejales de los grupos no votan.",
+          "fuente": "RO 6/2021 de Distritos art. 9"
+        },
+        {
+          "texto": "Todos los asistentes, incluido el coordinador del distrito.",
+          "correcta": false,
+          "explicacion": "Solo votan el presidente y los vocales vecinos.",
+          "fuente": "RO 6/2021 de Distritos art. 30.1"
+        },
+        {
+          "texto": "Exclusivamente el presidente y los vocales vecinos.",
+          "correcta": true,
+          "explicacion": "Los concejales de los grupos intervienen con voz pero sin voto (art. 9).",
+          "fuente": "RO 6/2021 de Distritos arts. 9 y 30.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-019",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el RO 6/2021, la votación nominal en la Junta Municipal del Distrito requiere:",
+      "opciones": [
+        {
+          "texto": "La solicitud de un grupo municipal aprobada por mayoría simple en votación ordinaria.",
+          "correcta": true,
+          "explicacion": "Literal del art. 32.2.",
+          "fuente": "RO 6/2021 de Distritos art. 32.2"
+        },
+        {
+          "texto": "La decisión del secretario del distrito.",
+          "correcta": false,
+          "explicacion": "No es competencia del secretario.",
+          "fuente": "RO 6/2021 de Distritos art. 32.2"
+        },
+        {
+          "texto": "El acuerdo unánime de la Junta de Portavoces.",
+          "correcta": false,
+          "explicacion": "No se exige unanimidad.",
+          "fuente": "RO 6/2021 de Distritos art. 32.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-020",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las proposiciones de los vocales, entidades y órgano de participación deben presentarse con una antelación mínima de:",
+      "opciones": [
+        {
+          "texto": "Diez días naturales.",
+          "correcta": false,
+          "explicacion": "Son cinco días hábiles.",
+          "fuente": "RO 6/2021 de Distritos art. 45.4"
+        },
+        {
+          "texto": "Dos días hábiles.",
+          "correcta": false,
+          "explicacion": "Ese es el plazo de convocatoria.",
+          "fuente": "RO 6/2021 de Distritos art. 17.1"
+        },
+        {
+          "texto": "Cinco días hábiles respecto a la sesión.",
+          "correcta": true,
+          "explicacion": "Literal del art. 45.4.",
+          "fuente": "RO 6/2021 de Distritos art. 45.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-021",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los proyectos de acuerdo del concejal-presidente reciben el nombre de:",
+      "opciones": [
+        {
+          "texto": "Propuestas.",
+          "correcta": true,
+          "explicacion": "Las de vocales, entidades y órgano de participación se llaman proposiciones (art. 45.3).",
+          "fuente": "RO 6/2021 de Distritos art. 45.2"
+        },
+        {
+          "texto": "Proposiciones.",
+          "correcta": false,
+          "explicacion": "Así se llaman las de los vocales y entidades.",
+          "fuente": "RO 6/2021 de Distritos art. 45.3"
+        },
+        {
+          "texto": "Mociones.",
+          "correcta": false,
+          "explicacion": "Las mociones de urgencia son otra figura (art. 47).",
+          "fuente": "RO 6/2021 de Distritos art. 47"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-022",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las interpelaciones dirigidas al concejal-presidente deben presentarse por escrito con al menos:",
+      "opciones": [
+        {
+          "texto": "Seis días hábiles de antelación.",
+          "correcta": false,
+          "explicacion": "Ese es el plazo de las comparecencias.",
+          "fuente": "RO 6/2021 de Distritos art. 52.2"
+        },
+        {
+          "texto": "Siete días hábiles de antelación.",
+          "correcta": true,
+          "explicacion": "Las preguntas: cinco días (art. 50.2); las comparecencias: seis (art. 52.2).",
+          "fuente": "RO 6/2021 de Distritos art. 51.2"
+        },
+        {
+          "texto": "Cinco días hábiles de antelación.",
+          "correcta": false,
+          "explicacion": "Ese es el plazo de las preguntas.",
+          "fuente": "RO 6/2021 de Distritos art. 50.2"
+        }
+      ],
+      "nota": "Plazos: preguntas 5, comparecencias 6, interpelaciones 7 días hábiles."
+    },
+    {
+      "id": "mad-dist-023",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El debate sobre el estado del distrito se celebra:",
+      "opciones": [
+        {
+          "texto": "Con carácter anual, durante el primer semestre, salvo el año de elecciones municipales.",
+          "correcta": true,
+          "explicacion": "Sesión extraordinaria convocada con al menos diez días hábiles (art. 54.2).",
+          "fuente": "RO 6/2021 de Distritos art. 54.1"
+        },
+        {
+          "texto": "Cada dos años, en el último trimestre.",
+          "correcta": false,
+          "explicacion": "Es anual y en el primer semestre.",
+          "fuente": "RO 6/2021 de Distritos art. 54.1"
+        },
+        {
+          "texto": "Una vez por mandato, al final del mismo.",
+          "correcta": false,
+          "explicacion": "Es anual.",
+          "fuente": "RO 6/2021 de Distritos art. 54.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-024",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La Junta de Portavoces de la Junta Municipal del Distrito adopta sus acuerdos por:",
+      "opciones": [
+        {
+          "texto": "Unanimidad en todo caso.",
+          "correcta": false,
+          "explicacion": "La unanimidad solo se exige para excluir asuntos del debate (art. 56.1.a).",
+          "fuente": "RO 6/2021 de Distritos art. 56.1.a"
+        },
+        {
+          "texto": "Voto ponderado.",
+          "correcta": true,
+          "explicacion": "Literal del art. 55.5.",
+          "fuente": "RO 6/2021 de Distritos art. 55.5"
+        },
+        {
+          "texto": "Mayoría simple de portavoces.",
+          "correcta": false,
+          "explicacion": "Es voto ponderado.",
+          "fuente": "RO 6/2021 de Distritos art. 55.5"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-025",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El coordinador del distrito es nombrado y cesado por:",
+      "opciones": [
+        {
+          "texto": "El concejal-presidente, libremente.",
+          "correcta": false,
+          "explicacion": "El concejal-presidente solo propone.",
+          "fuente": "RO 6/2021 de Distritos art. 61.1"
+        },
+        {
+          "texto": "El alcalde, a propuesta de la Junta Municipal.",
+          "correcta": false,
+          "explicacion": "Lo nombra la Junta de Gobierno.",
+          "fuente": "RO 6/2021 de Distritos art. 61.1"
+        },
+        {
+          "texto": "La Junta de Gobierno, a propuesta del concejal-presidente.",
+          "correcta": true,
+          "explicacion": "Tiene rango de director general y se nombra según el art. 49 del ROGA.",
+          "fuente": "RO 6/2021 de Distritos art. 61"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-026",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El coordinador del distrito ostenta a todos los efectos el rango de:",
+      "opciones": [
+        {
+          "texto": "Subdirector general.",
+          "correcta": false,
+          "explicacion": "Tiene rango de director general.",
+          "fuente": "RO 6/2021 de Distritos art. 61.2"
+        },
+        {
+          "texto": "Coordinador general.",
+          "correcta": false,
+          "explicacion": "Tiene rango de director general.",
+          "fuente": "RO 6/2021 de Distritos art. 61.2"
+        },
+        {
+          "texto": "Director general.",
+          "correcta": true,
+          "explicacion": "Literal del art. 61.2.",
+          "fuente": "RO 6/2021 de Distritos art. 61.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-027",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Corresponde al coordinador del distrito, según el RO 6/2021:",
+      "opciones": [
+        {
+          "texto": "Convocar y presidir las sesiones de la Junta Municipal.",
+          "correcta": false,
+          "explicacion": "Es competencia del concejal-presidente.",
+          "fuente": "RO 6/2021 de Distritos art. 58.1.d"
+        },
+        {
+          "texto": "Nombrar a los vocales vecinos.",
+          "correcta": false,
+          "explicacion": "Los nombra el alcalde.",
+          "fuente": "RO 6/2021 de Distritos art. 69.1"
+        },
+        {
+          "texto": "La elaboración, seguimiento y control del presupuesto anual que se le asigna.",
+          "correcta": true,
+          "explicacion": "También la evaluación de los servicios del distrito (art. 62.1.d). Sus decisiones adoptan forma de resolución.",
+          "fuente": "RO 6/2021 de Distritos art. 62.1.c"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-028",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El secretario del distrito se nombra, a propuesta del concejal-presidente, entre funcionarios de carrera del subgrupo:",
+      "opciones": [
+        {
+          "texto": "C1.",
+          "correcta": false,
+          "explicacion": "Se exige el subgrupo A1.",
+          "fuente": "RO 6/2021 de Distritos art. 63.2"
+        },
+        {
+          "texto": "A1.",
+          "correcta": true,
+          "explicacion": "Literal del art. 63.2. Lleva además los registros de intereses de los vocales (art. 70.3).",
+          "fuente": "RO 6/2021 de Distritos art. 63.2"
+        },
+        {
+          "texto": "A2.",
+          "correcta": false,
+          "explicacion": "Se exige el subgrupo A1.",
+          "fuente": "RO 6/2021 de Distritos art. 63.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-029",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El alcalde puede cesar a un vocal vecino por inasistencia injustificada a:",
+      "opciones": [
+        {
+          "texto": "Seis sesiones en el mandato.",
+          "correcta": false,
+          "explicacion": "Son tres consecutivas o cinco alternas en un año.",
+          "fuente": "RO 6/2021 de Distritos art. 71.b"
+        },
+        {
+          "texto": "Dos sesiones consecutivas.",
+          "correcta": false,
+          "explicacion": "Son tres consecutivas o cinco alternas.",
+          "fuente": "RO 6/2021 de Distritos art. 71.b"
+        },
+        {
+          "texto": "Tres sesiones consecutivas o cinco alternas en un año.",
+          "correcta": true,
+          "explicacion": "Literal del art. 71.b.",
+          "fuente": "RO 6/2021 de Distritos art. 71.b"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-030",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La cuantía y periodicidad de la asignación económica de los vocales vecinos las determina anualmente:",
+      "opciones": [
+        {
+          "texto": "Cada Junta Municipal del Distrito.",
+          "correcta": false,
+          "explicacion": "Lo determina el Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 77"
+        },
+        {
+          "texto": "El Pleno del Ayuntamiento.",
+          "correcta": true,
+          "explicacion": "Ejercen el cargo sin dedicación exclusiva ni parcial (art. 73).",
+          "fuente": "RO 6/2021 de Distritos art. 77"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Lo determina el Pleno.",
+          "fuente": "RO 6/2021 de Distritos art. 77"
+        }
+      ]
+    },
+    {
+      "id": "mad-dist-031",
+      "tema": 6,
+      "origen": "propia-ro-distritos",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "En el turno de participación vecinal de la Junta Municipal del Distrito:",
+      "opciones": [
+        {
+          "texto": "Se celebra antes del inicio de la sesión, con un máximo ordinario de tres intervenciones de 3 minutos y sin réplica del vecino.",
+          "correcta": true,
+          "explicacion": "Novedad del reglamento de 2021: antes era al final de la sesión.",
+          "fuente": "RO 6/2021 de Distritos art. 81"
+        },
+        {
+          "texto": "Cada vecino puede intervenir sin límite de tiempo.",
+          "correcta": false,
+          "explicacion": "Máximo 3 minutos por intervención.",
+          "fuente": "RO 6/2021 de Distritos art. 81.6"
+        },
+        {
+          "texto": "Se celebra al final de la sesión y admite réplica.",
+          "correcta": false,
+          "explicacion": "Ahora es antes de la sesión y no hay réplica.",
+          "fuente": "RO 6/2021 de Distritos art. 81"
+        }
+      ]
+    }
+  ]
+}

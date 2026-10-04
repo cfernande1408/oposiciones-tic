@@ -38,6 +38,72 @@
 
 /* ---------- Configuración ---------- */
 
+.simulacro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 2rem;
+  border: 2px solid var(--tinta);
+  border-radius: 12px;
+  background: var(--tinta-fondo);
+}
+
+.simulacro > div {
+  flex: 1 1 18rem;
+}
+
+.simulacroTitulo {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.simulacroTexto {
+  font-size: 0.92rem;
+  color: var(--grafito-suave);
+  margin: 0;
+}
+
+.subtituloForm {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+.tablaScroll {
+  overflow-x: auto;
+  margin: 1rem 0 0;
+}
+
+.tablaGrupos {
+  display: table;
+  white-space: nowrap;
+  width: 100%;
+  margin: 0;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tablaGrupos th,
+.tablaGrupos td {
+  padding: 0.4rem 0.5rem;
+  border: 0;
+  border-bottom: 1px solid var(--linea);
+  text-align: right;
+}
+
+.tablaGrupos th[scope='row'],
+.tablaGrupos thead th:first-child {
+  text-align: left;
+  font-weight: 600;
+}
+
+.tablaGrupos tr {
+  background: transparent !important;
+  border: 0;
+}
+
 .grupo {
   border: 0;
   padding: 0;
@@ -348,6 +414,26 @@
   line-height: 1.4;
   margin-bottom: 1.1rem;
   max-width: 40em;
+}
+
+.contexto {
+  font-size: 0.9rem;
+  color: var(--grafito-suave);
+  border-left: 3px solid var(--linea);
+  padding-left: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.codigo {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  margin: -0.4rem 0 1.1rem;
+  padding: 0.8rem 0.9rem;
+  border-radius: 8px;
+  background: var(--papel-2);
+  border: 1px solid var(--linea);
+  overflow-x: auto;
+  white-space: pre;
 }
 
 .avisoAnulada {

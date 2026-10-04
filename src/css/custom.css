@@ -26,7 +26,7 @@
 
   --ifm-background-color: var(--papel);
   --ifm-font-color-base: var(--grafito);
-  --ifm-font-family-base: 'Public Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ifm-font-family-base: 'Public Sans Variable', 'Public Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --ifm-heading-font-family: var(--ifm-font-family-base);
   --ifm-font-size-base: 106.25%;
   --ifm-line-height-base: 1.55;

@@ -15,7 +15,7 @@ const config: Config = {
   baseUrl: '/oposiciones-tic/',
   organizationName: 'cfernande1408',
   projectName: 'oposiciones-tic',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
 
@@ -24,12 +24,24 @@ const config: Config = {
     locales: ['es'],
   },
 
-  headTags: [
-    {tagName: 'link', attributes: {rel: 'preconnect', href: 'https://fonts.googleapis.com'}},
-    {tagName: 'link', attributes: {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous'}},
-  ],
-  stylesheets: [
-    'https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap',
+  clientModules: ['./src/fuentes.ts'],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        // Sin conexión en móvil, en la app instalada o con ?offlineMode=true
+        offlineModeActivationStrategies: ['appInstalled', 'standalone', 'mobile', 'queryString'],
+        pwaHead: [
+          {tagName: 'link', rel: 'manifest', href: '/oposiciones-tic/manifest.json'},
+          {tagName: 'meta', name: 'theme-color', content: '#b8325c'},
+          {tagName: 'meta', name: 'apple-mobile-web-app-capable', content: 'yes'},
+          {tagName: 'meta', name: 'apple-mobile-web-app-status-bar-style', content: 'default'},
+          {tagName: 'meta', name: 'apple-mobile-web-app-title', content: 'Opos TIC'},
+          {tagName: 'link', rel: 'apple-touch-icon', href: '/oposiciones-tic/img/pwa/apple-touch-icon.png'},
+        ],
+      },
+    ],
   ],
 
   presets: [
