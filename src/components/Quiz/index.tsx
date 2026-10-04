@@ -20,6 +20,7 @@ import {
   type Sesion,
   type Stats,
 } from '../../lib/quiz';
+import ExplicacionGemini from './Gemini';
 import styles from './styles.module.css';
 
 const TODAS = BANCOS.flatMap((b) => b.preguntas);
@@ -721,6 +722,8 @@ function PreguntaVista({
           {p.nota && <p>{p.nota}</p>}
         </aside>
       )}
+
+      {revelada && <ExplicacionGemini pregunta={p} respuesta={respuesta} />}
     </article>
   );
 }

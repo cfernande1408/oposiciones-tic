@@ -880,3 +880,97 @@ button.opcionBoton:hover {
     border-top: 1px solid var(--linea);
   }
 }
+
+/* ---------- Gemini ---------- */
+
+.gemini {
+  margin-top: 1rem;
+}
+
+.geminiAcciones {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+
+.geminiRespuesta {
+  padding: 0.85rem 1rem;
+  border: 1.5px solid var(--tinta-tenue);
+  border-radius: 10px;
+  background: var(--tinta-fondo);
+  font-size: 0.95rem;
+}
+
+.geminiRespuesta ul {
+  margin: 0 0 0.6rem;
+  padding-left: 1.2rem;
+}
+
+.geminiRespuesta p {
+  margin-bottom: 0.6rem;
+}
+
+.geminiTitulo {
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--tinta);
+}
+
+.geminiAviso {
+  font-size: 0.8rem;
+  color: var(--grafito-suave);
+  margin: 0.4rem 0 0 !important;
+}
+
+.geminiError {
+  margin-top: 0.6rem;
+  padding: 0.6rem 0.9rem;
+  border-left: 3px solid var(--error);
+  background: var(--error-fondo);
+  font-size: 0.9rem;
+}
+
+.geminiAjustes {
+  margin-top: 0.75rem;
+  padding: 0.9rem 1rem;
+  border: 1.5px solid var(--linea);
+  border-radius: 10px;
+  font-size: 0.9rem;
+}
+
+.geminiCampo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  margin-bottom: 0.75rem;
+}
+
+.geminiCampo span {
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.geminiCampo input {
+  font: inherit;
+  padding: 0.5rem 0.65rem;
+  min-height: 2.6rem;
+  border: 1.5px solid var(--linea);
+  border-radius: 8px;
+  background: var(--papel);
+  color: var(--grafito);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.geminiConfig {
+  margin-top: 0.5rem;
+  font: inherit;
+  font-size: 0.8rem;
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--grafito-suave);
+  text-decoration: underline;
+  cursor: pointer;
+}
