@@ -1,44 +1,46 @@
-# Website
+# Oposiciones TIC
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Web de tests estilo Daypo para preparar Técnico/a Medio TIC (Ayto. de Madrid) y GSI A2.
 
-## Installation
+https://cfernande1408.github.io/oposiciones-tic/
 
-```bash
-npm install
-```
-
-**Note**: feel free to use the package manager of your choice.
-
-## Local Development
+## Desarrollo
 
 ```bash
-npm run start
+npm ci
+npm start        # http://localhost:3000/oposiciones-tic/
+npm run build    # comprueba que compila antes de hacer push
+npm run check:preguntas
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Añadir preguntas
 
-## Build
+Deja un `.json` en `preguntas/` y aparece solo en la web. Formato:
 
-```bash
-npm run build
+```json
+{
+  "meta": {"id": "mi-banco", "titulo": "Nombre visible"},
+  "preguntas": [
+    {
+      "id": "mi-banco-001",
+      "tema": 22,
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "...",
+      "opciones": [
+        {"texto": "...", "correcta": true, "explicacion": "...", "fuente": "Ley 39/2015 art. 63.1"},
+        {"texto": "...", "correcta": false, "explicacion": "...", "fuente": "..."},
+        {"texto": "...", "correcta": false, "explicacion": "...", "fuente": "..."}
+      ],
+      "nota": "opcional"
+    }
+  ]
+}
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Los `id` deben ser únicos entre todos los bancos. `npm run check:preguntas` valida el formato.
 
-## Deployment
+## Apuntes
 
-Using SSH:
-
-```bash
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-# oposiciones-tic
+Ficheros Markdown en `docs/`. Se publican en `/apuntes`.
