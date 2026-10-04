@@ -79,7 +79,7 @@
       "tema": 3,
       "origen": "ayto-tm-tic-2025",
       "verificada": false,
-      "confianza": "media",
+      "confianza": "alta",
       "anulada": false,
       "enunciado": "¿Cuál de las siguientes afirmaciones, sobre la figura del Presidente del Pleno, es correcta?:",
       "opciones": [
@@ -87,22 +87,21 @@
           "texto": "La Presidencia del Pleno la ostenta exclusivamente el Alcalde.",
           "correcta": false,
           "explicacion": "No es exclusiva: el Alcalde puede promover que el Pleno designe a otro Presidente.",
-          "fuente": "Ley 22/2006, de Capitalidad y Régimen Especial de Madrid (regulación del Pleno)"
+          "fuente": "Ley 22/2006 (LCREM) art. 10.1"
         },
         {
           "texto": "Se elegirá de entre los Concejales del pleno.",
           "correcta": false,
           "explicacion": "No es la regla general: por defecto preside el Alcalde, y solo si él lo promueve se designa un Presidente entre los concejales.",
-          "fuente": "Ley 22/2006 (regulación del Pleno)"
+          "fuente": "Ley 22/2006 (LCREM) art. 10.1"
         },
         {
           "texto": "El Alcalde preside las sesiones del Pleno. No obstante, podrá promover la designación por el Pleno de un Presidente, de entre los Concejales.",
           "correcta": true,
-          "explicacion": "Recoge el régimen especial de Madrid: preside el Alcalde, con la opción de que el Pleno designe un Presidente entre los concejales (en Madrid se ha usado esta figura).",
-          "fuente": "Ley 22/2006 (regulación del Pleno); Reglamento Orgánico del Pleno"
+          "explicacion": "Texto literal del art. 10.1: preside el Alcalde, que puede promover que el Pleno designe Presidente y Vicepresidente entre los concejales (elección al inicio del mandato, art. 10.2).",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.1"
         }
-      ],
-      "nota": "Confirmar el número de artículo exacto en la Ley 22/2006 antes de verificar."
+      ]
     },
     {
       "id": "ayto25-004",
@@ -117,14 +116,14 @@
         {
           "texto": "El/la titular de la Tesorería.",
           "correcta": false,
-          "explicacion": "La Tesorería se ocupa de la gestión de tesorería (fondos, pagos y cobros) y la recaudación, no del control interno ni la contabilidad.",
-          "fuente": "LRBRL art. 134"
+          "explicacion": "La Tesorería gestiona los recursos y disponibilidades financieras (art. 24.1); no hace control interno ni contabilidad.",
+          "fuente": "Ley 22/2006 (LCREM) art. 24.1"
         },
         {
           "texto": "El/la titular de la Intervención General.",
           "correcta": true,
-          "explicacion": "La Intervención General tiene atribuidas la función de control interno (interventora y de control financiero) y la función de contabilidad.",
-          "fuente": "LRBRL art. 136"
+          "explicacion": "Coincide literalmente con la definición del art. 23.1 de la Ley de Capitalidad.",
+          "fuente": "Ley 22/2006 (LCREM) art. 23.1"
         },
         {
           "texto": "El/la titular de la Agencia Tributaria de Madrid.",
@@ -140,7 +139,7 @@
       "tema": 5,
       "origen": "ayto-tm-tic-2025",
       "verificada": false,
-      "confianza": "media",
+      "confianza": "alta",
       "anulada": false,
       "enunciado": "Según establece el Reglamento Orgánico del Gobierno y de la Administración del Ayuntamiento de Madrid, el número de Áreas de Gobierno no podrán exceder de:",
       "opciones": [
@@ -148,22 +147,22 @@
           "texto": "11.",
           "correcta": false,
           "explicacion": "Cifra no recogida en el ROGA.",
-          "fuente": "ROGA (31/05/2004) art. 40"
+          "fuente": "ROGA (31/05/2004) art. 40.2"
         },
         {
           "texto": "13.",
           "correcta": false,
           "explicacion": "Cifra no recogida en el ROGA.",
-          "fuente": "ROGA (31/05/2004) art. 40"
+          "fuente": "ROGA (31/05/2004) art. 40.2"
         },
         {
           "texto": "15.",
           "correcta": true,
-          "explicacion": "El ROGA fija en quince el máximo de Áreas de Gobierno; el número concreto y sus denominaciones los decide el Alcalde por decreto. Aparece así en otros exámenes municipales.",
-          "fuente": "ROGA (31/05/2004) art. 40"
+          "explicacion": "El art. 40.2 del ROGA fija el máximo en quince; el número concreto y su denominación los decide el Alcalde (art. 14.3.h LCREM).",
+          "fuente": "ROGA (31/05/2004) art. 40.2"
         }
       ],
-      "nota": "Pregunta recurrente en exámenes del Ayuntamiento. Leer el art. 40 del ROGA consolidado."
+      "nota": "Pregunta recurrente en los exámenes del Ayuntamiento."
     },
     {
       "id": "ayto25-006",
@@ -3035,19 +3034,19 @@
           "texto": "De un quinto del número legal de miembros del Pleno, además del Alcalde.",
           "correcta": false,
           "explicacion": "La fracción es un tercio.",
-          "fuente": "Ley 22/2006 (LCREM)"
+          "fuente": "Ley 22/2006 (LCREM) art. 16.2; ROGA art. 17.1"
         },
         {
           "texto": "De un tercio del número legal de miembros del Pleno, además del Alcalde.",
           "correcta": true,
           "explicacion": "Es la regla de la Ley de Capitalidad, que coincide con la LRBRL para municipios de gran población.",
-          "fuente": "Ley 22/2006; LRBRL art. 126.1"
+          "fuente": "Ley 22/2006 (LCREM) art. 16.2; ROGA art. 17.1"
         },
         {
           "texto": "De un cuarto del número legal de miembros del Pleno, además del Alcalde.",
           "correcta": false,
           "explicacion": "La fracción es un tercio.",
-          "fuente": "Ley 22/2006; LRBRL art. 126.1"
+          "fuente": "Ley 22/2006 (LCREM) art. 16.2; ROGA art. 17.1"
         }
       ]
     },

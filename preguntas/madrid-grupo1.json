@@ -1,0 +1,1753 @@
+{
+  "meta": {
+    "id": "madrid-grupo1",
+    "titulo": "Grupo I Madrid: Ley de Capitalidad y ROGA (preguntas propias)",
+    "fuentes": [
+      "https://www.boe.es/eli/es/l/2006/07/04/22/con",
+      "https://www.madrid.es/UnidadWeb/UGNormativas/Normativa/2004/Ficheros/ANM23202004.pdf"
+    ],
+    "nota": "Generadas desde el texto literal. Del ROGA se excluyen los arts. modificados (8, 30, 42.2, 46, 47, 87.3 y gerencia de distritos)."
+  },
+  "preguntas": [
+    {
+      "id": "mad-g1-001",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el artículo 7 de la Ley 22/2006, de Capitalidad y de Régimen Especial de Madrid, el órgano deliberante de representación política es:",
+      "opciones": [
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Es un órgano ejecutivo de dirección política y administrativa.",
+          "fuente": "Ley 22/2006 (LCREM) art. 7.b"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": false,
+          "explicacion": "También figura entre los órganos ejecutivos de dirección política y administrativa.",
+          "fuente": "Ley 22/2006 (LCREM) art. 7.b"
+        },
+        {
+          "texto": "El Pleno.",
+          "correcta": true,
+          "explicacion": "El art. 7.a lo define como órgano deliberante de representación política.",
+          "fuente": "Ley 22/2006 (LCREM) art. 7.a"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-002",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según la Ley 22/2006, las sesiones del Pleno son públicas, pero podrán ser secretos el debate y votación de asuntos que puedan afectar al artículo 18.1 de la Constitución cuando así se acuerde por:",
+      "opciones": [
+        {
+          "texto": "Mayoría de dos tercios.",
+          "correcta": false,
+          "explicacion": "La ley no exige dos tercios.",
+          "fuente": "Ley 22/2006 (LCREM) art. 9.2"
+        },
+        {
+          "texto": "Mayoría absoluta.",
+          "correcta": true,
+          "explicacion": "El art. 9.2 exige mayoría absoluta para el secreto cuando se afecta al derecho al honor, la intimidad y la propia imagen (art. 18.1 CE).",
+          "fuente": "Ley 22/2006 (LCREM) art. 9.2"
+        },
+        {
+          "texto": "Mayoría simple.",
+          "correcta": false,
+          "explicacion": "No basta la mayoría simple para declarar secreto el debate.",
+          "fuente": "Ley 22/2006 (LCREM) art. 9.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-003",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "En la elección del Presidente del Pleno del Ayuntamiento de Madrid, si tras la segunda votación entre los dos concejales más votados se produce un empate, resultará elegido:",
+      "opciones": [
+        {
+          "texto": "El candidato de la lista que hubiese obtenido mayor número de votos en las elecciones municipales.",
+          "correcta": true,
+          "explicacion": "Es el criterio literal de desempate del art. 10.2.",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.2"
+        },
+        {
+          "texto": "El que decida el Alcalde con su voto de calidad.",
+          "correcta": false,
+          "explicacion": "El voto de calidad del Alcalde (art. 14.3.c) no se aplica a esta elección.",
+          "fuente": "Ley 22/2006 (LCREM) arts. 10.2 y 14.3.c"
+        },
+        {
+          "texto": "El concejal de mayor edad.",
+          "correcta": false,
+          "explicacion": "El criterio de la edad no aparece en el art. 10.2.",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-004",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La designación por el Pleno de su Presidente y Vicepresidente, a iniciativa del Alcalde, se produce:",
+      "opciones": [
+        {
+          "texto": "Al inicio del mandato, y los cargos se mantienen hasta su finalización.",
+          "correcta": true,
+          "explicacion": "El art. 10.2 fija la designación al inicio del mandato y la duración hasta el final del mismo.",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.2"
+        },
+        {
+          "texto": "En cualquier momento del mandato, a petición de un tercio de los concejales.",
+          "correcta": false,
+          "explicacion": "La iniciativa es del Alcalde y el momento es el inicio del mandato.",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.2"
+        },
+        {
+          "texto": "Anualmente, coincidiendo con la aprobación del presupuesto.",
+          "correcta": false,
+          "explicacion": "No hay renovación anual: los cargos duran todo el mandato.",
+          "fuente": "Ley 22/2006 (LCREM) art. 10.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-005",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el artículo 11.1.c) de la Ley 22/2006, ¿cuál de las siguientes NO tiene en todo caso naturaleza orgánica?",
+      "opciones": [
+        {
+          "texto": "La regulación del Tribunal Económico-Administrativo Municipal de Madrid.",
+          "correcta": false,
+          "explicacion": "Sí figura en la lista de materias con naturaleza orgánica.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.1.c"
+        },
+        {
+          "texto": "Las ordenanzas fiscales reguladoras de los tributos municipales.",
+          "correcta": true,
+          "explicacion": "Son ordenanzas (art. 11.1.d y g), no reglamentos orgánicos. La lista orgánica es: Pleno, defensa de los vecinos, participación ciudadana, distritos, organización política y administrativa y TEAM.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.1.c"
+        },
+        {
+          "texto": "La división de la ciudad en distritos y la regulación de sus órganos.",
+          "correcta": false,
+          "explicacion": "Sí figura en la lista de materias con naturaleza orgánica.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.1.c"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-006",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes acuerdos del Pleno requiere el voto favorable de la mayoría absoluta del número legal de miembros?",
+      "opciones": [
+        {
+          "texto": "La aprobación de los presupuestos.",
+          "correcta": false,
+          "explicacion": "Trampa frecuente: los presupuestos (letra h) no están en la lista del art. 11.2 y se aprueban por mayoría simple.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.2"
+        },
+        {
+          "texto": "La aprobación de la cuenta general.",
+          "correcta": false,
+          "explicacion": "Se aprueba por mayoría simple: no está en la lista del art. 11.2.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.2"
+        },
+        {
+          "texto": "La aprobación y modificación de los reglamentos de naturaleza orgánica.",
+          "correcta": true,
+          "explicacion": "La letra c) está entre las que exigen mayoría absoluta, junto a la e), f), k) y el planeamiento general.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-007",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Cuál de las siguientes competencias del Pleno es delegable?",
+      "opciones": [
+        {
+          "texto": "El control y la fiscalización de los órganos de gobierno.",
+          "correcta": false,
+          "explicacion": "La letra a) es indelegable.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        },
+        {
+          "texto": "El ejercicio de acciones judiciales y administrativas en las materias de su competencia.",
+          "correcta": true,
+          "explicacion": "La letra n) no está en la lista de indelegables del art. 11.3.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        },
+        {
+          "texto": "La aprobación de los presupuestos.",
+          "correcta": false,
+          "explicacion": "La letra h) es indelegable.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-008",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las delegaciones de competencias del Pleno del Ayuntamiento de Madrid sólo podrán realizarse en:",
+      "opciones": [
+        {
+          "texto": "Sus Comisiones.",
+          "correcta": true,
+          "explicacion": "Es el texto literal del último párrafo del art. 11.3.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "El Pleno no puede delegar en la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        },
+        {
+          "texto": "El Alcalde o el Presidente del Pleno.",
+          "correcta": false,
+          "explicacion": "La ley solo admite la delegación en las Comisiones.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-009",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El Secretario General del Pleno prestará asesoramiento legal al Pleno y a las Comisiones cuando lo solicite el Alcalde, el Presidente, en su caso, o:",
+      "opciones": [
+        {
+          "texto": "La cuarta parte, al menos, de los Concejales.",
+          "correcta": true,
+          "explicacion": "Literal del art. 13.1.e.",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.1.e"
+        },
+        {
+          "texto": "Cualquier grupo político municipal.",
+          "correcta": false,
+          "explicacion": "La ley no habilita a un grupo por sí solo.",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.1.e"
+        },
+        {
+          "texto": "Un tercio, al menos, de los Concejales.",
+          "correcta": false,
+          "explicacion": "La fracción es un cuarto.",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.1.e"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-010",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El nombramiento del Secretario General del Pleno corresponde a:",
+      "opciones": [
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "La Junta nombra a los titulares de la Intervención, la Tesorería y la Asesoría Jurídica, pero no al Secretario General del Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) arts. 23, 24 y 28"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": false,
+          "explicacion": "No es competencia del Alcalde.",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.1"
+        },
+        {
+          "texto": "El Presidente del Pleno.",
+          "correcta": true,
+          "explicacion": "Lo nombra el Presidente del Pleno entre funcionarios de Administración local con habilitación de carácter nacional.",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-011",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿A quién corresponde nombrar y cesar a los Presidentes de los Distritos del Ayuntamiento de Madrid?",
+      "opciones": [
+        {
+          "texto": "Al Alcalde.",
+          "correcta": true,
+          "explicacion": "Junto a los miembros de la Junta de Gobierno y los Tenientes de Alcalde.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.3.d"
+        },
+        {
+          "texto": "A la Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "No es competencia de la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.3.d"
+        },
+        {
+          "texto": "Al Pleno.",
+          "correcta": false,
+          "explicacion": "El Pleno crea los distritos, pero no nombra a sus presidentes.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-012",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el artículo 14.4 de la Ley 22/2006, ¿qué atribuciones del Alcalde sólo son delegables en la Junta de Gobierno?",
+      "opciones": [
+        {
+          "texto": "Dictar bandos y adoptar medidas en casos de extraordinaria y urgente necesidad.",
+          "correcta": false,
+          "explicacion": "Son indelegables (letras e, en cuanto a bandos, y f).",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.4"
+        },
+        {
+          "texto": "Determinar el programa de acción política municipal y acordar el número, denominación y competencias de las áreas.",
+          "correcta": true,
+          "explicacion": "Las letras a) y h) solo pueden delegarse en la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.4"
+        },
+        {
+          "texto": "La firma de convenios y la ordenación de pagos.",
+          "correcta": false,
+          "explicacion": "Son delegables en general, también en concejales y órganos directivos.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-013",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Acordar al inicio del mandato el número, denominación y competencias de las áreas en las que se estructura la Administración municipal corresponde a:",
+      "opciones": [
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "La Junta establece la organización y estructura de la Administración ejecutiva (art. 17.1.h), pero no el número de áreas.",
+          "fuente": "Ley 22/2006 (LCREM) arts. 14.3.h y 17.1.h"
+        },
+        {
+          "texto": "El Pleno.",
+          "correcta": false,
+          "explicacion": "El Pleno aprueba las normas orgánicas que enmarcan la decisión, pero esta corresponde al Alcalde.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.3.h"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": true,
+          "explicacion": "En el marco de las normas orgánicas aprobadas por el Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.3.h; ROGA (31/05/2004) art. 40.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-014",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los Tenientes de Alcalde del Ayuntamiento de Madrid:",
+      "opciones": [
+        {
+          "texto": "Los elige el Pleno entre todos los concejales.",
+          "correcta": false,
+          "explicacion": "Los nombra el Alcalde, no el Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 15"
+        },
+        {
+          "texto": "Los nombra el Alcalde entre cualquier miembro de la Junta de Gobierno, sea o no concejal.",
+          "correcta": false,
+          "explicacion": "Tienen que ostentar la condición de concejal.",
+          "fuente": "Ley 22/2006 (LCREM) art. 15"
+        },
+        {
+          "texto": "Los nombra el Alcalde entre los miembros de la Junta de Gobierno que sean concejales, y le sustituyen por el orden de su nombramiento.",
+          "correcta": true,
+          "explicacion": "Literal del art. 15 de la Ley y del art. 34.1 del ROGA.",
+          "fuente": "Ley 22/2006 (LCREM) art. 15; ROGA (31/05/2004) art. 34.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-015",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La Junta de Gobierno responde políticamente ante el Pleno de su gestión de forma:",
+      "opciones": [
+        {
+          "texto": "Solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros.",
+          "correcta": true,
+          "explicacion": "Literal del art. 16.3 de la Ley, repetido en el art. 32.1 del ROGA.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.3; ROGA (31/05/2004) art. 32.1"
+        },
+        {
+          "texto": "Exclusivamente individual de cada uno de sus miembros.",
+          "correcta": false,
+          "explicacion": "La responsabilidad es solidaria.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.3"
+        },
+        {
+          "texto": "Mancomunada, en proporción a las áreas que gestiona cada miembro.",
+          "correcta": false,
+          "explicacion": "La ley habla de responsabilidad solidaria.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-016",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La Secretaría de la Junta de Gobierno de la Ciudad de Madrid corresponde a:",
+      "opciones": [
+        {
+          "texto": "Un funcionario de Administración local con habilitación de carácter nacional.",
+          "correcta": false,
+          "explicacion": "No es así en Madrid: es un miembro de la propia Junta.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.4"
+        },
+        {
+          "texto": "Uno de sus miembros, designado por el Alcalde.",
+          "correcta": true,
+          "explicacion": "El ROGA precisa que debe ser un miembro que ostente la condición de concejal: el concejal-secretario.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.4; ROGA (31/05/2004) art. 17.3"
+        },
+        {
+          "texto": "El Secretario General del Pleno.",
+          "correcta": false,
+          "explicacion": "Es la secretaría del Pleno y de sus Comisiones (art. 13).",
+          "fuente": "Ley 22/2006 (LCREM) art. 13.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-017",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las sesiones de la Junta de Gobierno de la Ciudad de Madrid:",
+      "opciones": [
+        {
+          "texto": "Son siempre secretas, sin excepción.",
+          "correcta": false,
+          "explicacion": "La ley admite sesiones públicas si así lo acuerda la propia Junta.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.5"
+        },
+        {
+          "texto": "Son públicas, salvo que el Alcalde acuerde su carácter secreto.",
+          "correcta": false,
+          "explicacion": "Es al revés: la regla general es el secreto.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.5"
+        },
+        {
+          "texto": "Son secretas, aunque podrán celebrarse sesiones públicas por acuerdo de la propia Junta.",
+          "correcta": true,
+          "explicacion": "Literal del art. 16.5.",
+          "fuente": "Ley 22/2006 (LCREM) art. 16.5; ROGA (31/05/2004) art. 22"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-018",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La aprobación del proyecto de presupuesto del Ayuntamiento de Madrid corresponde a:",
+      "opciones": [
+        {
+          "texto": "El Pleno.",
+          "correcta": false,
+          "explicacion": "El Pleno aprueba el presupuesto, no el proyecto.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.1.h"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": false,
+          "explicacion": "No le corresponde según la ley.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.c"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": true,
+          "explicacion": "La Junta aprueba el proyecto (art. 17.1.c) y tiene en exclusiva la iniciativa presupuestaria (art. 49.1).",
+          "fuente": "Ley 22/2006 (LCREM) arts. 17.1.c y 49.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-019",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "En el Ayuntamiento de Madrid, la creación, modificación o supresión de ficheros de datos de carácter personal corresponde a:",
+      "opciones": [
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": true,
+          "explicacion": "Es una atribución expresa de la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.l"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": false,
+          "explicacion": "No figura entre las atribuciones del Alcalde.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14"
+        },
+        {
+          "texto": "El Pleno.",
+          "correcta": false,
+          "explicacion": "No figura entre las atribuciones del Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-020",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Qué modificaciones presupuestarias del Ayuntamiento de Madrid corresponden en todo caso al Pleno?",
+      "opciones": [
+        {
+          "texto": "La concesión de un crédito extraordinario o suplemento de crédito.",
+          "correcta": true,
+          "explicacion": "La Junta aprueba todas las modificaciones salvo estas, que corresponden en todo caso al Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.g"
+        },
+        {
+          "texto": "Las transferencias de crédito entre distintas áreas de gasto.",
+          "correcta": false,
+          "explicacion": "Las aprueba la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.g"
+        },
+        {
+          "texto": "Todas las que superen el 10 % del presupuesto inicial.",
+          "correcta": false,
+          "explicacion": "La ley no fija ningún umbral porcentual.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.g"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-021",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Aprobar la oferta de empleo público y la relación de puestos de trabajo del Ayuntamiento de Madrid corresponde a:",
+      "opciones": [
+        {
+          "texto": "El Pleno.",
+          "correcta": false,
+          "explicacion": "El Pleno crea escalas y subescalas (art. 11.1.p), pero no aprueba la OEP ni la RPT.",
+          "fuente": "Ley 22/2006 (LCREM) art. 11.1.p"
+        },
+        {
+          "texto": "El Alcalde.",
+          "correcta": false,
+          "explicacion": "El Alcalde nombra al personal (art. 14.3.ñ), pero no aprueba la OEP.",
+          "fuente": "Ley 22/2006 (LCREM) art. 14.3.ñ"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": true,
+          "explicacion": "Junto con las bases de las convocatorias de selección y provisión.",
+          "fuente": "Ley 22/2006 (LCREM) art. 17.1.m"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-022",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Cuál de los siguientes NO es un requisito general para ser titular de un órgano ejecutivo de dirección política y administrativa según el art. 18 de la Ley 22/2006?",
+      "opciones": [
+        {
+          "texto": "No estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme.",
+          "correcta": false,
+          "explicacion": "Sí es requisito, junto a disfrutar del sufragio activo y pasivo en las elecciones municipales.",
+          "fuente": "Ley 22/2006 (LCREM) art. 18.1"
+        },
+        {
+          "texto": "Ostentar la condición de concejal electo.",
+          "correcta": true,
+          "explicacion": "No se exige: pueden ser miembros de la Junta de Gobierno personas que no son concejales.",
+          "fuente": "Ley 22/2006 (LCREM) arts. 16.2 y 18.1"
+        },
+        {
+          "texto": "Ser mayor de edad.",
+          "correcta": false,
+          "explicacion": "Sí es requisito.",
+          "fuente": "Ley 22/2006 (LCREM) art. 18.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-023",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según la Ley 22/2006, la Comisión Interadministrativa de Capitalidad:",
+      "opciones": [
+        {
+          "texto": "Está formada por igual número de miembros de las tres administraciones y su presidencia corresponde al Estado.",
+          "correcta": true,
+          "explicacion": "Su Reglamento se aprueba por unanimidad de sus miembros.",
+          "fuente": "Ley 22/2006 (LCREM) arts. 5.2 y 6"
+        },
+        {
+          "texto": "Está presidida por el Alcalde de Madrid.",
+          "correcta": false,
+          "explicacion": "La presidencia corresponde al Estado.",
+          "fuente": "Ley 22/2006 (LCREM) art. 6.1"
+        },
+        {
+          "texto": "Está formada mayoritariamente por representantes de la Comunidad de Madrid.",
+          "correcta": false,
+          "explicacion": "La composición es paritaria entre las tres administraciones.",
+          "fuente": "Ley 22/2006 (LCREM) art. 5.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-024",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La iniciativa ciudadana para la aprobación de normas de competencia del Pleno requiere un número de ciudadanos igual o superior al:",
+      "opciones": [
+        {
+          "texto": "15 por 100 de los vecinos, excluida la materia presupuestaria.",
+          "correcta": false,
+          "explicacion": "El porcentaje es el 10 % y la exclusión es la materia tributaria.",
+          "fuente": "Ley 22/2006 (LCREM) art. 48.2.c"
+        },
+        {
+          "texto": "10 por 100 de los vecinos, excluida en todo caso la materia tributaria local.",
+          "correcta": true,
+          "explicacion": "Literal del art. 48.2.c.",
+          "fuente": "Ley 22/2006 (LCREM) art. 48.2.c"
+        },
+        {
+          "texto": "5 por 100 de los vecinos, y puede referirse a cualquier materia.",
+          "correcta": false,
+          "explicacion": "Ni el porcentaje ni el alcance son correctos.",
+          "fuente": "Ley 22/2006 (LCREM) art. 48.2.c"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-025",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "En el procedimiento de aprobación de las normas de competencia del Pleno, si el proyecto afecta a derechos e intereses legítimos de los ciudadanos, se someterá a alegaciones durante un plazo:",
+      "opciones": [
+        {
+          "texto": "No inferior a treinta días naturales.",
+          "correcta": true,
+          "explicacion": "Literal del art. 48.3.a.",
+          "fuente": "Ley 22/2006 (LCREM) art. 48.3.a"
+        },
+        {
+          "texto": "De quince días naturales.",
+          "correcta": false,
+          "explicacion": "Quince días naturales es el plazo de exposición pública del proyecto de presupuesto (art. 49.3).",
+          "fuente": "Ley 22/2006 (LCREM) art. 49.3"
+        },
+        {
+          "texto": "No inferior a veinte días hábiles.",
+          "correcta": false,
+          "explicacion": "El plazo se cuenta en días naturales y son treinta.",
+          "fuente": "Ley 22/2006 (LCREM) art. 48.3.a"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-026",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El Proyecto de Presupuesto del Ayuntamiento de Madrid se remitirá al Pleno:",
+      "opciones": [
+        {
+          "texto": "Antes del día 1 de noviembre.",
+          "correcta": true,
+          "explicacion": "Literal del art. 49.5.",
+          "fuente": "Ley 22/2006 (LCREM) art. 49.5"
+        },
+        {
+          "texto": "Antes del día 15 de octubre.",
+          "correcta": false,
+          "explicacion": "La fecha que fija la ley es el 1 de noviembre.",
+          "fuente": "Ley 22/2006 (LCREM) art. 49.5"
+        },
+        {
+          "texto": "Antes del día 1 de diciembre.",
+          "correcta": false,
+          "explicacion": "La fecha que fija la ley es el 1 de noviembre.",
+          "fuente": "Ley 22/2006 (LCREM) art. 49.5"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-027",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El Alcalde y la Junta de Gobierno pueden imponer multas coercitivas como medio de ejecución forzosa de sus actos por un importe de hasta:",
+      "opciones": [
+        {
+          "texto": "3.000 euros, reiteradas por cuantos períodos de 15 días sean suficientes.",
+          "correcta": true,
+          "explicacion": "Literal del art. 52.1; la cuantía se actualiza anualmente con el IPC.",
+          "fuente": "Ley 22/2006 (LCREM) art. 52.1"
+        },
+        {
+          "texto": "6.000 euros, reiteradas mensualmente.",
+          "correcta": false,
+          "explicacion": "Ni la cuantía ni la periodicidad son correctas.",
+          "fuente": "Ley 22/2006 (LCREM) art. 52.1"
+        },
+        {
+          "texto": "1.500 euros, en una única imposición.",
+          "correcta": false,
+          "explicacion": "La multa coercitiva es reiterable por períodos de 15 días.",
+          "fuente": "Ley 22/2006 (LCREM) art. 52.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-028",
+      "tema": 3,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según la Ley 22/2006, el tablón de edictos del Ayuntamiento de Madrid:",
+      "opciones": [
+        {
+          "texto": "Solo puede ser electrónico si lo autoriza la Comunidad de Madrid.",
+          "correcta": false,
+          "explicacion": "No se exige autorización autonómica.",
+          "fuente": "Ley 22/2006 (LCREM) art. 51.2"
+        },
+        {
+          "texto": "Podrá realizarse por medios electrónicos, garantizando el libre acceso mediante terminales en todas las Juntas de Distrito y dependencias municipales.",
+          "correcta": true,
+          "explicacion": "Literal del art. 51.2. El art. 51.1 permite además un Boletín propio en formato electrónico.",
+          "fuente": "Ley 22/2006 (LCREM) art. 51"
+        },
+        {
+          "texto": "Debe publicarse en papel en todas las Juntas de Distrito.",
+          "correcta": false,
+          "explicacion": "La ley permite el formato electrónico.",
+          "fuente": "Ley 22/2006 (LCREM) art. 51.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-029",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el artículo 19.1 de la Ley 22/2006, la Administración del Ayuntamiento de Madrid se organiza y actúa de acuerdo con los principios de:",
+      "opciones": [
+        {
+          "texto": "Jerarquía, eficacia, descentralización territorial, desconcentración, transparencia y servicio al ciudadano.",
+          "correcta": false,
+          "explicacion": "Cambia 'funcional' por 'territorial' y 'coordinación' por 'transparencia'. La transparencia rige las relaciones con los ciudadanos (art. 19.3).",
+          "fuente": "Ley 22/2006 (LCREM) art. 19"
+        },
+        {
+          "texto": "Jerarquía, eficacia, descentralización funcional, desconcentración, coordinación y servicio al ciudadano.",
+          "correcta": true,
+          "explicacion": "Lista literal del art. 19.1.",
+          "fuente": "Ley 22/2006 (LCREM) art. 19.1"
+        },
+        {
+          "texto": "Legalidad, eficiencia, participación, desconcentración, coordinación y servicio al ciudadano.",
+          "correcta": false,
+          "explicacion": "Mezcla términos que no figuran en el art. 19.1.",
+          "fuente": "Ley 22/2006 (LCREM) art. 19.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-030",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El nombramiento del titular de la Intervención General del Ayuntamiento de Madrid corresponde a:",
+      "opciones": [
+        {
+          "texto": "La Junta de Gobierno, entre funcionarios con habilitación de carácter nacional y con previa convocatoria pública.",
+          "correcta": true,
+          "explicacion": "Así lo dispone el art. 23.2. Lo mismo aplica al titular de la Tesorería (art. 24.2).",
+          "fuente": "Ley 22/2006 (LCREM) art. 23.2"
+        },
+        {
+          "texto": "El Pleno, por mayoría absoluta.",
+          "correcta": false,
+          "explicacion": "Por mayoría absoluta el Pleno designa a los miembros del TEAM (art. 25.4), no al Interventor.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.4"
+        },
+        {
+          "texto": "El Alcalde, por libre designación entre funcionarios del Ayuntamiento.",
+          "correcta": false,
+          "explicacion": "Debe ser habilitado nacional y lo nombra la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 23.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-031",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según la Ley 22/2006, la Tesorería es el órgano directivo al que corresponde:",
+      "opciones": [
+        {
+          "texto": "El control interno de la gestión económica y financiera y la función contable.",
+          "correcta": false,
+          "explicacion": "Eso corresponde a la Intervención General.",
+          "fuente": "Ley 22/2006 (LCREM) art. 23.1"
+        },
+        {
+          "texto": "La resolución de las reclamaciones contra actos de aplicación de los tributos.",
+          "correcta": false,
+          "explicacion": "Eso corresponde al TEAM.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.1"
+        },
+        {
+          "texto": "La gestión de los recursos y disponibilidades financieras del Ayuntamiento.",
+          "correcta": true,
+          "explicacion": "Definición del art. 24.1. El ROGA precisa que la tesorería no incluye la recaudación.",
+          "fuente": "Ley 22/2006 (LCREM) art. 24.1; ROGA (31/05/2004) art. 60.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-032",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El Tribunal Económico-Administrativo Municipal de Madrid estará constituido por:",
+      "opciones": [
+        {
+          "texto": "Cinco miembros nombrados por la Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Los designa el Pleno y no hay un número fijo de cinco.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.4"
+        },
+        {
+          "texto": "Un número par de miembros designados por el Alcalde, que tiene voto de calidad.",
+          "correcta": false,
+          "explicacion": "Es impar y lo designa el Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.4"
+        },
+        {
+          "texto": "Un número impar de miembros, con un mínimo de tres, designados por el Pleno por mayoría absoluta.",
+          "correcta": true,
+          "explicacion": "Elegidos entre personas de reconocida competencia técnica.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-033",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Contra la resolución del Tribunal Económico-Administrativo Municipal de Madrid cabe:",
+      "opciones": [
+        {
+          "texto": "Recurso de alzada ante la Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "La resolución pone fin a la vía administrativa.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.2"
+        },
+        {
+          "texto": "Reclamación ante el Tribunal Económico-Administrativo Central.",
+          "correcta": false,
+          "explicacion": "No cabe la vía estatal contra estas resoluciones.",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.2"
+        },
+        {
+          "texto": "Únicamente recurso contencioso-administrativo.",
+          "correcta": true,
+          "explicacion": "La resolución pone fin a la vía administrativa (art. 25.2). La reposición es potestativa, pero antes de la reclamación (art. 25.3).",
+          "fuente": "Ley 22/2006 (LCREM) art. 25.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-034",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El ente autónomo de gestión tributaria del Ayuntamiento de Madrid (Agencia Tributaria Madrid) puede crearlo:",
+      "opciones": [
+        {
+          "texto": "El Ministerio de Hacienda mediante convenio.",
+          "correcta": false,
+          "explicacion": "Es una creación municipal.",
+          "fuente": "Ley 22/2006 (LCREM) art. 26.1"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Es competencia del Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 26.1"
+        },
+        {
+          "texto": "El Pleno.",
+          "correcta": true,
+          "explicacion": "El Pleno puede crearlo y determinar sus competencias, organización y funcionamiento, incluida la recaudación.",
+          "fuente": "Ley 22/2006 (LCREM) art. 26"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-035",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El órgano para la defensa de los derechos de los vecinos ante la Administración municipal deberá dar cuenta al Pleno mediante:",
+      "opciones": [
+        {
+          "texto": "Un informe anual, sin perjuicio de informes extraordinarios.",
+          "correcta": true,
+          "explicacion": "Literal del art. 27.2.",
+          "fuente": "Ley 22/2006 (LCREM) art. 27.2"
+        },
+        {
+          "texto": "Un informe semestral.",
+          "correcta": false,
+          "explicacion": "La periodicidad es anual.",
+          "fuente": "Ley 22/2006 (LCREM) art. 27.2"
+        },
+        {
+          "texto": "Una comparecencia trimestral ante la Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Rinde cuentas al Pleno, no a la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 27.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-036",
+      "tema": 4,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El titular de la Asesoría Jurídica del Ayuntamiento de Madrid:",
+      "opciones": [
+        {
+          "texto": "Es siempre un Abogado del Estado en comisión de servicios.",
+          "correcta": false,
+          "explicacion": "Los Abogados del Estado solo pueden asistir al Ayuntamiento mediante convenio (art. 28.6).",
+          "fuente": "Ley 22/2006 (LCREM) art. 28.6"
+        },
+        {
+          "texto": "Es nombrado y separado por la Junta de Gobierno entre funcionarios licenciados en Derecho o habilitados nacionales.",
+          "correcta": true,
+          "explicacion": "Así lo dispone el art. 28.2. El ROGA le da rango de Dirección General.",
+          "fuente": "Ley 22/2006 (LCREM) art. 28.2; ROGA (31/05/2004) art. 51.2"
+        },
+        {
+          "texto": "Es nombrado por el Pleno a propuesta del Alcalde.",
+          "correcta": false,
+          "explicacion": "Lo nombra la Junta de Gobierno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 28.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-037",
+      "tema": 6,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según la Ley 22/2006, la Presidencia de cada Distrito corresponderá:",
+      "opciones": [
+        {
+          "texto": "Al gerente o coordinador del distrito.",
+          "correcta": false,
+          "explicacion": "La figura directiva del distrito no ostenta la presidencia.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.2"
+        },
+        {
+          "texto": "A un vecino elegido por la Junta Municipal del Distrito.",
+          "correcta": false,
+          "explicacion": "Debe ser un concejal.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.2"
+        },
+        {
+          "texto": "En todo caso a un Concejal.",
+          "correcta": true,
+          "explicacion": "Literal del art. 22.2.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-038",
+      "tema": 6,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los Distritos del Ayuntamiento de Madrid se crean por:",
+      "opciones": [
+        {
+          "texto": "El Alcalde, mediante decreto de estructura.",
+          "correcta": false,
+          "explicacion": "La creación corresponde al Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.1"
+        },
+        {
+          "texto": "El Pleno, como divisiones territoriales con órganos de gestión desconcentrada.",
+          "correcta": true,
+          "explicacion": "Su finalidad es impulsar la participación ciudadana, sin perjuicio de la unidad de gobierno y gestión de la ciudad.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.1; ROGA (31/05/2004) art. 61"
+        },
+        {
+          "texto": "La Comunidad de Madrid, a propuesta del Ayuntamiento.",
+          "correcta": false,
+          "explicacion": "Es una competencia municipal del Pleno.",
+          "fuente": "Ley 22/2006 (LCREM) art. 22.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-039",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, la organización administrativa del Ayuntamiento de Madrid responde a los principios de:",
+      "opciones": [
+        {
+          "texto": "División funcional en Áreas de Gobierno y gestión territorial integrada en distritos.",
+          "correcta": true,
+          "explicacion": "Literal del art. 5.",
+          "fuente": "ROGA (31/05/2004) art. 5"
+        },
+        {
+          "texto": "Centralización funcional y descentralización territorial en Juntas Municipales.",
+          "correcta": false,
+          "explicacion": "No es la formulación del art. 5.",
+          "fuente": "ROGA (31/05/2004) art. 5"
+        },
+        {
+          "texto": "Jerarquía administrativa y autonomía de los organismos públicos.",
+          "correcta": false,
+          "explicacion": "No es la formulación del art. 5.",
+          "fuente": "ROGA (31/05/2004) art. 5"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-040",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, el Ayuntamiento de Madrid se organiza en:",
+      "opciones": [
+        {
+          "texto": "Áreas de Gobierno, Juntas de Distrito y sociedades mercantiles.",
+          "correcta": false,
+          "explicacion": "No es la clasificación del art. 6.",
+          "fuente": "ROGA (31/05/2004) art. 6"
+        },
+        {
+          "texto": "Órganos centrales, territoriales y organismos públicos.",
+          "correcta": true,
+          "explicacion": "Los centrales actúan sobre todo el municipio y los territoriales solo en su distrito.",
+          "fuente": "ROGA (31/05/2004) art. 6"
+        },
+        {
+          "texto": "Órganos de gobierno, órganos de control y órganos consultivos.",
+          "correcta": false,
+          "explicacion": "No es la clasificación del art. 6.",
+          "fuente": "ROGA (31/05/2004) art. 6"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-041",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, son órganos superiores de gobierno y administración del Ayuntamiento de Madrid:",
+      "opciones": [
+        {
+          "texto": "Los coordinadores generales y los directores generales.",
+          "correcta": false,
+          "explicacion": "Son órganos directivos (art. 7.3).",
+          "fuente": "ROGA (31/05/2004) art. 7.3"
+        },
+        {
+          "texto": "El alcalde y los miembros de la Junta de Gobierno Local.",
+          "correcta": true,
+          "explicacion": "A efectos del ROGA también lo son la propia Junta, los demás concejales con responsabilidades de gobierno y los concejales-presidentes de distrito.",
+          "fuente": "ROGA (31/05/2004) art. 7.2"
+        },
+        {
+          "texto": "El Pleno y sus Comisiones.",
+          "correcta": false,
+          "explicacion": "El ROGA no regula el Pleno, que tiene su propio Reglamento Orgánico (art. 1.2).",
+          "fuente": "ROGA (31/05/2004) art. 1.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-042",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, el alcalde de Madrid tendrá el tratamiento de:",
+      "opciones": [
+        {
+          "texto": "Señoría.",
+          "correcta": false,
+          "explicacion": "No es el tratamiento que fija el ROGA.",
+          "fuente": "ROGA (31/05/2004) art. 9.3"
+        },
+        {
+          "texto": "Ilustrísima.",
+          "correcta": false,
+          "explicacion": "Ese es el tratamiento de los tenientes de alcalde.",
+          "fuente": "ROGA (31/05/2004) art. 34.3"
+        },
+        {
+          "texto": "Excelencia.",
+          "correcta": true,
+          "explicacion": "Art. 9.3. Los tenientes de alcalde tienen el de ilustrísima (art. 34.3).",
+          "fuente": "ROGA (31/05/2004) arts. 9.3 y 34.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-043",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La renuncia del alcalde a su cargo:",
+      "opciones": [
+        {
+          "texto": "Le hace perder también la condición de concejal.",
+          "correcta": false,
+          "explicacion": "Puede renunciar sin perder la condición de concejal.",
+          "fuente": "ROGA (31/05/2004) art. 13"
+        },
+        {
+          "texto": "Requiere la aceptación de la Junta de Gobierno por mayoría absoluta.",
+          "correcta": false,
+          "explicacion": "El Pleno solo toma conocimiento de la renuncia.",
+          "fuente": "ROGA (31/05/2004) art. 13"
+        },
+        {
+          "texto": "Debe hacerse efectiva por escrito ante el Pleno, que adoptará acuerdo de conocimiento dentro de los diez días siguientes.",
+          "correcta": true,
+          "explicacion": "Literal del art. 13.",
+          "fuente": "ROGA (31/05/2004) art. 13"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-044",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El alcalde puede nombrar miembros de la Junta de Gobierno a personas que no sean concejales siempre que su número:",
+      "opciones": [
+        {
+          "texto": "No supere un tercio del número legal de miembros del Pleno.",
+          "correcta": false,
+          "explicacion": "Ese tercio del Pleno es el límite del total de miembros de la Junta (art. 17.1), no de los no concejales.",
+          "fuente": "ROGA (31/05/2004) art. 17.1"
+        },
+        {
+          "texto": "No supere la mitad de sus miembros.",
+          "correcta": false,
+          "explicacion": "El límite es un tercio.",
+          "fuente": "ROGA (31/05/2004) art. 17.2"
+        },
+        {
+          "texto": "No supere un tercio de sus miembros, excluido el alcalde.",
+          "correcta": true,
+          "explicacion": "Literal del art. 17.2. Se denominan consejeros-delegados de Gobierno (art. 36).",
+          "fuente": "ROGA (31/05/2004) art. 17.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-045",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Para la válida constitución de la Junta de Gobierno de la Ciudad de Madrid se requiere, entre otros requisitos:",
+      "opciones": [
+        {
+          "texto": "La presencia de dos tercios de sus miembros.",
+          "correcta": false,
+          "explicacion": "Basta la mitad, al menos.",
+          "fuente": "ROGA (31/05/2004) art. 20.4"
+        },
+        {
+          "texto": "La presencia del Secretario General del Pleno.",
+          "correcta": false,
+          "explicacion": "Se exige al concejal-secretario de la Junta.",
+          "fuente": "ROGA (31/05/2004) art. 20.4"
+        },
+        {
+          "texto": "Que el número de miembros presentes con condición de concejal sea superior al de los que no la ostentan.",
+          "correcta": true,
+          "explicacion": "Además de la presencia del alcalde, el concejal-secretario y la mitad al menos de sus miembros.",
+          "fuente": "ROGA (31/05/2004) art. 20.4"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-046",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El acta de una sesión de la Junta de Gobierno se entenderá aprobada si, tras su remisión a los miembros:",
+      "opciones": [
+        {
+          "texto": "Transcurren diez días naturales sin observaciones.",
+          "correcta": false,
+          "explicacion": "El plazo es de tres días hábiles.",
+          "fuente": "ROGA (31/05/2004) art. 24.3"
+        },
+        {
+          "texto": "Transcurren tres días hábiles sin observaciones.",
+          "correcta": true,
+          "explicacion": "El concejal-secretario debe remitirla en un plazo no superior a dos días hábiles.",
+          "fuente": "ROGA (31/05/2004) art. 24.3"
+        },
+        {
+          "texto": "Se vota en la siguiente sesión ordinaria.",
+          "correcta": false,
+          "explicacion": "Se aprueba tácitamente si no hay observaciones.",
+          "fuente": "ROGA (31/05/2004) art. 24.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-047",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La Comisión Preparatoria de la Junta de Gobierno está integrada por:",
+      "opciones": [
+        {
+          "texto": "Los directores generales de cada Área, bajo la presidencia del Secretario General del Pleno.",
+          "correcta": false,
+          "explicacion": "No es su composición.",
+          "fuente": "ROGA (31/05/2004) art. 29.1"
+        },
+        {
+          "texto": "Todos los secretarios generales técnicos, bajo la presidencia del vicealcalde.",
+          "correcta": true,
+          "explicacion": "Estudia previamente los asuntos que se elevarán al Pleno o a la Junta de Gobierno.",
+          "fuente": "ROGA (31/05/2004) art. 29"
+        },
+        {
+          "texto": "Todos los concejales de Gobierno, bajo la presidencia del alcalde.",
+          "correcta": false,
+          "explicacion": "No es su composición.",
+          "fuente": "ROGA (31/05/2004) art. 29.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-048",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, el primer teniente de alcalde se denominará:",
+      "opciones": [
+        {
+          "texto": "Vicealcalde.",
+          "correcta": true,
+          "explicacion": "Literal del art. 34.4.",
+          "fuente": "ROGA (31/05/2004) art. 34.4"
+        },
+        {
+          "texto": "Portavoz del Gobierno.",
+          "correcta": false,
+          "explicacion": "Es una función que puede atribuirse, pero no la denominación del primer teniente de alcalde.",
+          "fuente": "ROGA (31/05/2004) art. 34.4"
+        },
+        {
+          "texto": "Concejal-secretario.",
+          "correcta": false,
+          "explicacion": "Es el miembro de la Junta que levanta acta (art. 17.3).",
+          "fuente": "ROGA (31/05/2004) art. 17.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-049",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, ¿quiénes son los consejeros-delegados de Gobierno?",
+      "opciones": [
+        {
+          "texto": "Los titulares de las Secretarías Generales Técnicas.",
+          "correcta": false,
+          "explicacion": "Son órganos directivos, no superiores.",
+          "fuente": "ROGA (31/05/2004) art. 7.3"
+        },
+        {
+          "texto": "Los miembros de la Junta de Gobierno que no ostentan la condición de concejal.",
+          "correcta": true,
+          "explicacion": "Tienen las mismas funciones que los concejales de Gobierno.",
+          "fuente": "ROGA (31/05/2004) art. 36"
+        },
+        {
+          "texto": "Los concejales que no forman parte de la Junta de Gobierno y dirigen un Área Delegada.",
+          "correcta": false,
+          "explicacion": "Esos son los concejales-delegados (art. 38).",
+          "fuente": "ROGA (31/05/2004) art. 38"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-050",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los concejales de Coordinación y los concejales-delegados:",
+      "opciones": [
+        {
+          "texto": "No forman parte de la Junta de Gobierno y actúan bajo la superior dirección de un concejal de Gobierno o consejero-delegado de Gobierno.",
+          "correcta": true,
+          "explicacion": "Literal de los arts. 37.1 y 38.1.",
+          "fuente": "ROGA (31/05/2004) arts. 37 y 38"
+        },
+        {
+          "texto": "Son nombrados por el Pleno a propuesta del alcalde.",
+          "correcta": false,
+          "explicacion": "Se los asigna el alcalde.",
+          "fuente": "ROGA (31/05/2004) arts. 37.1 y 38.1"
+        },
+        {
+          "texto": "Son miembros natos de la Junta de Gobierno.",
+          "correcta": false,
+          "explicacion": "Precisamente no forman parte de la Junta.",
+          "fuente": "ROGA (31/05/2004) arts. 37.1 y 38.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-051",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Las resoluciones administrativas de los concejales de Gobierno revisten la forma de:",
+      "opciones": [
+        {
+          "texto": "Decreto.",
+          "correcta": true,
+          "explicacion": "Se denominan «decretos del concejal de Gobierno». Los órganos directivos dictan «resoluciones» (art. 50).",
+          "fuente": "ROGA (31/05/2004) arts. 39 y 50"
+        },
+        {
+          "texto": "Acuerdo.",
+          "correcta": false,
+          "explicacion": "Esa es la forma de las decisiones de la Junta de Gobierno (art. 25).",
+          "fuente": "ROGA (31/05/2004) art. 25"
+        },
+        {
+          "texto": "Resolución.",
+          "correcta": false,
+          "explicacion": "Esa es la forma de los actos de los órganos directivos.",
+          "fuente": "ROGA (31/05/2004) art. 50"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-052",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, ¿cuál de estos puestos directivos NO puede ser provisto por personal que no ostente la condición de funcionario?",
+      "opciones": [
+        {
+          "texto": "Ninguno: todos pueden ser no funcionarios si el decreto de estructura lo prevé.",
+          "correcta": false,
+          "explicacion": "La excepción no alcanza al secretario general técnico.",
+          "fuente": "ROGA (31/05/2004) art. 49.3"
+        },
+        {
+          "texto": "Secretario general técnico.",
+          "correcta": true,
+          "explicacion": "El art. 49.3 excluye expresamente al secretario general técnico de esa excepción.",
+          "fuente": "ROGA (31/05/2004) art. 49.3"
+        },
+        {
+          "texto": "Coordinador general.",
+          "correcta": false,
+          "explicacion": "El art. 49.3 permite expresamente proveerlo por personal no funcionario.",
+          "fuente": "ROGA (31/05/2004) art. 49.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-053",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Los coordinadores generales, los secretarios generales técnicos y los directores generales son nombrados y cesados por:",
+      "opciones": [
+        {
+          "texto": "El titular del Área de Gobierno correspondiente.",
+          "correcta": false,
+          "explicacion": "El titular del Área solo propone a la Junta el nombramiento (art. 44.j).",
+          "fuente": "ROGA (31/05/2004) art. 44.j"
+        },
+        {
+          "texto": "La Junta de Gobierno.",
+          "correcta": true,
+          "explicacion": "Coincide con el art. 17.1.h de la Ley 22/2006 (nombramiento de los titulares de órganos directivos).",
+          "fuente": "ROGA (31/05/2004) art. 49.1; Ley 22/2006 (LCREM) art. 17.1.h"
+        },
+        {
+          "texto": "El alcalde.",
+          "correcta": false,
+          "explicacion": "Los nombra la Junta de Gobierno.",
+          "fuente": "ROGA (31/05/2004) art. 49.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-054",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, los informes de letrado de la Asesoría Jurídica:",
+      "opciones": [
+        {
+          "texto": "Son vinculantes solo en materia de contratación.",
+          "correcta": false,
+          "explicacion": "No son vinculantes en ningún caso.",
+          "fuente": "ROGA (31/05/2004) art. 57.3"
+        },
+        {
+          "texto": "Son vinculantes y se emiten en quince días.",
+          "correcta": false,
+          "explicacion": "No son vinculantes y el plazo es de diez días.",
+          "fuente": "ROGA (31/05/2004) art. 57.3"
+        },
+        {
+          "texto": "No son vinculantes y se emiten en el plazo de diez días, salvo que el procedimiento exija uno menor.",
+          "correcta": true,
+          "explicacion": "Literal del art. 57.3.",
+          "fuente": "ROGA (31/05/2004) art. 57.3"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-055",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, la Intervención General ejerce el control y fiscalización interna en su triple acepción de:",
+      "opciones": [
+        {
+          "texto": "Control previo, control concomitante y control posterior.",
+          "correcta": false,
+          "explicacion": "No es la formulación del ROGA.",
+          "fuente": "ROGA (31/05/2004) art. 59.1"
+        },
+        {
+          "texto": "Función contable, función presupuestaria y función recaudatoria.",
+          "correcta": false,
+          "explicacion": "No es la formulación del ROGA.",
+          "fuente": "ROGA (31/05/2004) art. 59.1"
+        },
+        {
+          "texto": "Función interventora, función de control financiero y función de control de eficacia.",
+          "correcta": true,
+          "explicacion": "Literal del art. 59.1.",
+          "fuente": "ROGA (31/05/2004) art. 59.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-056",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, los órganos colegiados son aquellos que se creen formalmente y estén integrados por:",
+      "opciones": [
+        {
+          "texto": "Tres o más personas.",
+          "correcta": true,
+          "explicacion": "Con funciones de decisión, asesoramiento, seguimiento, coordinación y control.",
+          "fuente": "ROGA (31/05/2004) art. 73.1"
+        },
+        {
+          "texto": "Cinco o más personas.",
+          "correcta": false,
+          "explicacion": "El mínimo es tres.",
+          "fuente": "ROGA (31/05/2004) art. 73.1"
+        },
+        {
+          "texto": "Dos o más personas.",
+          "correcta": false,
+          "explicacion": "El mínimo es tres.",
+          "fuente": "ROGA (31/05/2004) art. 73.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-057",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "La creación, modificación, refundición y supresión de los organismos públicos del Ayuntamiento de Madrid corresponde a:",
+      "opciones": [
+        {
+          "texto": "El Pleno, que aprueba sus estatutos a propuesta de la Junta de Gobierno.",
+          "correcta": true,
+          "explicacion": "Concuerda con el art. 11.1.l de la Ley 22/2006.",
+          "fuente": "ROGA (31/05/2004) art. 81.1; Ley 22/2006 (LCREM) art. 11.1.l"
+        },
+        {
+          "texto": "El alcalde, mediante decreto.",
+          "correcta": false,
+          "explicacion": "Corresponde al Pleno.",
+          "fuente": "ROGA (31/05/2004) art. 81.1"
+        },
+        {
+          "texto": "La Junta de Gobierno, a propuesta del Área de adscripción.",
+          "correcta": false,
+          "explicacion": "La Junta solo propone.",
+          "fuente": "ROGA (31/05/2004) art. 81.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-058",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "¿Qué potestad NO corresponde a los organismos públicos del Ayuntamiento de Madrid, con la salvedad de la Gerencia Municipal de Urbanismo?",
+      "opciones": [
+        {
+          "texto": "La potestad sancionadora.",
+          "correcta": false,
+          "explicacion": "No es la excluida por el art. 79.2.",
+          "fuente": "ROGA (31/05/2004) art. 79.2"
+        },
+        {
+          "texto": "La potestad expropiatoria.",
+          "correcta": true,
+          "explicacion": "El art. 79.2 la excluye expresamente.",
+          "fuente": "ROGA (31/05/2004) art. 79.2"
+        },
+        {
+          "texto": "La potestad de autoorganización.",
+          "correcta": false,
+          "explicacion": "No es la excluida por el art. 79.2.",
+          "fuente": "ROGA (31/05/2004) art. 79.2"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-059",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "Según el ROGA, son órganos de dirección de los organismos autónomos:",
+      "opciones": [
+        {
+          "texto": "El Consejo de Administración, el Presidente y el Secretario.",
+          "correcta": false,
+          "explicacion": "El Consejo de Administración es propio de las entidades públicas empresariales (art. 108).",
+          "fuente": "ROGA (31/05/2004) art. 108"
+        },
+        {
+          "texto": "La Junta General, el Consejero Delegado y el Director General.",
+          "correcta": false,
+          "explicacion": "Esa terminología es propia de sociedades mercantiles.",
+          "fuente": "ROGA (31/05/2004) art. 85.1"
+        },
+        {
+          "texto": "El Consejo Rector, el Presidente, el Vicepresidente y el Gerente.",
+          "correcta": true,
+          "explicacion": "Lista del art. 85.1. Pueden existir además Consejos Asesores.",
+          "fuente": "ROGA (31/05/2004) art. 85.1"
+        }
+      ]
+    },
+    {
+      "id": "mad-g1-060",
+      "tema": 5,
+      "origen": "propia-ley22-roga",
+      "verificada": false,
+      "confianza": "alta",
+      "anulada": false,
+      "enunciado": "El gerente de un organismo autónomo municipal, si procede del sector privado, debe ser titulado superior con más de:",
+      "opciones": [
+        {
+          "texto": "Diez años de ejercicio profesional.",
+          "correcta": false,
+          "explicacion": "Se exigen más de cinco años.",
+          "fuente": "ROGA (31/05/2004) art. 93.1"
+        },
+        {
+          "texto": "Cinco años de ejercicio profesional.",
+          "correcta": true,
+          "explicacion": "Lo nombra libremente la Junta de Gobierno a propuesta del Consejo Rector.",
+          "fuente": "ROGA (31/05/2004) art. 93.1"
+        },
+        {
+          "texto": "Tres años de ejercicio profesional.",
+          "correcta": false,
+          "explicacion": "Se exigen más de cinco años.",
+          "fuente": "ROGA (31/05/2004) art. 93.1"
+        }
+      ]
+    }
+  ]
+}
